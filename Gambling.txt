@@ -1,0 +1,4 @@
+! Title: Shub's Gambling Filter
+! Description: Filter to Block Gambling Sites
+! Entries:
+! Version:
