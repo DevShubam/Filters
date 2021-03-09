@@ -18,6 +18,10 @@ Here are all the URLs of my filters
 
 [Ads](https://raw.githubusercontent.com/DevShubam/Filters/main/ads.txt)
 
+[Trackers](https://raw.githubusercontent.com/DevShubam/Filters/main/Trackers.txt)
+
+[Malware](https://raw.githubusercontent.com/DevShubam/Filters/main/Malware.txt)
+
 ## Whitelists
 Alongside the blacklists I maintain, I also make whitelists. I have one large whitelist, and several smaller ones. I am still working on them.
 
