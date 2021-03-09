@@ -4,12 +4,14 @@
 Where I am storing all of my Filterlists
 
 Coming Soon:
-Ads
-Trackers
-Malware
-Gambling
-Mobile Ads/Trackers
-Filters made to block large corparations
+Ads,
+Trackers,
+Malware,
+Gambling,
+Mobile Ads/Trackers,
+Filters made to block large corparations,
+One large whitelist, 
+Smaller Whitelists for specific things,
 
 ## Installation
 
