@@ -24,8 +24,9 @@ Here are all the URLs of my filters
 
 [Gambling](https://raw.githubusercontent.com/DevShubam/Filters/main/Gambling.txt)
 
-[Fake Generators]()
+[Fake Generators](https://raw.githubusercontent.com/DevShubam/Filters/main/fake_generators.txt)
 
+[Crpto Miners](https://raw.githubusercontent.com/DevShubam/Filters/main/crypto.txt)
 ## Whitelists
 Alongside the blacklists I maintain, I also make whitelists. I have one large whitelist, and several smaller ones. I am still working on them.
 
