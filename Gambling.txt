@@ -1,4 +1,18 @@
 ! Title: Shub's Gambling Filter
 ! Description: Filter to Block Gambling Sites
-! Entries:
-! Version:
+! Entries: 14
+! Version: 2021.03.12
+crownbet.com.au
+crownbet.com
+williamhill.com.au
+sports.intertops.eu
+ladbrokes.com.au
+topbetta.com.au
+palmerbet.com
+pointsbet.com
+betfair.com.au
+unibet.com.au
+madbookie.com.au
+madbookie.com
+10bet.com
+bet365.com
