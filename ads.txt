@@ -3,9 +3,11 @@
 ! Entries: 868
 ! Version: 2021.03.09
 0gs5mb24su.ru
-googleadservices.com
-ad.doubleclick.net
-adservice.google.com
+||googleadservices.com^
+||doubleclick.net^
+||adservice.google.com^
+tapjoyads.com
+||tapjoy.com^
 ads.mopub.com
 ads.nexage.com
 ad-balancer.at
