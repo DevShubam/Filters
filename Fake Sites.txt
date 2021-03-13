@@ -1,0 +1,6 @@
+! Title: Shub's Fake Site Filter
+! Description: Filter to block fake and imposter sites.
+! Version: 2021.03.12
+! Entries: 2
+speedtest.com
+ubuntu.org
