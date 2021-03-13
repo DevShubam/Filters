@@ -30,6 +30,10 @@ Here are all the URLs of my filters
 
 [Scams](https://raw.githubusercontent.com/DevShubam/Filters/main/scam.txt)
 
+[Fake Sites](https://raw.githubusercontent.com/DevShubam/Filters/main/Fake%20Sites.txt)
+
+
+
 ## Whitelists
 Alongside the blacklists I maintain, I also make whitelists. I have one large whitelist, and several smaller ones. I am still working on them.
 
