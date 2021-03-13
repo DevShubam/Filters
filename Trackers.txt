@@ -1,4 +1,9 @@
 ! Title: Shub's Anti Tracker Filter
 ! Description: Filter to Block Trackers on uBlock Origin and AdGuard
-! Entries: 
-! Version: 
+! Entries: 5
+! Version: 2021.03.12
+45.gs
+51.la
+1s3h4f7sl.com
+51yes.com
+5293.com
