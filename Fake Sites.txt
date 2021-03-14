@@ -1,8 +1,7 @@
 ! Title: Shub's Fake Site Filter
 ! Description: Filter to block fake and imposter sites
-! Version: 2
+! Version: 3
 ! Entries: 2
 ! Last Modified: March 14, 2021
-! Expires: 7 Days (Update Frequency)
 speedtest.com
 ubuntu.org
