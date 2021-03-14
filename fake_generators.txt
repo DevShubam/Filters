@@ -1,5 +1,6 @@
 ! Title: Shub's Fake Generator Filter
 ! Description: Block those annoying fake generator sites
-! Version: 
+! Version: 2021.03.14
 ! Entries:
 7tools.eu
+clash.blaow.pro
