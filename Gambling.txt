@@ -1,9 +1,8 @@
 ! Title: Shub's Gambling Filter
 ! Description: Filter to Block Gambling Sites
 ! Entries: 14
-! Version: 4
+! Version: 5
 ! Last Modified: March 14, 2021
-! Expires: 7 Days (Update Frequency)
 crownbet.com.au
 crownbet.com
 williamhill.com.au
