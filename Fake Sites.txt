@@ -1,7 +1,11 @@
 ! Title: Shub's Fake Site Filter
 ! Description: Filter to block fake and imposter sites
 ! Version: 3
-! Entries: 2
+! Entries: 5
 ! Last Modified: March 14, 2021
 speedtest.com
 ubuntu.org
+! Use fitgirl-repacks.site
+fitgirlrepacks.co
+fitgirl-repacks.website
+fitgirl-repacks.cc
