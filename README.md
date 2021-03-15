@@ -5,6 +5,12 @@ Where I am storing all of my Filterlists
 
 Lots of new things are coming soon!
 
+## Tools
+
+Tools I use
+
+https://abpvn.com/ruleChecker/redundantRuleChecker.html Check for redundant rules!
+
 ## Installation
 
 These lists are 100% compatible with AdGuard and uBlock Origin, but only some are compatible with Pi-Hole. Since each software is different, I can't tell you how to add them. There are tutorials all over the web.
