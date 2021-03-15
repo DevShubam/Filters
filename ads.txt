@@ -1,7 +1,7 @@
 ! Title: Shub's Ad Filter
 ! Description: Filter to Block Ads on uBlock Origin and AdGuard
-! Entries: 868
-! Version: 11
+! Entries: 864
+! Version: 12
 ! Last Modified: March 14, 2021
 0gs5mb24su.ru
 ||googleadservices.com^
@@ -258,7 +258,6 @@ adminder.com
 adminshop.com
 admized.com
 admob.com
-admob.comadwhirl.com
 admobile.com
 admonitor.com
 admotion.com.ar
@@ -339,7 +338,6 @@ ads.belointeractive.com
 ads.berlinonline.de
 ads.betanews.com
 ads.betfair.com
-ads.betfair.com.au
 ads.bigchurch.com
 ads.bigfoot.com
 ads.billiton.de
@@ -362,7 +360,6 @@ ads.canoe.ca
 ads.casinocity.com
 ads.cbc.ca
 ads.cc
-ads.cc-dt.com
 ads.cdn.rovio.com
 ads.centraliprom.com
 ads.cgnetworks.com
@@ -815,7 +812,6 @@ adtriplex.com
 adtruth.com
 adultadvertising.com
 adultmoda.com
-adv-adserver.com
 adv-banner.libero.it
 adv.cooperhosting.net
 adv.freeonline.it
