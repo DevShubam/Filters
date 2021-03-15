@@ -1,0 +1,10 @@
+! Title: Shub's Fake uBlock Origin Blacklist
+! Description: uBlock Origin is awesome. Of course some scummy people are trying to profit from this by making fake sites asking for donations and simply cloning the extension and changing the name. Gorhill has stated he wants NO DONATIONS. uBlock Origin Should Only be Installed from here: https://github.com/gorhill/uBlock#installation 
+! Version: 1
+! Entries: 2
+! Last Modified: March 15, 2021
+! https://github.com/gorhill/uBlock#installation
+! https://github.com/gorhill/uBlock/wiki/Why-don't-you-accept-donations%3F
+!
+||ublock.org^ ! Fake Site
+ublock.org##div.col-sm-6.col-md-6:nth-of-type(2) ! Makes Sure the Donate Button Stays Blocked
