@@ -1,0 +1,11 @@
+! Title: Shub's Bad Extension Blocker
+! Description: Blocks Unsafe and Fake / Imposter Browser Extensions This includes, but is not limited to: Bad AdBlockers, Unsafe Extensions, Shady VPN's, and more!
+! Version: 1
+! Entries: 2
+! Last Modified: March 14, 2021
+! ────────────────────────────────────────────────────────────────────────────────────────────
+! PLEASE USE uBlock Orgin or AdGuard or AdBlock Plus for your AdBlocking Needs!
+! AdBlock - "Best AdBlock"
+chrome.google.com/webstore/detail/adblock-—-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom
+getadblock.com
+!
