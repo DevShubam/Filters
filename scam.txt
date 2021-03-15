@@ -1,7 +1,7 @@
 ! Title: Shub's Anti Scam Filer
 ! Description: Restricts access to sites made to scam.
-! Version: 5
-! Entries: 6
+! Version: 6
+! Entries: 16
 ! Last Modified: March 14, 2021
 binarycent.com
 binarycent24.com
@@ -9,3 +9,13 @@ binaryfxoptions.com
 binarygiantfunds.com
 binfashiontrending.co
 bingoptionstrade.com
+proasdf.com
+funeducation.com
+iq-research.info
+iq-test.co.uk
+iqtest.co.uk
+iqtest.com
+iqtestnow.org
+iqtestonline24.com
+test-iq.org
+officialiqtests.com
