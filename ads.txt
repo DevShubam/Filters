@@ -1,8 +1,8 @@
 ! Title: Shub's Ad Filter
 ! Description: Filter to Block Ads on uBlock Origin and AdGuard
 ! Entries: 864
-! Version: 12
-! Last Modified: March 14, 2021
+! Version: 13
+! Last Modified: March 15, 2021
 0gs5mb24su.ru
 ||googleadservices.com^
 ||doubleclick.net^
