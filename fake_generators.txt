@@ -1,9 +1,12 @@
 ! Title: Shub's Fake Generator Filter
 ! Description: Block those annoying fake generator sites
 ! Version: 4
-! Entries: 3
-! Last Modified: March 14, 2021
+! Entries: 5
+! Last Modified: March 15, 2021
 ! Expires: 7 Days (Update Frequency)
-7tools.eu
-clash.blaow.pro
-generator4all.com
+||7tools.eu^
+||clash.blaow.pro^
+||generator4all.com^
+||gamex.codes^
+||gametrick.top^
+gametrick.top##.mainStuff
