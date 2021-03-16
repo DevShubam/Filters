@@ -1,7 +1,7 @@
 ! Title: Shub's Gambling Filter
 ! Description: Filter to Block Gambling Sites
-! Entries: 14
-! Version: 5
+! Entries: 15
+! Version: 6
 ! Last Modified: March 14, 2021
 crownbet.com.au
 crownbet.com
@@ -17,3 +17,4 @@ madbookie.com.au
 madbookie.com
 10bet.com
 bet365.com
+europacasino.com
