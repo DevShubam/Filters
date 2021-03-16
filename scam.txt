@@ -1,8 +1,8 @@
 ! Title: Shub's Anti Scam Filer
 ! Description: Restricts access to sites made to scam.
-! Version: 7
-! Entries: 17
-! Last Modified: March 14, 2021
+! Version: 9
+! Entries: 19
+! Last Modified: March 16, 2021
 binarycent.com
 binarycent24.com
 binaryfxoptions.com
