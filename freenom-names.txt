@@ -1,0 +1,5 @@
+# They begin with these endpoints, if it is hosted by cloudflare using freenom it should be fine
+.tk
+.ml
+.gq
+.ga
