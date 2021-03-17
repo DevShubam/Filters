@@ -38,10 +38,7 @@ Here are all the URLs of my filters
 
 [Fake Sites](https://raw.githubusercontent.com/DevShubam/Filters/main/Fake%20Sites.txt)
 
-[Bad Extensions](https://raw.githubusercontent.com/DevShubam/Filters/main/Bad%20Extensions.txt
-
-[Anti Fake uBlock Origin](https://raw.githubusercontent.com/DevShubam/Filters/main/Fake%20uBlock%20Origin.txt)
-
+[Bad Extensions](https://raw.githubusercontent.com/DevShubam/Filters/main/Bad%20Extensions.txt)
 ## Whitelists
 Alongside the blacklists I maintain, I also make whitelists. I have one large whitelist, and several smaller ones. I am still working on them.
 
