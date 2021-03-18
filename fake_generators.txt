@@ -1,8 +1,8 @@
 ! Title: Shub's Fake Generator Filter
 ! Description: Block those annoying fake generator sites, updated whenever I come accross some.
-! Version: 7
-! Entries: 6
-! Last Modified: March 16, 2021
+! Version: 8
+! Entries: 7
+! Last Modified: March 17, 2021
 ||7tools.eu^
 ||clash.blaow.pro^
 ||generator4all.com^
@@ -10,3 +10,4 @@
 ||gametrick.top^
 gametrick.top##.mainStuff
 gamecurrencygenerator.weebly.com###main-wrap
+||reapinfo.org^
