@@ -1,15 +1,19 @@
-! Title: Shub's Fake Site Filter
-! Description: Filter to block fake and imposter sites
-! Version: 7
-! Entries: 9
-! Last Modified: March 21, 2021
+# Title: Shub's Fake Site Filter
+# Description: Filter to block fake and imposter sites
+# Version: 8
+# Entries: 13
+# Last Modified: March 25, 2021
 speedtest.com
 ubuntu.org
-! Use fitgirl-repacks.site
+# Use fitgirl-repacks.site
 fitgirlrepacks.co
 fitgirl-repacks.website
 fitgirl-repacks.cc
 gothub.com
 totallynotascam.com
 ublock.org
-||steamunlocked.cc
+steamunlocked.cc
+gooogle.com
+goooogle.com
+yourtube.com
+yotube.com
