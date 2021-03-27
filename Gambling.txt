@@ -1,7 +1,7 @@
 ! Title: Shub's Gambling Filter
 ! Description: Filter to Block Gambling Sites
-! Entries: 22
-! Version: 10
+! Entries: 23
+! Version: 11
 ! Last Modified: March 26, 2021
 ||crownbet.com.au^
 ||crownbet.com^
@@ -25,3 +25,4 @@
 ||playnow.com^
 ||12bet.com^
 ||10bet.com^
+||thegreek.com^
