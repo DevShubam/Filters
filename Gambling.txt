@@ -1,7 +1,7 @@
 ! Title: Shub's Gambling Filter
 ! Description: Filter to Block Gambling Sites
-! Entries: 23
-! Version: 11
+! Entries: 37
+! Version: 12
 ! Last Modified: March 26, 2021
 ||crownbet.com.au^
 ||crownbet.com^
@@ -26,3 +26,17 @@
 ||12bet.com^
 ||10bet.com^
 ||thegreek.com^
+||synottip.cz^
+||win2day.at^
+||netbet.de^
+||drueckglueck.com^
+||platincasino.com^
+||merkur24.com^
+||merkur-casino.de^
+||energycasino.com^
+||de.888casino.com^
+||slots.888wetten.de^
+||onlinecasino-eu.com^
+||onlinecasino.de^
+||hyperino.com^
+||taiwanlottery.com.tw^
