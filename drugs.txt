@@ -1,0 +1,10 @@
+! Title: Shub's Anti Drug Filter
+! Description: Filter to block Drug Sites or any site that claims that illegal drugs are safe
+! Entries: 5
+! Version: 1
+! Last Modified: March 27, 2021
+||1-718-475-9088.com^
+||1-800-532-4808.com^
+||1-800-can-drug.com^
+||0ga.com^
+||mas-in060.q5.io^
