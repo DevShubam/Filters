@@ -1,5 +1,6 @@
 # My Filters
-**Beta: This Repo is in 'beta', as I am working on moving all my lists here.**
+
+**These lists are updated periodically, but should have minmal false positives.**
 
 Where I am storing all of my Filterlists
 
