@@ -1,26 +1,26 @@
 # Title: Shub's Smart TV Filter
 # Description: Filterlist to Block Ads and Preventing Your Smart TV From Phoning Home
-# Version: 1
+# Version: 2
 # Entries: 21
-# Last Modified: March 24, 2021
-samsungads.com
-events.samsungads.com
-config.samsungads.com
-static.doubleclick.net
-samsungotn.net
-samsungrm.net
-lgsmartad.com
-ngfts.lge.com
-us.ad.lgsmartad.com
-us.info.lgsmartad.com
-lgad.cjpowercast.com
-ad.lgappstv.com
-smartclip.com
-smartclip.net
-smartshare.lgtvsdp.com
-us.ibs.lgappstv.com
-cooper.logs.roku.com
-track.sr.roku.com
-p.ads.roku.com
-bif.sr.roku.com
-traces.sr.roku.com
+# Last Modified: March 31, 2021
+samsungads.com ! Samsung
+events.samsungads.com ! Samsung
+config.samsungads.com ! Samsung
+static.doubleclick.net ! Google Ads
+samsungotn.net ! Samsung
+samsungrm.net ! Samsung 
+lgsmartad.com ! LG Ads
+ngfts.lge.com ! LG
+us.ad.lgsmartad.com ! LG Ads
+us.info.lgsmartad.com ! LG Ads
+lgad.cjpowercast.com 
+ad.lgappstv.com ! LG
+smartclip.com ! Ads
+smartclip.net ! Ads
+smartshare.lgtvsdp.com ! LG
+us.ibs.lgappstv.com ! LG 
+cooper.logs.roku.com ! Roku
+track.sr.roku.com ! Roku  
+p.ads.roku.com ! Roku Ads
+bif.sr.roku.com ! Roku 
+traces.sr.roku.com ! Roku
