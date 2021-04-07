@@ -1,0 +1,5 @@
+! Name: Shub's Anti Apple Filter (ABP)
+! Description: AdBlock Filter to block Apple, and all their services.
+! Entries:
+! Version:
+! Last Modified: 
