@@ -1,15 +1,15 @@
 ! Title: Shub's Ad Filter
 ! Description: Filter to Block Ads on uBlock Origin and AdGuard
-! Entries: 867
-! Version: 16
-! Last Modified: March 31, 2021
+! Entries: 868
+! Version: 17
+! Last Modified: April 12, 2021
 iptvcat.com##.variable_colspan > .adsbygoogle
 webmd.com###adContainer-top > iframe
 0gs5mb24su.ru
 ||googleadservices.com^
 ||doubleclick.net^
 ||adservice.google.com^
-tapjoyads.com
+||tapjoyads.com^
 ||tapjoy.com^
 ads.mopub.com
 ads.nexage.com
@@ -872,3 +872,4 @@ adzerk.net
 adzerk.s3.amazonaws.com
 adzones.com
 samsungads.com
+connect.tapjoy.com
