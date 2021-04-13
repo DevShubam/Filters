@@ -1,0 +1,9 @@
+! Title: Shub's Anti Anti AdBlock Filter
+! Description: Filter that goes hand in hand with FuckFuckAdBlock and AdBlock Warning Removal List, to help keep your AdBlocker Enabled
+! FuckFuck AdBlock
+!#include https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
+! Easylist AdBlock Warning Removal List
+!#include https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+!
+! Start my rules
+##.b-blockadblock
