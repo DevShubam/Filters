@@ -1,0 +1,2 @@
+! Title: Shub's YouTube Ad Filter
+! Description: Blocks Ads on YouTube
