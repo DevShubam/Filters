@@ -2,7 +2,7 @@
 ! Description: Block those annoying fake generator sites. This list is updated periodically.
 ! Version: 10
 ! Entries: 11
-! Last Modified: June 06, 2021 
+! Last Modified: June 07, 2021 
 ||7tools.eu^
 ||clash.blaow.pro^
 ||generator4all.com^
