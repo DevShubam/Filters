@@ -1,8 +1,10 @@
-! Title: Shub's Anti Tracker Filter
-! Description: Filter to Block Trackers on uBlock Origin and AdGuard
-! Entries: 50
-! Version: 8
-! Last Modified: June 07, 2021
+# Title: Shub's Anti Tracker Filter
+# Description: Filter to Block Trackers on uBlock Origin and AdGuard
+# Entries: 52
+# Version: 9
+# Last Modified: June 07, 2021
+mon.tiktokv.com
+mon-va.tiktokv.com
 45.gs
 51.la
 1s3h4f7sl.com
