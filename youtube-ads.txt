@@ -1,2 +1,5 @@
 ! Title: Shub's YouTube Ad Filter
 ! Description: Blocks Ads on YouTube
+! Entries: 1
+! Last Modified: July 1, 2021.
+ads.youtube.com
