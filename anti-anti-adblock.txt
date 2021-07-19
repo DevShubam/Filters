@@ -7,3 +7,13 @@
 !
 ! Start my rules
 ##.b-blockadblock
+###adb-actived
+###adb-enabled
+###adb-enabled3
+###adb-pop
+###adb-warning
+##.fuck-adblock
+##.fuckadblock
+##.fuckYouAdBlock
+##.fuckYouAdBlock2
+##.fuckYouAdBlock3
