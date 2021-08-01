@@ -1,5 +1,7 @@
 ! Title: Shub's YouTube Ad Filter
 ! Description: Blocks Ads on YouTube
 ! Entries: 1
-! Last Modified: July 1, 2021.
+! Last Modified: July 31, 2021
+! Considering how hard it is blocking YouTube ads, I am considering scrapping this list, and I do NOT recommend using it.
+! This is still an experimental list, I do not know if I want to continue working on it.
 ads.youtube.com
