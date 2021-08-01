@@ -1,0 +1,12 @@
+! Title: Shub's Dating Site Filter
+! Description: Filter to block dating sites and apps
+! Version: beta
+! Entries: 2
+! Last Modified: July 31, 2021
+! Homepage: https://github.com/DevShubam/Filters 
+! NOTE: Despite having less entries than the host version, this will always block more domains due to the Syntax. 
+! 
+! License: https://github.com/DevShubam/Filters/blob/main/LICENSE
+! START LIST
+||benaughty.app^
+||tinder.com^
