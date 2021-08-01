@@ -1,0 +1,11 @@
+! Title: Shub's TikTok Blocklist (ABP)
+! Description: This filterlist completely stops the TikTok app from working, no content will load, no data will be sent back. Every single domain should be blocked.
+! Entries: 6
+! Version: 1
+! Last Modified: August 1, 2021
+||tiktok.com^
+||tiktokv.com^
+||tiktok.org^
+||tiktokcdn.com^
+p16-tiktokcdn-com.akamaized.net
+v16-tiktokcdn-com.akamaized.net
