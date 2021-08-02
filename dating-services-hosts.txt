@@ -1,8 +1,7 @@
 # Title: Shub's Dating Site Filter
 # Description: Filter to block dating sites and apps
-# Version: beta
 # Entries: 4
-# Last Modified: July 31, 2021
+# Last Modified: August 1, 2021
 0.0.0.0 benaughty.app
 0.0.0.0 www.benaughty.app
 0.0.0.0 tinder.com
