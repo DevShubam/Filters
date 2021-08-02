@@ -1,0 +1,14 @@
+# Title: Shub's Bad Extension Blocker (Raw domains)
+# Description: Blocks Unsafe and Fake / Imposter Browser Extensions This includes, but is not limited to: Bad AdBlockers, Unsafe Extensions, Shady VPN's, and more!
+# Version: 2 (RAW DOMAINS)
+# Entries: 6
+# Last Modified: August 1, 2021
+# ────────────────────────────────────────────────────────────────────────────────────────────
+#                                         CHROME WEB STORE
+# ────────────────────────────────────────────────────────────────────────────────────────────
+# PLEASE USE uBlock Orgin or AdGuard or AdBlock Plus for your AdBlocking Needs!
+# AdBlockers
+chrome.google.com/webstore/detail/adblock-—-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom
+chrome.google.com/webstore/detail/ad-blocker/khgigobgeamokahfjnmbjooccaiocblf
+chrome.google.com/webstore/detail/ublock-free-ad-blocker/epcnnfbjfcgphgdmggkamkmgojdagdnn
+chrome.google.com/webstore/detail/the-great-suspender/jaekigmcljkkalnicnjoafgfjoefkpeg
