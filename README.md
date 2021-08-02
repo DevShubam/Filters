@@ -14,10 +14,23 @@ https://abpvn.com/ruleChecker/redundantRuleChecker.html Check for redundant rule
 
 ## Installation
 
-These lists are 100% compatible with AdGuard and uBlock Origin, but only some are compatible with Pi-Hole. Since each software is different, I can't tell you how to add them. There are tutorials all over the web.
+These lists are 100% compatible with AdGuard and uBlock Origin, but only some are compatible with Pi-Hole, here is how you can add them to the following Ad Blockers.
+
+#### Pi-Hole
+.
+
+#### AdGuard
+.
+
+#### uBlock Origin
+.
+
+
 
 ## Filterlists
 Here are all the URLs of my filters
+
+I will be fixing this soon :)
 
 [Main Whitelist](https://raw.githubusercontent.com/DevShubam/Whitelist/master/whitelist.txt)
 
