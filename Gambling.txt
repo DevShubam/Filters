@@ -1,8 +1,12 @@
 ! Title: Shub's Gambling Filter
 ! Description: Filter to Block Gambling Sites
-! Entries: 40
-! Version: 14
-! Last Modified: June 11, 2021
+! Entries: 44
+! Version: 15
+! Last Modified: August 3, 2021
+||betgoto.com^
+||betgrande.com^
+||betguardian.me^
+||betgun.com^
 ||dream11.com^
 ||palmerbet.com^
 ||5dimes.com^
