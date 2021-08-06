@@ -1,28 +1,29 @@
 ! Title: Shub's Anti Scam Filer
 ! Description: Restricts access to sites made to scam.
-! Version: 10
-! Entries: 23
-! Last Modified: March 27, 2021
-binarycent.com
-binarycent24.com
-binaryfxoptions.com
-binarygiantfunds.com
-binfashiontrending.co
-bingoptionstrade.com
-proasdf.com
-funeducation.com
-iq-research.info
-iq-test.co.uk
-iqtest.co.uk
-iqtest.com
-iqtestnow.org
-iqtestonline24.com
-test-iq.org
-officialiqtests.com
-nordvpnpremium2021.blogspot.com
-syndicate.com
-run.syndicate.com
+! Version: 11
+! Entries: 24
+! Last Modified: August 6, 2021
+||binarycent.com^
+||binarycent24.com^
+||binaryfxoptions.com^
+||binarygiantfunds.com^
+||binfashiontrending.co^
+||bingoptionstrade.com^
+||proasdf.com^
+||funeducation.com^
+||iq-research.info^
+||iq-test.co.uk^
+||iqtest.co.uk^
+||iqtest.com^
+||iqtestnow.org^
+||iqtestonline24.com^
+||test-iq.org^
+||officialiqtests.com^
+||nordvpnpremium2021.blogspot.com^
+||syndicate.com^
+||run.syndicate.com^
 ||thunderfiles.co^
 ||365expertoption.com^
 ||365marketoption.com^
 ||sneakermart.us^
+||sideload.dev^
