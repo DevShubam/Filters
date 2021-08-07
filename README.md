@@ -4,7 +4,7 @@
 
 Where I am storing all of my Filterlists
 
-Lots of new things are coming soon!
+
 
 ## Tools
 
@@ -62,3 +62,8 @@ https://github.com/DevShubam/Whitelist
 
 ## Company Blacklists
 
+
+## To Do
+**Here are things that I will be doing in the future**
+
+- Readme needs more detail, link all filterlists and make installation guides.
