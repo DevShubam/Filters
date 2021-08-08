@@ -2,7 +2,7 @@
 # Description: Filter to block dating sites and apps
 # Entries: 81
 # Last Modified: August 8, 2021
-# License: 
+# License: https://github.com/DevShubam/Filters/blob/main/LICENSE
 0.0.0.0 benaughty.app
 0.0.0.0 www.benaughty.app
 0.0.0.0 tinder.com
