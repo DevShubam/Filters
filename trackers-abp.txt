@@ -1,0 +1,21 @@
+! Title: Shub's Anti Tracker Filter (ABP)
+! Description: Blocks Tracking Domains and Scripts.
+! Last Modified: August 8, 2021
+! Version: 1
+! Entries: 15
+! Expires: 1 Day
+||amarillo.sb.roku.com^
+||scribe.logs.roku.com^
+||traces.sr.roku.com^
+||bif.sr.roku.com^
+||cooper.logs.roku.com^
+||track.sr.roku.com^
+||app-measurement.com^
+||e.reddit.com^
+||alb.reddit.com^
+||analytics.query.yahoo.com^
+||events.redditmedia.com^
+||mon.tiktokv.com^
+||mon-va.tiktokv.com^
+||collector.githubapp.com^
+||usage.readdle.com^
