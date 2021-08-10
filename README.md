@@ -38,7 +38,7 @@ I will be fixing this soon :)
 
 [Ads](https://raw.githubusercontent.com/DevShubam/Filters/main/ads.txt)
 
-[Trackers](https://raw.githubusercontent.com/DevShubam/Filters/main/Trackers.txt)
+[Trackers ABP Syntax](https://raw.githubusercontent.com/DevShubam/Filters/main/trackers-abp.txt)
 
 [Malware](https://raw.githubusercontent.com/DevShubam/Filters/main/Malware.txt)
 
@@ -54,7 +54,20 @@ I will be fixing this soon :)
 
 [Bad Extensions](https://raw.githubusercontent.com/DevShubam/Filters/main/Bad%20Extensions.txt)
 
+[Bad Extensions Raw Domains](https://raw.githubusercontent.com/DevShubam/Filters/main/badextensions-raw-version.txt)
+
 [Smart TV](https://raw.githubusercontent.com/DevShubam/Filters/main/smart-tv.txt)
+
+[Anti Anti AdBlock](https://raw.githubusercontent.com/DevShubam/Filters/main/anti-anti-adblock.txt)
+
+[Dating Services (ABP Syntax)](https://raw.githubusercontent.com/DevShubam/Filters/main/dating-services-abp.txt)
+
+[Dating Services (Hosts)](https://raw.githubusercontent.com/DevShubam/Filters/main/dating-services-hosts.txt)
+
+[Drugs](https://raw.githubusercontent.com/DevShubam/Filters/main/drugs.txt)
+
+[YouTube Ads](https://raw.githubusercontent.com/DevShubam/Filters/main/youtube-ads.txt)
+
 ## Whitelists
 Alongside the blacklists I maintain, I also make whitelists. I have one large whitelist, and several smaller ones. I am still working on them.
 
