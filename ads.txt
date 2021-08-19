@@ -1,8 +1,8 @@
 ! Title: Shub's Ad and Tracker Filter
 ! Description: Filter to Block Ads and Trackers on uBlock Origin and AdGuard
-! Entries: 917
-! Version: 20
-! Last Modified: July 19, 2021
+! Entries: 914
+! Version: 21
+! Last Modified: August 19, 2021
 beap.gemini.yahoo.com
 mon.tiktokv.com
 mon-va.tiktokv.com
