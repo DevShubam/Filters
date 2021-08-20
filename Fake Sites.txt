@@ -1,22 +1,2 @@
-# Title: Shub's Fake Site Filter (Domains)
-# Description: Filter to block fake and imposter sites
-# Version: 9
-# Entries: 16
-# Last Modified: August 1, 2021
-speedtest.com
-ubuntu.org
-# Use fitgirl-repacks.site
-fitgirlrepacks.co
-fitgirl-repacks.website
-fitgirl-repacks.cc
-gothub.com
-totallynotascam.com
-ublock.org
-steamunlocked.cc
-gooogle.com
-goooogle.com
-yourtube.com
-yotube.com
-steamunlocked.pro
-steamunlocked.eu
-steamunlocked.me
+# Title: Go To: https://blockd.shubam.tech
+# Fake Sites
