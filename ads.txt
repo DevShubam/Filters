@@ -1,4 +1,4 @@
-! Title: Shub's Ad and Tracker Filter
+! Title: Go To: https://blockd.shubam.tech
 ! Description: Filter to Block Ads and Trackers on uBlock Origin and AdGuard
 ! Entries: 914
 ! Version: 21
