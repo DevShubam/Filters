@@ -1,4 +1,4 @@
-! Title: Shub's Gambling Filter
+! Title: Go To: https://blockd.shubam.tech
 ! Description: Filter to Block Gambling Sites
 ! Entries: 44
 ! Version: 15
