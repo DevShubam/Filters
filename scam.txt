@@ -1,4 +1,4 @@
-! Title: Shub's Anti Scam Filer
+! Title: Go To: https://blockd.shubam.tech
 ! Description: Restricts access to sites made to scam.
 ! Version: 11
 ! Entries: 24
