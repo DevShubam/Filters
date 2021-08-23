@@ -1,4 +1,4 @@
-# Title: Shub's Smart TV Filter
+# Title: Go To: https://blockd.shubam.tech
 # Description: Filterlist to Block Ads and Preventing Your Smart TV From Phoning Home
 # Version: 3
 # Entries: 22
