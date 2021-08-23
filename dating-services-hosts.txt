@@ -1,4 +1,4 @@
-# Title: Shub's Dating Site Filter
+# Title: https://blockd.shubam.tech
 # Description: Filter to block dating sites and apps
 # Entries: 81
 # Last Modified: August 8, 2021
