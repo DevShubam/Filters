@@ -1,4 +1,4 @@
-! Title: Shub's Anti Drug Filter
+! Title: https://blockd.shubam.tech
 ! Description: Filter to block Drug Sites or any site that claims that illegal drugs are safe
 ! Entries: 5
 ! Version: 1
