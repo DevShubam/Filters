@@ -1,4 +1,4 @@
-# Title: Shub's Bad Extension Blocker (Raw domains)
+# Title: Go to: https://blockd.shubam.tech
 # Description: Blocks Unsafe and Fake / Imposter Browser Extensions This includes, but is not limited to: Bad AdBlockers, Unsafe Extensions, Shady VPN's, and more!
 # Version: 2 (RAW DOMAINS)
 # Entries: 6
