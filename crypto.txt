@@ -1,4 +1,4 @@
-! Title: Shub's Anti Crypto Mining Filter 💰
+! Title: https://blockd.shubam.tech
 ! Description: Filter to block crypto miners - This filter is not actively maintained. 
 ! Version: 5
 ! Entries: 15
