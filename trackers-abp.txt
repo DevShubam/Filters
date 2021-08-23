@@ -1,4 +1,4 @@
-! Title: Shub's Anti Tracker Filter (ABP)
+! Title: Go To: https://blockd.shubam.tech
 ! Description: Blocks Tracking Domains and Scripts.
 ! Last Modified: August 8, 2021
 ! Version: 1
