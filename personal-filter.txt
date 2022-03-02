@@ -1,3 +1,9 @@
-! Title: https://blockd.shubam.tech
-! Description: These are custom made rules that I made for personal use. This helps make sites I like browsing more plesant. Anyone is free to use these, although please do not create any issues for this as I will not be taking suggestions.
+! Title: Shub's Personal Filter
+
+! Block
 espncricinfo.com###ad-bannertoprow-378696-cnt
+
+! Allow
+@@||widget.intercom.io/widget^$domain=smugmug.com
+@@||adf.ly^
+@@||widget.intercom.io^$domain=members.rapidseedbox.com
