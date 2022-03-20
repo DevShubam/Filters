@@ -2,8 +2,9 @@
 
 ! Block
 espncricinfo.com###ad-bannertoprow-378696-cnt
+! gets rid of the news on Yahoo
+ca.yahoo.com###Main
 
 ! Allow
 @@||widget.intercom.io/widget^$domain=smugmug.com
 @@||adf.ly^
-@@||widget.intercom.io^$domain=members.rapidseedbox.com
