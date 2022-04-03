@@ -5,6 +5,10 @@
 espncricinfo.com###ad-bannertoprow-378696-cnt
 ! gets rid of the news on Yahoo
 ca.yahoo.com###Main
+v3rmillion.net###content > div:first-child > div:first-child
+mail.google.com##div:nth-child(21) > div.nH:nth-child(3) > div.nH > div.nH.bkL:last-child > div.no:first-child > div.nH.oy8Mbf.nn.aeN:first-child > div.aeO:nth-child(2)
+mail.google.com##div:nth-child(21) > div.nH:nth-child(3) > div.nH > div.nH.bkL:last-child > div.no:first-child > div.nH.oy8Mbf.nn.aeN:first-child > div.akc.aZ6.YX:last-child
+
 
 ! Allow
 @@||widget.intercom.io/widget^$domain=smugmug.com
