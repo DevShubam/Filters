@@ -8,6 +8,7 @@ ca.yahoo.com###Main
 v3rmillion.net###content > div:first-child > div:first-child
 mail.google.com##div:nth-child(21) > div.nH:nth-child(3) > div.nH > div.nH.bkL:last-child > div.no:first-child > div.nH.oy8Mbf.nn.aeN:first-child > div.aeO:nth-child(2)
 mail.google.com##div:nth-child(21) > div.nH:nth-child(3) > div.nH > div.nH.bkL:last-child > div.no:first-child > div.nH.oy8Mbf.nn.aeN:first-child > div.akc.aZ6.YX:last-child
+outlook.live.com###app > div.B1J42ystyDY9tB_ljkKb.body-154 > div.L_9jptrDMkCjsaIDoWX0:last-child > div.Z1wHlBfTZNEyhGx5VQI_:last-child > div.Gpi6FDh8iQZg9gFDktfV:nth-child(2) > div.eZCJgZF5is956NUF5Gs9:nth-child(2) > div.EEcvgHQqsT8fiXQE9In7 > div.AK_mylzu6VA12_DCpmXg > div.pBKjVBVDRKIDHWS0A95I:last-child
 
 
 ! Allow
