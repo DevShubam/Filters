@@ -1,0 +1,13 @@
+! Title: Distraction Blocker
+! Description: A filter I use to block out distractions.
+! Version: 1
+! Expires: 1 day
+
+||snapchat.com^
+||tiktok.com^
+||youtube.com^
+||twitter.com
+||tiktokcdn.com^
+||facebook.com^
+||instagram.com^
+||fbcdn.net^
