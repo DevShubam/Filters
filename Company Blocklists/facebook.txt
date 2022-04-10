@@ -1,2 +1,0 @@
-# Title: Shub's Anti Facebook Filter
-# Description: Blocklist to block facebook, and its services. (Instagram, whatsapp)
