@@ -11,3 +11,5 @@
 ||facebook.com^
 ||instagram.com^
 ||fbcdn.net^
+||netflix.com^
+||plex.tv^
