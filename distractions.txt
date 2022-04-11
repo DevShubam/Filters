@@ -13,3 +13,5 @@
 ||fbcdn.net^
 ||netflix.com^
 ||plex.tv^
+||cdninstagram.com^
+||sc-cdn.net^
