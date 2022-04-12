@@ -1,19 +1,16 @@
-! Title: Mobile Filter
+! Title: Shub's Mobile Filter
 ! Description: Blocks Ads and Trackers on mobile devices
-!
-! Note: This filter uses AdGuard's DNS syntax.
+! Version: 20220412
+! Entries: 12
 ||analytics.snapchat.com^
 ||app-analytics.snapchat.com^
-||usc.adserver.snapads.com^
 ||snapads.com^
 ||app-analytics-v2.snapchat.com^
 ||asia-southeast1-gcp.api.snapchat.com^
 ||pica.aeonlucid.com^
 ||us-central1-gcp.api.snapchat.com^
-||usc.adserver.snapads.com^
 ||geofilters-api.snapchat.com^
 ||cognac-prod.appspot.com^
-||ase.adserver.snapads.com^
 ||tr.snapchat.com^
 ||loc.sc-jpl.com^
 ||snapchat-proxy.appspot.com^
