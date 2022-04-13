@@ -1,7 +1,6 @@
 ! Title: Shub's Mobile Filter
 ! Description: Blocks Ads and Trackers on mobile devices
-! Version: 20220412
-! Entries: 12
+! Expires: 1 day
 ||analytics.snapchat.com^
 ||app-analytics.snapchat.com^
 ||snapads.com^
