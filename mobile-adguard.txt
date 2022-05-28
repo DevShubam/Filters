@@ -1,7 +1,7 @@
 ! Title: Shub's Mobile Filter
 ! Description: Blocks Ads and Trackers on mobile devices
 ! Expires: 1 day
-! Version 10
+! Version 11
 ||google-analytics.com^
 ||analytics.snapchat.com^
 ||app-analytics.snapchat.com^
@@ -23,7 +23,8 @@
 ||ads.nexage.com^
 ||beap.gemini.yahoo.com^
 ||firebaselogging-pa.googleapis.com^
-||rtlog*.tiktokv.com^||ads.cricbuzz.com^^
+||rtlog*.tiktokv.com^
+||ads.cricbuzz.com^^
 ||ads.abovetopsecret.com^
 ||ads.aceweb.net^
 ||ads.activestate.com^
