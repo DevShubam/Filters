@@ -1,4 +1,4 @@
-! Title: Go To: https://blockd.shubam.tech
+! Title: Anti Anti AdBlock
 ! Description: Filter that goes hand in hand with FuckFuckAdBlock and AdBlock Warning Removal List, to help keep your AdBlocker Enabled
 ! FuckFuck AdBlock
 !#include https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
