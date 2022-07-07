@@ -1,7 +1,7 @@
-! Title: Blockd
-! Version: 29052022
-! Last modified: 29 May 2022
-! Entries: 791
+! Title: Blockd 
+! Version: 06072022
+! Last modified: 06 July 2022
+! Entries: 792
 ! Expires: 5 days (update frequency)
 ! Syntax: AdGuard DNS
 ||analytics.plex.tv^
@@ -795,3 +795,4 @@
 ||iqtestonline24.com^
 ||test-iq.org^
 ||officialiqtests.com^
+||1337xx.to^$document
