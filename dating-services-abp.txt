@@ -1,7 +1,7 @@
 ! Title: Blockd Dating Services 
 ! Description: Filter to block dating sites and apps
 ! Version: beta
-! Entries: 7
+! Entries: 20
 ! Last Modified: June 10, 2022
 ! Homepage: https://github.com/DevShubam/Filters 
 ! License: https://github.com/DevShubam/Filters/blob/main/LICENSE
@@ -12,3 +12,16 @@
 ||match.com^
 ||skipthegames.cam^
 ||singingheaven.ca^
+||be2.at^
+||be2.ch^
+||be2.com^
+||be2.com.ar^
+||be2.com.br^
+||be2.com.mx^
+||be2.de^
+||be2.es^
+||be2.fr^
+||be2.it^
+||be2.nl^
+||be2.ru^
+||be2.se^
