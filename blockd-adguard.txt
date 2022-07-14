@@ -1,7 +1,7 @@
 ! Title: Blockd 
-! Version: 06072022
-! Last modified: 06 July 2022
-! Entries: 792
+! Version: 14072022
+! Last modified: 14 July 2022
+! Entries: 793
 ! Expires: 5 days (update frequency)
 ! Syntax: AdGuard DNS
 ||analytics.plex.tv^
@@ -502,7 +502,6 @@
 ||yw-cd.com^
 ||zonahd.org^
 ||zoneoccupee.com^
-
 ||00689.net^
 ||20gbfree.club^
 ||2222yo.com^
@@ -796,3 +795,4 @@
 ||test-iq.org^
 ||officialiqtests.com^
 ||1337xx.to^$document
+||more-ways-to-make-money-online.click^
