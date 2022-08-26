@@ -1,0 +1,7 @@
+! Title: Facebook Blocklist (Adblock)
+||facebook.com^
+||fbcdn.net^
+||facebook.de^
+||facebook.fr^
+||fbcdn.com^
+||tfbnw.net^
