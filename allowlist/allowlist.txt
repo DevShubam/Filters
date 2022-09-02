@@ -1,0 +1,184 @@
+! Title: Shub's Whitelist
+! Description: My personal whitelist for Ad Blockers, helps to unblock false positives. 
+! Note: Any comments are made for the domain listed below.
+! Expires: 1 day
+
+
+! Netflix
+@@||nflximg.com
+@@||nflxvideo.net
+@@||llnwd.net
+@@||nflximg.com
+@@||secure.netflix.com
+@@||appboot.netflix.com
+@@||uiboot.netflix.com
+@@||api-global.netflix.com
+
+! YouTube
+@@||youtu.be
+@@||s.youtube.com 
+@@||video-stats.l.google.com
+! https://www.reddit.com/r/pihole/comments/85adtd/pihole_blocking_youtube_on_ios/
+@@||play.googleapis.com
+@@||googlevideo.com
+@@||i.ytimg.com
+
+! Shopping
+@@||assets.adobedtm.com
+@@||nexus.ensighten.com
+
+! Apple / iOS
+
+!Required for updates and some app store apps
+@@||mesu.apple.com
+@@||appleid.apple.com
+@@||ax.phobos.apple.com.edgesuite.net
+
+! Android
+@@||android.clients.google.com
+
+! Google
+@@||clients4.google.com 
+@@||clients2.google.com
+@@||android.clients.google.com
+@@||googleapis.l.google.com
+
+! Amazon
+@@||mobileanalytics.us-east-1.amazonaws.com 
+@@||cognito-identity.us-east-1.amazonaws.com
+@@||unagi-na.amazon.com
+@@||ocsp.rootg2.amazontrust.com
+@@||det-ta-g7g.amazon.com
+@@||todo-ta-g7g.amazon.com
+@@||device-messaging-na.amazon.com
+@@||vs3-eu-west-1.amazonaws.com
+@@||us-east-1.amazonaws.com
+@@||device-metrics-us-2.amazon.com
+@@||device-metrics-us.amazon.com
+@@||sqs.us-east-1.amazonaws.com
+
+! Reddit 
+! With help from https://www.reddit.com/r/pihole/comments/aan57o/how_to_whitelist_reddit/
+@@||accounts.reddit.com
+@@||i.reddit.com
+@@||redd.it
+@@||cdn.embedly.com
+
+! Twitter
+! Required for links on the mobile app
+@@||analyitics.twitter.com
+! Required for images
+@@||twimg.com^
+
+! Snapchat
+@@||app.snapchat.com
+
+! Plex - Issue #1
+@@||app.plex.tv
+@@||dashboard.plex.tv
+
+! Smart TV - See Issue #2
+@@||ngfts.lge.com
+@@||mhc-ajax-eu.myhomescreen.tv
+@@||mhc-ajax-eu-s2.myhomescreen.tv
+@@||mhc-ajax-us.myhomescreen.tv
+@@||mhc-eu.myhomescreen.tv
+@@||mhc-us.myhomescreen.tv
+@@||mhc-xpana-eu.myhomescreen.tv
+@@||mhc-xpana-eu-s2.myhomescreen.tv
+@@||mhc-xpana-us.myhomescreen.tv
+@@||vcs.vdspf.com
+@@||applicast.ga.sony.net
+@@||update.biv.sony.tv
+@@||deviceportal.nettvservices.com
+@@||epg.corio.com
+@@||ecdinterface.philips.com
+@@||auth.samsungosp.com
+@@||cdn.samsungcloudsolution.com 
+@@||infolink.pavv.co.kr
+@@||lcprd1.samsungcloudsolution.net
+@@||otnprd10.samsungcloudsolution.net
+@@||otnprd11.samsungcloudsolution.net
+@@||otnprd8.samsungcloudsolution.net
+@@||otnprd9.samsungcloudsolution.net
+@@||samsungosp.com
+@@||samsungotn.net
+@@||time.samsungcloudsolution.com
+@@||osb-ussvc.samsungqbe.com
+@@||otn.samsungcloudcdn.com
+@@||ns11.whois.co.kr
+@@||api.vizio.com
+@@||images.vizio.com
+@@||announcements.vizio.com
+@@||hbbtv.prosieben.de
+@@||hbbtv.redbutton.de
+@@||hbbtv.zdf.de
+@@||apicache.vudu.com
+@@||tv.deezer.com
+@@||api.us.hismarttv.com
+@@||api.euro.hismarttv.com
+
+! Canon
+@@||gdlp01.c-wss.com
+
+! Dropbox
+@@||dl.dropbox.com
+@@||dl.dropboxusercontent.com
+
+! Git
+! soon
+
+! Windows / Microsoft
+@@||www.msftncsi.com
+@@||officeclient.microsoft.com
+@@||dl.delivery.mp.microsoft.com
+@@||geo-prod.do.dsp.mp.microsoft.com
+@@||displaycatalog.mp.microsoft.com 
+@@||sls.update.microsoft.com.akadns.net
+@@||fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+@@||clientconfig.passport.net 
+@@||v10.events.data.microsoft.com
+@@||v20.events.data.microsoft.com
+@@||client-s.gateway.messenger.live.com
+@@||arc.msn.com
+
+! Spotify + Apple Music
+@@||spclient.wg.spotify.com
+@@||apresolve.spotify.com
+@@||itunes.apple.com
+@@||s.mzstatic.com
+@@||api-tv.spotify.com
+
+! Gaming Consoles / Gaming
+! GTA Online
+@@||prod.telemetry.ros.rockstargames.com
+! Required to make purchaes and to log in.
+@@||tracking.epicgames.com
+! Required for the PS5
+@@||telemetry-console.api.playstation.com
+! Nvidia / Geforce
+@@||events.gfe.nvidia.com
+@@||gfwsl.geforce.com
+@@||ota-downloads.nvidia.com
+
+! Weather
+@@||images.twnmm.com
+
+! Captcha
+@@||api-verify.recaptcha.net
+
+! Bing
+! Bing Maps / Microsoft Flight Simulator
+@@||dev.virtualearth.net
+@@||ecn.dev.virtualearth.net
+@@||t0.ssl.ak.dynamic.tiles.virtualearth.net
+@@||t0.ssl.ak.tiles.virtualearth.net
+
+! Equifax
+@@||ci-mpsnare.iovation.com
+@@||scorecardresearch.com
+@@||equifaxps.122.2o7.net
+@@||equifax28031z.btttag.com
+@@||equifax.com
+@@||equifax.ca
+@@||mpsnare.iesnare.com
