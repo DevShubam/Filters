@@ -4,6 +4,10 @@
 ! Entries: 797
 ! Expires: 5 days (update frequency)
 ! Syntax: AdGuard DNS
+||fastclick.com^
+||fastclick.net^
+||media.fastclick.net^
+||cdn.fastclick.net
 ||buisness.samsungusa.com^
 ||app.getsentry.com^
 ||browser.sentry-cdn.com
