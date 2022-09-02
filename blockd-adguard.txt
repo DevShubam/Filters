@@ -1,9 +1,14 @@
 ! Title: Blockd 
 ! Version: 14072022
-! Last modified: 14 July 2022
-! Entries: 793
+! Last modified: September 2 2022
+! Entries: 797
 ! Expires: 5 days (update frequency)
 ! Syntax: AdGuard DNS
+||buisness.samsungusa.com^
+||app.getsentry.com^
+||browser.sentry-cdn.com
+||ads.reddit.com^
+||d.reddit.com^
 ||analytics.plex.tv^
 ||google-analytics.com^
 ||samsungads.com^
