@@ -1,0 +1,8 @@
+! Title: Equifax Whitelist
+@@||ci-mpsnare.iovation.com
+@@||scorecardresearch.com
+@@||equifaxps.122.2o7.net
+@@||equifax28031z.btttag.com
+@@||equifax.com
+@@||equifax.ca
+@@||mpsnare.iesnare.com
