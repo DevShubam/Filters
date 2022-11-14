@@ -1,0 +1,9 @@
+! Meta Blocklist
+||instagram.com^
+||cdninstagram.com^
+||facebook.com^
+||fbcdn.net^
+||facebook.de^
+||facebook.fr^
+||fbcdn.com^
+||tfbnw.net^
