@@ -18,7 +18,6 @@
 @@||youtu.be
 @@||s.youtube.com 
 @@||video-stats.l.google.com
-! https://www.reddit.com/r/pihole/comments/85adtd/pihole_blocking_youtube_on_ios/
 @@||play.googleapis.com
 @@||googlevideo.com
 @@||i.ytimg.com
@@ -28,11 +27,8 @@
 @@||nexus.ensighten.com
 
 ! Apple / iOS
-
-!Required for updates and some app store apps
 @@||mesu.apple.com
 @@||appleid.apple.com
-@@||ax.phobos.apple.com.edgesuite.net
 
 ! Android
 @@||android.clients.google.com
