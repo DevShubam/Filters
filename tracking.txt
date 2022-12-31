@@ -1,0 +1,4 @@
+! Title: Blockd | Tracking
+! Description: Blocking tracking, analytics, etc.
+||google-analytics.com^
+||analytics.plex.com^
