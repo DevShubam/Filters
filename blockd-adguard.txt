@@ -1,9 +1,85 @@
 ! Title: Blockd 
-! Version: 20230120-1
+! Version: 20230120-2
 ! Last modified: January 20, 2023
 ! Entries: 1672
 ! Expires: 5 days (update frequency)
-! Syntax: AdGuard DNS
+l7.zedo.com
+click.zxxds.net
+zedo.com
+ads.zedo.com
+c1.zedo.com
+c2.zedo.com
+c3.zedo.com
+c4.zedo.com
+c5.zedo.com
+c6.zedo.com
+c7.zedo.com
+c8.zedo.com
+d2.zedo.com
+d3.zedo.com
+d7.zedo.com
+d8.zedo.com
+freeze.zedo.com
+g.zedo.com
+gw.zedo.com
+h.zedo.com
+l1.zedo.com
+l2.zedo.com
+l3.zedo.com
+l4.zedo.com
+l5.zedo.com
+l6.zedo.com
+l8.zedo.com
+r1.zedo.com
+simg.zedo.com
+ss1.zedo.com
+ss2.zedo.com
+ss7.zedo.com
+xads.zedo.com! Syntax: AdGuard DNS
+
+cdn.m-pathy.com
+click-de.plista.com
+farm-de.plista.com
+static-de.plista.com
+plista.com
+click.plista.com
+msmetrics.ws.sonos.com
+ad.pandora.tv
+ads.pandora.tv.net
+stats.pandora.com
+adserver.pandora.com
+api.mixpanel.com
+spade.twitch.com
+sb.scorecardresearch.com
+wsp.mgid.com
+pi.ad.xiaomi.com
+api.admob.xiaomi.com
+api.d.xiaomi.com
+a.stat.xiaomi.com
+tracking.miui.com
+cdn.ad.xiaomi.com
+data.mistat.xiaomi.com
+e.ad.xiaomi.com
+globalapi.ad.xiaomi.com
+new.api.ad.xiaomi.com
+sdkconfig.ad.xiaomi.com
+ssp.ad.xiaomi.com
+test.ad.xiaomi.com
+test.e.ad.xiaomi.com
+test.new.api.ad.xiaomi.com
+cc.sys.intl.xiaomi.com
+cc.sys.miui.com
+ccc.sys.miui.com
+ccc.sys.intl.xiaomi.com
+adv.sec.miui.com
+geofence.sys.miui.com
+abtest.mistat.xiaomi.com
+logupdate.avlyun.sec.miui.com
+mazu.sec.miui.com
+feedback.miui.com
+data.sec.miui.com
+data.mistat.intl.xiaomi.com
+||adsassets.waze.com^
 ||ads.reddit.com^
 ||beap.gemini.yahoo.com^
 ||googleadservices.com^
@@ -892,7 +968,6 @@
 ||ichnaea.netflix.com^
 ||assets.sr.roku.com^
 ||prod.mobile.roku.com^
-||logs.roku.com^
 ||analytics.tiktok.com^
 ||e.reddit.com^
 ||alb.reddit.com^
