@@ -1,3 +1,6 @@
+# Title: Snapchat Ads and Tracking block
+# Description: Blocks ads and trackers on snapchat
+
 analytics.snapchat.com
 app-analytics.snapchat.com
 usc.adserver.snapads.com
