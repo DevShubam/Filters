@@ -1,8 +1,9 @@
 ! Title: Blockd
-! Version: 20230128
-! Last modified: January 28, 2023
-! Entries: 1715
+! Version: 20230222
+! Last modified: Feb 22, 2023
+! Entries: 1716
 ! Expires: 5 days (update frequency)
+||ping.ring.com^
 ||click.zxxds.net^
 ||zedo.com^
 ||cdn.m-pathy.comclick-de.plista.com^
