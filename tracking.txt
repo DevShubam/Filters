@@ -1,4 +1,7 @@
 ! Title: Blockd | Tracking
 ! Description: Blocking tracking, analytics, etc.
+! Version 02222023-1
 ||google-analytics.com^
 ||analytics.plex.com^
+||logs.roku.com^
+||ping.ring.com^
