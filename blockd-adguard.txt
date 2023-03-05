@@ -1,8 +1,10 @@
 ! Title: Blockd
-! Version: 20230304
-! Last modified: March 4, 2023
-! Entries: 1720
+! Version: 20230305
+! Last modified: March 5, 2023
+! Entries: 1722
 ! Expires: 5 days (update frequency)
+||customer-feedbacks.web.roku.com^
+||ads.roku.com^
 ||imasdk.googleapis.com^
 ||intake-analytics.wikimedia.org^
 ||device-metrics-us-2.amazon.com^
