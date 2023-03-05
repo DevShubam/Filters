@@ -1,7 +1,14 @@
 ! Title: Blockd | Tracking
 ! Description: Blocking tracking, analytics, etc.
-! Version 02222023-1
+! Version 20230304
 ||google-analytics.com^
 ||analytics.plex.com^
 ||logs.roku.com^
 ||ping.ring.com^
+||collector.github.com^
+||androidtvchannels-pa.googleapis.com^
+||device-metrics-us-2.amazon.com^
+||mon.tiktokv.com^
+||mon-va.tiktokv.com^
+||intake-analytics.wikimedia.org^
+||imasdk.googleapis.com^
