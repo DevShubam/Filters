@@ -1,0 +1,9 @@
+! Title: Roku Ads and Trackers
+! Entries: 6
+! Expires: 5 days
+||logs.roku.com^
+||customer-feedbacks.web.roku.com^
+||cloudservices.roku.com^
+||ads.roku.com^
+||sr.roku.com^
+||prod.mobile.roku.com^
