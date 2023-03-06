@@ -1,0 +1,17 @@
+equifax.ca
+equifax.com
+partner3.stacksocial.com
+s.youtube.com
+s2.youtube.com
+api-verify.recaptcha.net
+googleapis.com
+mesu.apple.com
+appleid.apple.com
+amazonaws.com
+accounts.google.com
+redd.it
+twimg.com
+analytics.twitter.com
+dev.virtualearth.net
+telemetry-console.api.playstation.com
+tracking.epicgames.com
