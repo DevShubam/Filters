@@ -1,8 +1,17 @@
 ! Title: Blockd
-! Version: 20230305
-! Last modified: March 5, 2023
-! Entries: 1722
-! Expires: 5 days (update frequency)
+! Version: 20230313
+! Last modified: March 13, 2023
+! Entries: 1732
+! Expires: 5 days (update frequency}
+||sw88.espn.com^
+||sessions.bugsnag.com^
+||a.teads.tv^
+||tags.bluekai.com^
+||cdn.krxd.net^
+||cdn-gl.imrworldwide.com^
+||static.chartbeat.com^
+||log.go.com^
+||metrics.brightcove.com^
 ||customer-feedbacks.web.roku.com^
 ||ads.roku.com^
 ||imasdk.googleapis.com^
