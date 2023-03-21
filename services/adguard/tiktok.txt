@@ -1,14 +1,212 @@
+[AdBlock Plus 2.0]
+! Title:
+! Description:
+! Last Updated
+! Expires
+! Version
 muscdn.com
 muscdn.com.akamaized.net
 musical.ly
-||tiktok.com^
+tiktok.com
 tiktok.com.edgesuite.net
-||tiktokcdn.com^
+tiktokcdn.com
 tiktokcdn.com.akamaized.net
 tiktokcdn.com.c.worldfcdn.com
 tiktokcdn.com.edgesuite.net
 tiktokcdn.com.wsdvs.com
 tiktokcdn.liveplay.myqcloud.com
-||tiktokv.com^
+tiktokv.com
 tiktokv.com.edgekey.net
 tiktokv.com.edgesuite.net
+bytedance.com
+byteoversea.com
+byteimg.com
+bsgslb.com
+baishan-cloud.net
+ytedance.akadns.net
+dsa-video.traffic.bytedance.akadns.net
+bytegeo.akadns.net
+api31.bytegeo.akadns.net
+bos.bytegeo.akadns.net
+byteoversea.com.bytegeo.akadns.net
+tp-pay.byteoversea.com.bytegeo.akadns.net
+bytewlb.akadns.net
+tiktokcdn.com.bytewlb.akadns.net
+v-edgecast.tiktokcdn.com.bytewlb.akadns.net
+musical.ly.akadns.net
+muscdn.musical.ly.akadns.net
+res01.musical.ly.akadns.net
+p16hypstarcdn-a.akamaihd.net
+v16m.byteicdn.com.akamaized.net
+hypstarcdn.com.akamaized.net
+v16m.hypstarcdn.com.akamaized.net
+ibyteimg.com.akamaized.net
+p16-tiktok-va-h2.ibyteimg.com.akamaized.net
+p16-va-tiktok.ibyteimg.com.akamaized.net
+muscdn.com.akamaized.net
+ipv6-v16.muscdn.com.akamaized.net
+mpak-suse1.muscdn.com.akamaized.net
+mphw-suse1.muscdn.com.akamaized.net
+tiktokcdn.com.akamaized.net
+pull-cmaf-f16.tiktokcdn.com.akamaized.net
+pull-cmaf-f5.tiktokcdn.com.akamaized.net
+pull-hls-f5.tiktokcdn.com.akamaized.net
+pull-hls-f5-ab.tiktokcdn.com.akamaized.net
+pull-hls-q5.tiktokcdn.com.akamaized.net
+pull-hls-w5.tiktokcdn.com.akamaized.net
+v16m.tiktokcdn.com.akamaized.net
+xzcs3zlph.com.akamaized.net
+p16.xzcs3zlph.com.akamaized.net
+m-p16.akamaized.net
+m-v16.akamaized.net
+mpak-odec1.akamaized.net
+mpak-sinc1.akamaized.net
+mpak-ssgc1.akamaized.net
+mpak-suse1.akamaized.net
+p16-sg-default.akamaized.net
+p16-tiktokcdn-com.akamaized.net
+p16-va-default.akamaized.net
+s16-hypstarcdn-com.akamaized.net
+v16-tiktokcdn-com.akamaized.net
+v16m-default.akamaized.net
+share-1070666956.ap-northeast-1.elb.amazonaws.com
+elb-babe-934876860.ap-southeast-1.elb.amazonaws.com
+elb-for-cdn-1922253052.ap-southeast-1.elb.amazonaws.com
+onelink-1664648862.eu-west-1.elb.amazonaws.com
+collect-elb-1844102569.us-east-1.elb.amazonaws.com
+elb-for-front-1752188976.us-east-1.elb.amazonaws.com
+amemv.com
+byteicdn.com
+bytedns.com
+douyinact.com
+douyincdn.com
+douyinvideo.net
+byteoversea.com.edgekey.net
+dm-maliva16.byteoversea.com.edgekey.net
+dm16.byteoversea.com.edgekey.net
+dm16-alisg.byteoversea.com.edgekey.net
+  1143,31: dm16-useast1a.byteoversea.com.edgekey.net
+  1144,31: dm16-useast2a.byteoversea.com.edgekey.net
+  1145,19: i.byteoversea.com.edgekey.net
+  1146,21: log.byteoversea.com.edgekey.net
+  1147,23: log16.byteoversea.com.edgekey.net
+  1148,28: p16-tcscdn.byteoversea.com.edgekey.net
+  1149,21: s16.byteoversea.com.edgekey.net
+  1150,25: sdfp-sg.byteoversea.com.edgekey.net
+  1151,27: smr-aliva.byteoversea.com.edgekey.net
+  1152,24: smr-sg.byteoversea.com.edgekey.net
+  1153,34: starling-oversea.byteoversea.com.edgekey.net
+  1154,32: tos-awsbr16-up.byteoversea.com.edgekey.net
+  1155,32: tos-awsjp16-up.byteoversea.com.edgekey.net
+  1156,35: tos16-alisg2lf-up.byteoversea.com.edgekey.net
+  1157,28: v16-tcscdn.byteoversea.com.edgekey.net
+  1158,27: va-effect.byteoversea.com.edgekey.net
+  1159,30: vas-maliva16.byteoversea.com.edgekey.net
+  1160,24: vcs-sg.byteoversea.com.edgekey.net
+  1161,19: dynamic-amemv.com.edgekey.net
+  1162,15: ibytedtos.com.edgekey.net
+  1163,24: lf-hs-sg.ibytedtos.com.edgekey.net
+  1164,24: lf-tb-sg.ibytedtos.com.edgekey.net
+  1165,24: lf-tk-sg.ibytedtos.com.edgekey.net
+  1166,28: lf16-lark-va.ibytedtos.com.edgekey.net
+  1167,28: lf16-muse-va.ibytedtos.com.edgekey.net
+  1168,24: sf-hs-sg.ibytedtos.com.edgekey.net
+  1169,24: sf-tk-sg.ibytedtos.com.edgekey.net
+  1170,28: sf16-lark-va.ibytedtos.com.edgekey.net
+  1171,28: sf16-muse-va.ibytedtos.com.edgekey.net
+  1172,32: sf16-passport-sg.ibytedtos.com.edgekey.net
+  1173,32: sf16-passport-va.ibytedtos.com.edgekey.net
+  1174,32: sf16-security-va.ibytedtos.com.edgekey.net
+  1175,13: ipstatp.com.edgekey.net
+  1176,17: ssl.ipstatp.com.edgekey.net
+  1177,13: isnssdk.com.edgekey.net
+  1178,20: a16-tb.isnssdk.com.edgekey.net
+  1179,20: f-p-va.isnssdk.com.edgekey.net
+  1180,23: hotapi-va.isnssdk.com.edgekey.net
+  1181,15: i.isnssdk.com.edgekey.net
+  1182,16: i1.isnssdk.com.edgekey.net
+  1183,20: i16-tb.isnssdk.com.edgekey.net
+  1184,22: imapi-mu.isnssdk.com.edgekey.net
+  1185,20: imapi2.isnssdk.com.edgekey.net
+  1186,27: notifyback-va.isnssdk.com.edgekey.net
+  1187,19: ppx-a.isnssdk.com.edgekey.net
+  1188,12: pstatp.com.edgekey.net
+  1189,16: p16.pstatp.com.edgekey.net
+  1190,15: ib.snssdk.com.edgekey.net
+  1191,12: tiktok.com.edgekey.net
+  1192,21: activity.tiktok.com.edgekey.net
+  1193,16: ads.tiktok.com.edgekey.net
+  1194,22: analytics.tiktok.com.edgekey.net
+  1195,23: getstarted.tiktok.com.edgekey.net
+  1196,13: tiktokv.com.edgekey.net
+  1197,17: api.tiktokv.com.edgekey.net
+  1198,20: api-h2.tiktokv.com.edgekey.net
+  1199,26: api-h2-eagle.tiktokv.com.edgekey.net
+  1200,19: api-t.tiktokv.com.edgekey.net
+  1201,20: api-va.tiktokv.com.edgekey.net
+  1202,32: api16-core-c-alisg.tiktokv.com.edgekey.net
+  1203,35: api16-core-c-useast1a.tiktokv.com.edgekey.net
+  1204,35: api16-core-c-useast2a.tiktokv.com.edgekey.net
+  1205,32: api16-core-n-alisg.tiktokv.com.edgekey.net
+  1206,27: api16-core-va.tiktokv.com.edgekey.net
+  1207,34: api16-normal-c-alisg.tiktokv.com.edgekey.net
+  1208,37: api16-normal-c-useast1a.tiktokv.com.edgekey.net
+  1209,37: api16-normal-c-useast2a.tiktokv.com.edgekey.net
+  1210,29: api16-normal-v4.tiktokv.com.edgekey.net
+  1211,29: api16-normal-v6.tiktokv.com.edgekey.net
+  1212,22: api16-va.tiktokv.com.edgekey.net
+  1213,18: dm16.tiktokv.com.edgekey.net
+  1214,24: dm16-alisg.tiktokv.com.edgekey.net
+  1215,27: dm16-useast1a.tiktokv.com.edgekey.net
+  1216,27: dm16-useast2a.tiktokv.com.edgekey.net
+  1217,21: dm16-va.tiktokv.com.edgekey.net
+  1218,20: jsb-sg.tiktokv.com.edgekey.net
+  1219,20: jsb-va.tiktokv.com.edgekey.net
+  1220,20: log-va.tiktokv.com.edgekey.net
+  1221,37: log16-normal-c-useast1a.tiktokv.com.edgekey.net
+  1222,37: log16-normal-c-useast2a.tiktokv.com.edgekey.net
+  1223,23: open16-va.tiktokv.com.edgekey.net
+  1224,21: sdfp-sg.tiktokv.com.edgekey.net
+  1225,20: search.tiktokv.com.edgekey.net
+  1226,37: search16-normal-c-alisg.tiktokv.com.edgekey.net
+  1227,40: search16-normal-c-useast1a.tiktokv.com.edgekey.net
+  1228,40: search16-normal-c-useast2a.tiktokv.com.edgekey.net
+  1229,20: vcs-sg.tiktokv.com.edgekey.net
+  1230,21: webcast.tiktokv.com.edgekey.net
+  1231,24: webcast-va.tiktokv.com.edgekey.net
+  1232,23: webcast16.tiktokv.com.edgekey.net
+  1233,41: webcast16-normal-c-useast1a.tiktokv.com.edgekey.net
+  1234,41: webcast16-normal-c-useast2a.tiktokv.com.edgekey.net
+  1235,26: webcast16-va.tiktokv.com.edgekey.net
+  1236,12: musical.ly.edgekey.net
+  1237,34: api16-core-c-useast1a.musical.ly.edgekey.net
+  1238,34: api16-core-c-useast2a.musical.ly.edgekey.net
+  1239,36: api16-normal-c-useast1a.musical.ly.edgekey.net
+  1240,36: api16-normal-c-useast2a.musical.ly.edgekey.net
+  1241,17: api2.musical.ly.edgekey.net
+  1242,23: api2-16-h2.musical.ly.edgekey.net
+  1243,29: api2-16-h2-eagle.musical.ly.edgekey.net
+  1244,38: api2-16-h2-eagle-useast1a.musical.ly.edgekey.net
+  1245,38: api2-16-h2-eagle-useast2a.musical.ly.edgekey.net
+  1246,32: api2-16-h2-useast1a.musical.ly.edgekey.net
+  1247,32: api2-16-h2-useast2a.musical.ly.edgekey.net
+  1248,25: api2-16-quic.musical.ly.edgekey.net
+  1249,34: api2-16-quic-useast2a.musical.ly.edgekey.net
+  1250,31: api2-core-useast1a.musical.ly.edgekey.net
+  1251,31: api2-core-useast2a.musical.ly.edgekey.net
+  1252,26: api2-useast1a.musical.ly.edgekey.net
+  1253,26: api2-useast2a.musical.ly.edgekey.net
+  1254,19: applog.musical.ly.edgekey.net
+  1255,28: applog-useast1a.musical.ly.edgekey.net
+  1256,28: applog-useast2a.musical.ly.edgekey.net
+  1257,17: dm16.musical.ly.edgekey.net
+  1258,19: jsb-va.musical.ly.edgekey.net
+  1259,26: log2-useast1a.musical.ly.edgekey.net
+  1260,26: log2-useast2a.musical.ly.edgekey.net
+  1261,18: rtlog.musical.ly.edgekey.net
+  1262,20: webcast.musical.ly.edgekey.net
+  1263,29: webcast-useast1a.musical.ly.edgekey.net
+  1264,29: webcast-useast2a.musical.ly.edgekey.net
+  1265,22: webcast16.musical.ly.edgekey.net
+  1266,31: webcast16-useast2a.musical.ly.edgekey.net
+wildcard.musical.ly.edgekey.net
