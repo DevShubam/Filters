@@ -5,3 +5,4 @@ All the filters are compatible with AdGuard / uBlock Origin, and there are some 
 
 
 | **Title** | **Description** | **Syntax** | **Link**
+:-----------: :-----------: :-----------: :-----------:
