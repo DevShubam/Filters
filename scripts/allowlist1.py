@@ -1,3 +1,6 @@
+# Removes any lines in the blocklists, that contain domains listed in allow.txt
+# Currently not being used
+
 f = open("block.txt", errors="ignore")
 list1 = [i.strip() for i in f.readlines()]
 f.close()
