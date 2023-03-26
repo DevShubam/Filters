@@ -27,7 +27,7 @@
 ||beap.gemini.yahoo.com^
 ||firebaselogging-pa.googleapis.com^
 ||rtlog*.tiktokv.com^
-||ads.cricbuzz.com^^
+||ads.cricbuzz.com^
 ||ads.abovetopsecret.com^
 ||ads.aceweb.net^
 ||ads.activestate.com^
