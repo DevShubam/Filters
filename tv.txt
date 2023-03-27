@@ -1,9 +1,9 @@
 ! Title: TV AdBlock List
 ! Description: Blocks ads and trackers on smart TV's
-! Entries: 9
-! Version: 2 
+! Entries: 10
+! Version: 3
 ! Homepage: https://github.com/DevShubam/Filters
-! Last Modified: March 15, 2023
+! Last Modified: March 27, 2023
 ! Expires: 7 days
 ! Roku
 ||logs.roku.com^
@@ -21,3 +21,4 @@
 
 ! General Trackers
 ||api.ipify.org^
+||analytics.plex.com^
