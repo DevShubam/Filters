@@ -1,8 +1,8 @@
-! Title: https://blockd.shubam.tech
+! Title: Anti Drug filter
 ! Description: Filter to block Drug Sites or any site that claims that illegal drugs are safe
 ! Entries: 5
 ! Version: 1
-! Last Modified: March 27, 2021
+! Last Modified: March 29, 2023
 ||1-718-475-9088.com^
 ||1-800-532-4808.com^
 ||1-800-can-drug.com^
