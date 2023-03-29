@@ -1,9 +1,10 @@
 [AdBlock Plus 2.0]
 ! Title: Blockd
-! Version: 20230321
-! Last modified: March 21, 2023
-! Entries: 1733
+! Version: 20230329
+! Last modified: March 29, 2023
+! Entries: 1734
 ! Expires: 5 days (update frequency}
+||nvidia.tt.omtrdc.net^
 ||sw88.espn.com^
 ||sessions.bugsnag.com^
 ||a.teads.tv^
