@@ -1,16 +1,18 @@
-! Title: https://blockd.shubam.tech
+[AdBlock Plus 2.0]
+! Title: Crypto Miners
 ! Description: Filter to block crypto miners - This filter is not actively maintained. 
-! Version: 6
-! Entries: 11
-! Last Modified: April 10, 2022
-coinimp.com
-authedmine.com
-coin-cube.com
-coin-have.com
-coinhive.info
-coinimp.net
-freebitco.in
-coin-hive.com
-coinhive.com
-coinhive.net
-coinhive-proxy.party
+! Version: 7
+! Entries: 12
+! Last Modified: March 31, 2023
+||coinimp.com^
+||authedmine.com^
+||coin-cube.com^
+||coin-have.com^
+||coinhive.info^
+||coinimp.net^
+||freebitco.in^
+||coin-hive.com^
+||coinhive.com^
+||coinhive.net^
+||coinhive-proxy.party^
+||contribute.to-support.me^
