@@ -7,6 +7,10 @@ v3rmillion.net###content > div:first-child > div:first-child
 mail.google.com##div:nth-child(21) > div.nH:nth-child(3) > div.nH > div.nH.bkL:last-child > div.no:first-child > div.nH.oy8Mbf.nn.aeN:first-child > div.aeO:nth-child(2)
 mail.google.com##div:nth-child(21) > div.nH:nth-child(3) > div.nH > div.nH.bkL:last-child > div.no:first-child > div.nH.oy8Mbf.nn.aeN:first-child > div.akc.aZ6.YX:last-child
 youtube.com##.sparkles-light-cta.ytd-item-section-renderer.style-scope
+! removes annoying banners on microsoft math
+math.microsoft.com###__next > div.Hero_hero__1dQBM.Hero_desktop__1e_Ms:nth-child(5) > div.CenteredContainer_centeredContainer__xsmGZ.Hero_centeredContainer__2Ym2t:last-child > div.CenteredContainer_centeredContainerContent__1LMoc.Hero_centeredContainerContent__3D_eu:nth-child(2) > div > div.Hero_cta__1c8Ng.Hero_desktop__1e_Ms:first-child > div.Hero_ctaContent__3epAD:first-child > div.Hero_ctaContent2__2RIAU
+math.microsoft.com###__next > div.Hero_hero__1dQBM.Hero_desktop__1e_Ms:nth-child(5) > div.CenteredContainer_centeredContainer__xsmGZ.Hero_centeredContainer__2Ym2t:last-child > div.CenteredContainer_centeredContainerContent__1LMoc.Hero_centeredContainerContent__3D_eu:nth-child(2) > div > div.Hero_appImages__b82sE:last-child > picture > img:last-child
+math.microsoft.com###__next > div.Hero_hero__1dQBM.Hero_desktop__1e_Ms:nth-child(5) > div.Hero_imageContainer__3OgUk:first-child > img.Hero_desktop__1e_Ms
 
 ! Allow
 @@||widget.intercom.io/widget^$domain=smugmug.com
