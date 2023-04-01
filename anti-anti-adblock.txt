@@ -5,7 +5,6 @@
 ! Easylist AdBlock Warning Removal List
 !#include https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 !
-! Start my rules
 ##.b-blockadblock
 ###adb-actived
 ###adb-enabled
