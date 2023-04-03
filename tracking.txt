@@ -17,3 +17,4 @@
 ||imasdk.googleapis.com^
 ||chartbeat.net^
 ||nvidia.tt.omtrdc.net^
+||xp.apple.com^
