@@ -1,8 +1,9 @@
 ! Title: Shub's Ad Filter
 ! Description: Filter to Block Ads
-! Entries: 870
-! Version: 24
+! Entries: 871
+! Version: 25
 ! Expires: 1 day
+||video-ak.cdn.spotify.com^
 ||ads.reddit.com^
 ||beap.gemini.yahoo.com^
 ||googleadservices.com^
