@@ -2,6 +2,7 @@
 ! Description: Blocks Ads and Trackers on mobile devices
 ! Expires: 1 day
 ! Version 12
+! Entries: 472
 ||adsassets.waze.com^
 ||ads.reddit.com^
 ||d.reddit.com^
