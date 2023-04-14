@@ -2,7 +2,8 @@
 ! Description: Blocks Ads and Trackers on mobile devices
 ! Expires: 1 day
 ! Version 12
-! Entries: 472
+! Entries: 473
+||collector-*.px-client.net^
 ||adsassets.waze.com^
 ||ads.reddit.com^
 ||d.reddit.com^
