@@ -2,7 +2,7 @@
 ! Title: Blockd | Tracking
 ! Description: Blocking tracking, analytics, etc.
 ! Version 20230418
-! Entries: 15
+! Entries: 16
 ! Last modified: April 18, 2023
 ||google-analytics.com^
 ||analytics.plex.com^
@@ -20,3 +20,4 @@
 ||xp.apple.com^
 ||alb.reddit.com^
 ||settings-win.data.microsoft.com^
+||unagi.amazon.ca^
