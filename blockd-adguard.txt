@@ -2,8 +2,9 @@
 ! Title: Blockd
 ! Version: 20230418
 ! Last modified: April 18, 2023
-! Entries: 1737
+! Entries: 1738
 ! Expires: 5 days (update frequency)
+||unagi.amazon.ca^
 ||settings-win.data.microsoft.com^
 ||nvidia.tt.omtrdc.net^
 ||sw88.espn.com^
