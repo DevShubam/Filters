@@ -6,4 +6,4 @@ All the filters are compatible with AdGuard / uBlock Origin, and there are some 
 
 | Name | Description | Syntax | Link |
 | :---:   | :---: | :---: | :---: |
-| Ads | Filters to block ads   |  x  | x |
+| Ads | Filters to block ads   |  ABP  | https://raw.githubusercontent.com/DevShubam/Filters/main/ads.txt |
