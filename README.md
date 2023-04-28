@@ -6,7 +6,9 @@ All the filters are compatible with AdGuard / uBlock Origin, and there are some 
 
 | Name | Description | Syntax | Link |
 | :---:   | :---: | :---: | :---: |
-| Ads | Filters to block ads   |  ABP  | https://raw.githubusercontent.com/DevShubam/Filters/main/ads.txt |
+| Blockd | Large Filter to block ads, trackers, malware, and more | ABP | https://raw.githubusercontent.com/DevShubam/Filters/main/blockd-adguard.txt |
+| Blockd Mobile | Filter to block ads and trackers on mobile devices | ABP | https://raw.githubusercontent.com/DevShubam/Filters/main/mobile-adguard.txt
+| Ads | Filters to block ads |  ABP  | https://raw.githubusercontent.com/DevShubam/Filters/main/ads.txt |
 | Tracking | Filters to block trackers | ABP | https://raw.githubusercontent.com/DevShubam/Filters/main/tracking.txt |
 
 
