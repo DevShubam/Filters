@@ -1,9 +1,10 @@
 [AdBlock Plus 2.0]
 ! Title: Blockd
-! Version: 20230418
-! Last modified: April 18, 2023
-! Entries: 1738
+! Version: 20230704
+! Last modified: July 4, 2023
+! Entries: 1739
 ! Expires: 5 days (update frequency)
+||srmdata.com^
 ||unagi.amazon.ca^
 ||settings-win.data.microsoft.com^
 ||nvidia.tt.omtrdc.net^
