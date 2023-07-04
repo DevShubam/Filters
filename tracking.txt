@@ -1,9 +1,10 @@
 [AdBlock Plus 2.0]
 ! Title: Blockd | Tracking
 ! Description: Blocking tracking, analytics, etc.
-! Version 20230418
-! Entries: 16
-! Last modified: April 18, 2023
+! Version 20230704
+! Entries: 17
+! Last modified: July 4, 2023
+||srmdata.com^
 ||google-analytics.com^
 ||analytics.plex.com^
 ||logs.roku.com^
