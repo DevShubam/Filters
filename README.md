@@ -1,7 +1,7 @@
 # Blockd
 Here are all the filters / blocklists I've been working on. I have filters to block full on services like Google, and also lists to block ads and malware.
 
-All the filters are compatible with AdGuard / uBlock Origin, and there are some that can work with AdGuard Home / Pi-Hole. I also have some scripts here that make removing false positives from the lists much easier. 
+All the filters are compatible with AdGuard / uBlock Origin, and there are some that can work with AdGuard Home / Pi-Hole. I also have some scripts here that make removing false positives from the lists much easier. This project is currently not actively maintained, but I can recommend using the Blockd / Blockd Mobile lists, and the lists to block services if that is what you need.
 
 
 | Name | Description | Syntax | Link |
