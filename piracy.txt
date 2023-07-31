@@ -1,0 +1,2 @@
+! Title: Piracy Blocklist
+! Description: Blocks fake and unsafe piracy sites
