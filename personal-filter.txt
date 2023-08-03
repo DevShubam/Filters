@@ -11,7 +11,3 @@ youtube.com##.sparkles-light-cta.ytd-item-section-renderer.style-scope
 math.microsoft.com###__next > div.Hero_hero__1dQBM.Hero_desktop__1e_Ms:nth-child(5) > div.CenteredContainer_centeredContainer__xsmGZ.Hero_centeredContainer__2Ym2t:last-child > div.CenteredContainer_centeredContainerContent__1LMoc.Hero_centeredContainerContent__3D_eu:nth-child(2) > div > div.Hero_cta__1c8Ng.Hero_desktop__1e_Ms:first-child > div.Hero_ctaContent__3epAD:first-child > div.Hero_ctaContent2__2RIAU
 math.microsoft.com###__next > div.Hero_hero__1dQBM.Hero_desktop__1e_Ms:nth-child(5) > div.CenteredContainer_centeredContainer__xsmGZ.Hero_centeredContainer__2Ym2t:last-child > div.CenteredContainer_centeredContainerContent__1LMoc.Hero_centeredContainerContent__3D_eu:nth-child(2) > div > div.Hero_appImages__b82sE:last-child > picture > img:last-child
 math.microsoft.com###__next > div.Hero_hero__1dQBM.Hero_desktop__1e_Ms:nth-child(5) > div.Hero_imageContainer__3OgUk:first-child > img.Hero_desktop__1e_Ms
-
-! Allow
-@@||widget.intercom.io/widget^$domain=smugmug.com
-@@||adf.ly^
