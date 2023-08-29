@@ -1,9 +1,9 @@
 [AdBlock Plus 2.0]
 ! Title: Blockd | Tracking
 ! Description: Blocking tracking, analytics, etc.
-! Version 20230818
-! Entries: 19
-! Last modified: August 18, 2023
+! Version 20230829
+! Entries: 20
+! Last modified: August 29, 2023
 ||srmdata.com^
 ||google-analytics.com^
 ||analytics.plex.com^
@@ -24,3 +24,4 @@
 ||unagi.amazon.ca^
 ||treatment.grammarly.com^
 ||usage.readdle.com^
+||applovin.com^
