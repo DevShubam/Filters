@@ -1,8 +1,8 @@
 ! Title: Shub's Gambling Filter
 ! Description: Filter to Block Gambling Sites
-! Entries: 51
-! Version: 20
-! Last Modified: March 25, 2023
+! Entries: 52
+! Version: 21
+! Last Modified: January 5, 2024
 ||jackpotcity.ca^
 ||gambling.com^
 ||betgoto.com^
