@@ -1,8 +1,8 @@
 ! Title: Blockd Dating Services 
 ! Description: Filter to block dating sites and apps
-! Version: 100
-! Entries: 21
-! Last Modified: March 24, 2022
+! Version: 101
+! Entries: 22
+! Last Modified: January 22, 2024
 ! Homepage: https://github.com/DevShubam/Filters 
 ! License: https://github.com/DevShubam/Filters/blob/main/LICENSE
 ||benaughty.app^
@@ -26,3 +26,4 @@
 ||be2.ru^
 ||be2.se^
 ||bumble.com^
+||dilmil.co^
