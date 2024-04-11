@@ -1,0 +1,9 @@
+[AdBlock Plus 2.0]
+! Title: PiHole Commonly Whitelisted 
+! Description: List of domains from Pi-Hole's Commonly Whitelisted Domains
+! Version: 20240411
+! Last modified: April 11, 2024
+! Entries: 2
+! Expires: 5 days (update frequency)
+@@||clients4.google.com 
+@@||clients2.google.com^
