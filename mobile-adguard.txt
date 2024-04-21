@@ -1,8 +1,8 @@
 ! Title: Shub's Mobile Filter
 ! Description: Blocks Ads and Trackers on mobile devices
 ! Expires: 1 day
-! Version 12
-! Entries: 473
+! Version 13
+! Entries: 472
 ||collector-*.px-client.net^
 ||adsassets.waze.com^
 ||ads.reddit.com^
@@ -439,7 +439,6 @@
 ||adserver.freecity.de^
 ||adserver.freenet.de^
 ||adserver.friendfinder.com^
-||adserver.hardsextube.com^
 ||adserver.hardwareanalysis.com^
 ||adserver.html.it^
 ||adserver.irishwebmasterforum.com^
