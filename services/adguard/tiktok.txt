@@ -1,20 +1,20 @@
 [AdBlock Plus 2.0]
 ! Title: Tiktok Blocklist
 ! Description: Blocks Tiktok and it's services
-! Last Updated
-! Expires
-! Version
-musical.ly
-tiktok.com
-tiktok.com.edgesuite.net
-tiktokcdn.com
-tiktokcdn.com.akamaized.net
-tiktokcdn.com.c.worldfcdn.com
-tiktokcdn.com.edgesuite.net
-tiktokcdn.com.wsdvs.com
-tiktokcdn.liveplay.myqcloud.com
-tiktokv.com
-tiktokv.com.edgekey.net
-tiktokv.com.edgesuite.net
-bytedance.com
-byteoversea.com
+! Last Updated: April 24, 2024
+! Expires: 5 Days
+! Version: 3
+||musical.ly^
+||tiktok.com^
+||tiktok.com.edgesuite.net^
+||tiktokcdn.com^
+||tiktokcdn.com.akamaized.net^
+||tiktokcdn.com.c.worldfcdn.com^
+||tiktokcdn.com.edgesuite.net^
+||tiktokcdn.com.wsdvs.com^
+||tiktokcdn.liveplay.myqcloud.com^
+||tiktokv.com^
+||tiktokv.com.edgekey.net^
+||tiktokv.com.edgesuite.net^
+||bytedance.com^
+||byteoversea.com^
