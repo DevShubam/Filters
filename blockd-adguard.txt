@@ -1,9 +1,10 @@
 [AdBlock Plus 2.0]
 ! Title: Blockd
-! Version: 20230829
-! Last modified: August 29, 2023
-! Entries: 1741
+! Version: 20240612
+! Last modified: June 12, 2024
+! Entries: 1742
 ! Expires: 5 days (update frequency)
+||nosteam.ro^
 ||applovin.com^
 ||treatment.grammarly.com^
 ||srmdata.com^
