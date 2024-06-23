@@ -1,0 +1,28 @@
+[AdBlock Plus 2.0]
+! Title: Blockd | Tracking
+! Description: Blocking tracking, analytics, etc.
+! Version 20240623
+! Entries: 20
+! Last modified: June 6, 2024
+! This is a list I maintain of tracking domains I come across.
+||srmdata.com^
+||google-analytics.com^
+||analytics.plex.com^
+||logs.roku.com^
+||ping.ring.com^
+||collector.github.com^
+||androidtvchannels-pa.googleapis.com^
+||device-metrics-us-2.amazon.com^
+||mon.tiktokv.com^
+||mon-va.tiktokv.com^
+||intake-analytics.wikimedia.org^
+||imasdk.googleapis.com^
+||chartbeat.net^
+||nvidia.tt.omtrdc.net^
+||xp.apple.com^
+||alb.reddit.com^
+||settings-win.data.microsoft.com^
+||unagi.amazon.ca^
+||treatment.grammarly.com^
+||usage.readdle.com^
+||applovin.com^
