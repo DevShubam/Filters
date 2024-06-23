@@ -1,4 +1,0 @@
-! Title: Piracy Blocklist
-! Description: Blocks fake and unsafe piracy sites
-
-||fitgirl-repack.com^
