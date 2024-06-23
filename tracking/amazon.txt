@@ -1,4 +1,6 @@
 ! Blocks Amazon Tracking Servers
+||ping.ring.com^
+||es.ring.com^
 ||aan.amazon.co.jp^
 ||aan.amazon.com^
 ||aan.amazon.co.uk^
