@@ -15,7 +15,7 @@ def combine_filter_lists(input_files, output_file):
         with open(file, 'r', encoding='utf-8') as f:
             for line in f:
                 cleaned_line = line.strip()
-                if cleaned_line and not cleaned_line.startswith(('!', '[', '#'])):
+                if cleaned_line and not cleaned_line.startswith(('!', '[', '#')):
                     combined_filters.add(cleaned_line)
 
     # Sort the combined filters
