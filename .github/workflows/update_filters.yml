@@ -26,7 +26,7 @@ jobs:
 
       - name: Combine filter lists
         run: |
-          python auto_combine.py
+          python scripts/auto_combine.py
 
       - name: Commit and push changes
         run: |
