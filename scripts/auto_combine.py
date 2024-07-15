@@ -28,19 +28,12 @@ def combine_filter_lists(input_files, output_file):
 
 # Define multiple sets of URLs and output files
 filter_sets = {
-    'ads': {
+    'nsfw': {
         'urls': [
-            'https://example.com/ads_filterlist1.txt',
-            'https://example.com/ads_filterlist2.txt'
+            'https://airvpn.org/api/dns_lists/?code=pornaway_sites&style=domains',
+            'https://raw.githubusercontent.com/go2engineering/pihole-blocklists/main/pihole_blocklist_adult.list'
         ],
-        'output_file': 'ads/combined_filterlist_ads.txt'
-    },
-    'gambling': {
-        'urls': [
-            'https://example.com/gambling_filterlist1.txt',
-            'https://example.com/gambling_filterlist2.txt'
-        ],
-        'output_file': 'gambling/combined_filterlist_gambling.txt'
+        'output_file': 'nsfw/nsfw_combined.txt'
     }
     # Add more sets as needed
 }
