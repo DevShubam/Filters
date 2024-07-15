@@ -15,7 +15,7 @@ def combine_filter_lists(input_files, output_file):
         with open(file, 'r', encoding='utf-8') as f:
             for line in f:
                 cleaned_line = line.strip()
-                if cleaned_line and not cleaned_line.startswith(('!', '[', '#')):
+                if cleaned_line and not cleaned_line.startswith(('!', '[', '#'])):
                     combined_filters.add(cleaned_line)
 
     # Sort the combined filters
@@ -28,20 +28,19 @@ def combine_filter_lists(input_files, output_file):
 
 # Define multiple sets of URLs and output files
 filter_sets = {
-    'set1': {
+    'ads': {
         'urls': [
-            'https://example.com/filterlist1.txt',
-            'https://example.com/filterlist2.txt',
-            'https://example.com/filterlist3.txt'
+            'https://example.com/ads_filterlist1.txt',
+            'https://example.com/ads_filterlist2.txt'
         ],
-        'output_file': 'combined_filterlist_set1.txt'
+        'output_file': 'ads/combined_filterlist_ads.txt'
     },
-    'set2': {
+    'gambling': {
         'urls': [
-            'https://example.com/anotherfilterlist1.txt',
-            'https://example.com/anotherfilterlist2.txt'
+            'https://example.com/gambling_filterlist1.txt',
+            'https://example.com/gambling_filterlist2.txt'
         ],
-        'output_file': 'combined_filterlist_set2.txt'
+        'output_file': 'gambling/combined_filterlist_gambling.txt'
     }
     # Add more sets as needed
 }
@@ -53,6 +52,10 @@ for set_name, set_data in filter_sets.items():
         filename = f'{set_name}_filterlist{i}.txt'
         download_filter_list(url, filename)
         input_files.append(filename)
+    
+    # Create the directory if it does not exist
+    os.makedirs(os.path.dirname(set_data['output_file']), exist_ok=True)
+    
     combine_filter_lists(input_files, set_data['output_file'])
 
     # Clean up temporary files
