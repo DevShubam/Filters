@@ -8,6 +8,12 @@ def download_filter_list(url, filename):
     with open(filename, 'w', encoding='utf-8') as f:
         f.write(response.text)
 
+def clean_domain(domain):
+    # Remove 'www.' from the start of the domain
+    if domain.startswith('www.'):
+        domain = domain[4:]
+    return domain
+
 def combine_filter_lists(input_files, output_file, comments=None, version=1):
     combined_filters = set()
     num_entries = 0
@@ -24,7 +30,8 @@ def combine_filter_lists(input_files, output_file, comments=None, version=1):
                     if cleaned_line.endswith('^'):
                         cleaned_line = cleaned_line[:-1]
                     
-                    combined_filters.add(cleaned_line)
+                    cleaned_domain = clean_domain(cleaned_line)
+                    combined_filters.add(cleaned_domain)
                     num_entries += 1
 
     # Sort the combined filters
