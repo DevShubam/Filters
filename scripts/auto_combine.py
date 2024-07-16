@@ -11,7 +11,7 @@ def download_filter_list(url, filename):
 def clean_domain(domain):
     # Remove 'www.' from the start of the domain
     if domain.startswith('www.'):
-        domain = domain[4:]
+        domain = domain[4:]  # Remove 'www.' from the start
     return domain
 
 def combine_filter_lists(input_files, output_file, comments=None, version=1):
