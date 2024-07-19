@@ -1,6 +1,6 @@
 # Blockd
 
-Blockd is a collection of DNS filter lists aimed at improving your browsing experience by blocking unwanted content such as ads, trackers, and NSFW content. This repository is automatically updated every 48 hours to ensure that you always have the latest and most effective filter lists.
+Blockd is a collection of DNS filter lists aimed at improving your browsing experience by blocking unwanted content. These filterlists are created using a list I made myself, and it also combines popular lists maintained by others. It cleans the lists up, and applys a whitelist to prevent false positives. 
 
 ## Table of Contents
 
@@ -25,3 +25,8 @@ The NSFW filter list blocks access to adult content websites. It is automaticall
 
 
 To use this filter list, add the following URL to your DNS blocker or ad blocker:
+
+#### Included Lists: 
+
+
+## Contributing
