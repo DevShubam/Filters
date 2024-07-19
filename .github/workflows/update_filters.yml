@@ -2,7 +2,7 @@ name: Update Filter Lists
 
 on:
   schedule:
-    - cron: '0 0 */2 * *' # Runs every 2 days at midnight
+    - cron: '0 0 */1 * *' # Runs every day at midnight
   push:
     branches:
       - main
