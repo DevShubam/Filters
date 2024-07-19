@@ -58,7 +58,8 @@ filter_sets = {
     'nsfw': {
         'urls': [
             'https://airvpn.org/api/dns_lists/?code=pornaway_sites&style=domains',
-            'https://raw.githubusercontent.com/go2engineering/pihole-blocklists/main/pihole_blocklist_adult.list'
+            'https://raw.githubusercontent.com/go2engineering/pihole-blocklists/main/pihole_blocklist_adult.list',
+            'https://raw.githubusercontent.com/DevShubam/Filters/main/nsfw/nsfw-personal.txt'
         ],
         'output_file': 'nsfw/nsfw_combined.txt',
         'comments': [
