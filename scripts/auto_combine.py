@@ -14,9 +14,8 @@ def clean_domain(domain):
         domain = domain[4:]  # Remove 'www.' from the start
     return domain
 
-def combine_filter_lists(input_files, output_file, comments=None, version=1):
+def combine_filter_lists(input_files, output_file, comments=None):
     combined_filters = set()
-    num_entries = 0
 
     # Read each input file and add its lines to the set
     for file in input_files:
@@ -32,13 +31,16 @@ def combine_filter_lists(input_files, output_file, comments=None, version=1):
                     
                     cleaned_domain = clean_domain(cleaned_line)
                     combined_filters.add(cleaned_domain)
-                    num_entries += 1
 
     # Sort the combined filters
     sorted_filters = sorted(combined_filters)
+    
+    # Count the number of entries after all cleaning
+    num_entries = len(sorted_filters)
 
-    # Generate last modified date
+    # Generate last modified date and version
     last_modified = datetime.now().strftime("%B %d, %Y")
+    version = datetime.now().strftime("%Y%m%d")
 
     # Write the sorted filters with comments to the output file
     with open(output_file, 'w', encoding='utf-8') as f:
@@ -61,10 +63,9 @@ filter_sets = {
         'output_file': 'nsfw/nsfw_combined.txt',
         'comments': [
             "[AdBlock Plus 2.0]",
-            "! Title: Blockd",
-            "! Expires: 5 days (update frequency)"
-        ],
-        'version': 1  # Initial version number
+            "! Title: Blockd NSFW",
+            "! Expires: 2 days (update frequency)"
+        ]
     }
     # Add more sets as needed
 }
@@ -80,11 +81,8 @@ for set_name, set_data in filter_sets.items():
     # Create the directory if it does not exist
     os.makedirs(os.path.dirname(set_data['output_file']), exist_ok=True)
     
-    combine_filter_lists(input_files, set_data['output_file'], set_data.get('comments'), set_data['version'])
+    combine_filter_lists(input_files, set_data['output_file'], set_data.get('comments'))
 
     # Clean up temporary files
     for file in input_files:
         os.remove(file)
-
-    # Increment version for the next update
-    set_data['version'] += 1
