@@ -57,15 +57,18 @@ def combine_filter_lists(input_files, output_file, comments=None):
 filter_sets = {
     'nsfw': {
         'urls': [
+            'https://raw.githubusercontent.com/DevShubam/Filters/main/nsfw/nsfw-personal.txt',
             'https://airvpn.org/api/dns_lists/?code=pornaway_sites&style=domains',
-            'https://raw.githubusercontent.com/go2engineering/pihole-blocklists/main/pihole_blocklist_adult.list',
-            'https://raw.githubusercontent.com/DevShubam/Filters/main/nsfw/nsfw-personal.txt'
+            'https://blocklistproject.github.io/Lists/adguard/porn-ags.txt',
+            'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/RAW/Adult',
+            'https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4'
         ],
         'output_file': 'nsfw/nsfw_combined.txt',
         'comments': [
             "[AdBlock Plus 2.0]",
             "! Title: Blockd NSFW",
-            "! Expires: 2 days (update frequency)"
+            "! Expires: 2 days (update frequency)",
+            "! Description: Block Adult content"
         ]
     }
     # Add more sets as needed

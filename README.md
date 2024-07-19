@@ -28,5 +28,12 @@ To use this filter list, add the following URL to your DNS blocker or ad blocker
 
 #### Included Lists: 
 
+| Title | URL |
+| --- | --- |
+| Personal  | https://raw.githubusercontent.com/DevShubam/Filters/main/nsfw/nsfw-personal.txt |
+| AirVPN PornAway | https://airvpn.org/api/dns_lists/?code=pornaway_sites&style=domains |
+| Blocklist Project | https://blocklistproject.github.io/Lists/adguard/porn-ags.txt |
+| ShadowWhisperer | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/RAW/Adult |
+| RPiList | https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4 | 
 
 ## Contributing
