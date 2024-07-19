@@ -21,6 +21,3 @@ def combine_filter_lists(input_files, output_file):
 input_files = ['filterlist1.txt', 'filterlist2.txt', 'filterlist3.txt']
 output_file = 'combined_filterlist.txt'
 combine_filter_lists(input_files, output_file)
-
-
-# run 'python combine_filters.py'
