@@ -20,7 +20,7 @@ Blockd is licensed under the MIT License. See the [LICENSE](LICENSE) file for mo
 
 ### NSFW
 
-The NSFW filter list blocks access to adult content websites. It is automatically updated every 48 hours to include the latest known adult content domains.
+The NSFW filter list blocks access to adult content websites. It is automatically updated every 24 hours to include the latest known adult content domains.
 
 
 
