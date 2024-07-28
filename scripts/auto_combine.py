@@ -67,8 +67,8 @@ filter_sets = {
         'comments': [
             "[AdBlock Plus 2.0]",
             "! Title: Blockd NSFW",
-            "! Expires: 2 days (update frequency)",
             "! Description: Block Adult content"
+            "! Homepage: https://github.com/DevShubam/Filters"
         ]
     }
     # Add more sets as needed
