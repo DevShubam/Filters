@@ -92,7 +92,7 @@ filter_sets = {
             "! Description: Block Adult content",
             "! Homepage: https://github.com/DevShubam/Filters"
         ]
-    }
+    },
     'gambling': {
         'urls': [
             'https://github.com/DevShubam/Filters/raw/main/gambling/gambling-personal.txt',
