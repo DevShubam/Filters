@@ -9,6 +9,10 @@ def download_filter_list(url, filename):
         f.write(response.text)
 
 def clean_domain(domain):
+    # Remove '0.0.0.0 ' from the start of the domain
+    if domain.startswith('0.0.0.0 '):
+        domain = domain[8:]  # Remove '0.0.0.0 '
+    
     # Remove 'www.' from the start of the domain
     if domain.startswith('www.'):
         domain = domain[4:]  # Remove 'www.' from the start
