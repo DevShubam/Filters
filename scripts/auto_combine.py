@@ -14,11 +14,11 @@ def download_filter_list(url, filename):
 def clean_domain(domain):
     # Remove '0.0.0.0 ' from the start of the domain
     if domain.startswith('0.0.0.0 '):
-        domain = domain[8:]  # Remove '0.0.0.0 '
+        domain = domain[8:]
     
     # Remove 'www.' from the start of the domain
     if domain.startswith('www.'):
-        domain = domain[4:]  # Remove 'www.' from the start
+        domain = domain[4:]
     return domain
 
 def write_filter_file(output_file, filters, comments=None):
@@ -51,27 +51,29 @@ def combine_filter_lists(input_files, output_file, comments=None):
     sorted_filters = sorted(combined_filters)
     
     # Count the number of entries after all cleaning
-    num_entries = len(sorted_filters)
+    total_entries = len(sorted_filters)
 
     # Generate last modified date and version
     last_modified = datetime.now().strftime("%B %d, %Y")
     version = datetime.now().strftime("%Y%m%d")
 
-    # Update comments with the current date and entry count
+    # Write the full combined list
     if comments:
         comments.append(f"! Version: {version}")
         comments.append(f"! Last modified: {last_modified}")
-        comments.append(f"! Entries: {num_entries}")
-
-    # Write the full combined list
-    write_filter_file(output_file, sorted_filters, comments)
 
     # Split into parts if necessary
-    for i in range(0, len(sorted_filters), ENTRY_LIMIT):
+    for i in range(0, total_entries, ENTRY_LIMIT):
         part_filters = sorted_filters[i:i + ENTRY_LIMIT]
         part_number = (i // ENTRY_LIMIT) + 1
         part_output_file = f"{output_file.rsplit('.', 1)[0]}-part{part_number}.txt"
-        write_filter_file(part_output_file, part_filters, comments)
+        
+        # Update comments with the correct title and entry count for the part
+        part_comments = comments.copy()
+        part_comments[1] = f"! Title: Blockd NSFW (part {part_number})"
+        part_comments.append(f"! Entries: {len(part_filters)}")
+        
+        write_filter_file(part_output_file, part_filters, part_comments)
 
 # Define multiple sets of URLs, output files, and comments
 filter_sets = {
