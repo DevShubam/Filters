@@ -97,7 +97,8 @@ filter_sets = {
         'urls': [
             'https://github.com/DevShubam/Filters/raw/main/gambling/gambling-personal.txt',
             'https://github.com/blocklistproject/Lists/raw/master/gambling.txt',
-            'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling-onlydomains.txt'
+            'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling-onlydomains.txt',
+            'https://github.com/StevenBlack/hosts/raw/master/alternates/gambling/hosts'
         ],
         'output_file': 'gambling/gambling-combined.txt',
         'comments': [
