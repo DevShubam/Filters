@@ -2,6 +2,9 @@ import requests
 import os
 from datetime import datetime
 
+# Define a limit for the number of entries per file
+ENTRY_LIMIT = 500000
+
 def download_filter_list(url, filename):
     response = requests.get(url)
     response.raise_for_status()  # Check for request errors
@@ -17,6 +20,14 @@ def clean_domain(domain):
     if domain.startswith('www.'):
         domain = domain[4:]  # Remove 'www.' from the start
     return domain
+
+def write_filter_file(output_file, filters, comments=None):
+    with open(output_file, 'w', encoding='utf-8') as f:
+        if comments:
+            f.write('\n'.join(comments) + '\n')
+            f.write('\n')
+        for filter in filters:
+            f.write(f"||{filter}^\n")
 
 def combine_filter_lists(input_files, output_file, comments=None):
     combined_filters = set()
@@ -46,16 +57,21 @@ def combine_filter_lists(input_files, output_file, comments=None):
     last_modified = datetime.now().strftime("%B %d, %Y")
     version = datetime.now().strftime("%Y%m%d")
 
-    # Write the sorted filters with comments to the output file
-    with open(output_file, 'w', encoding='utf-8') as f:
-        if comments:
-            f.write('\n'.join(comments) + '\n')
-            f.write(f"! Version: {version}\n")
-            f.write(f"! Last modified: {last_modified}\n")
-            f.write(f"! Entries: {num_entries}\n")
-            f.write('\n')
-        for filter in sorted_filters:
-            f.write(f"||{filter}^\n")
+    # Update comments with the current date and entry count
+    if comments:
+        comments.append(f"! Version: {version}")
+        comments.append(f"! Last modified: {last_modified}")
+        comments.append(f"! Entries: {num_entries}")
+
+    # Write the full combined list
+    write_filter_file(output_file, sorted_filters, comments)
+
+    # Split into parts if necessary
+    for i in range(0, len(sorted_filters), ENTRY_LIMIT):
+        part_filters = sorted_filters[i:i + ENTRY_LIMIT]
+        part_number = (i // ENTRY_LIMIT) + 1
+        part_output_file = f"{output_file.rsplit('.', 1)[0]}-part{part_number}.txt"
+        write_filter_file(part_output_file, part_filters, comments)
 
 # Define multiple sets of URLs, output files, and comments
 filter_sets = {
@@ -71,7 +87,7 @@ filter_sets = {
         'comments': [
             "[AdBlock Plus 2.0]",
             "! Title: Blockd NSFW",
-            "! Description: Block Adult content"
+            "! Description: Block Adult content",
             "! Homepage: https://github.com/DevShubam/Filters"
         ]
     }
