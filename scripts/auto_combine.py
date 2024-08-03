@@ -93,6 +93,20 @@ filter_sets = {
             "! Homepage: https://github.com/DevShubam/Filters"
         ]
     }
+    'gambling': {
+        'urls': [
+            'https://github.com/DevShubam/Filters/raw/main/gambling/gambling-personal.txt',
+            'https://github.com/blocklistproject/Lists/raw/master/gambling.txt',
+            'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling-onlydomains.txt'
+        ],
+        'output_file': 'gambling/gambling-combined.txt',
+        'comments': [
+            "[AdBlock Plus 2.0]",
+            "! Title: Blockd Gambling",
+            "! Description: Block Gambling Domains",
+            "! Homepage: https://github.com/DevShubam/Filters"
+        ]
+    }
     # Add more sets as needed
 }
 
