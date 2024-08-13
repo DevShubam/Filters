@@ -57,10 +57,14 @@ def combine_filter_lists(input_files, output_file, comments=None):
     last_modified = datetime.now().strftime("%B %d, %Y")
     version = datetime.now().strftime("%Y%m%d")
 
-    # Write the full combined list
+    # Update comments with the current date and entry count
     if comments:
         comments.append(f"! Version: {version}")
         comments.append(f"! Last modified: {last_modified}")
+        comments.append(f"! Entries: {total_entries}")
+
+    # Write the full combined list
+    write_filter_file(output_file, sorted_filters, comments)
 
     # Split into parts if necessary
     for i in range(0, total_entries, ENTRY_LIMIT):
@@ -70,8 +74,8 @@ def combine_filter_lists(input_files, output_file, comments=None):
         
         # Update comments with the correct title and entry count for the part
         part_comments = comments.copy()
-        part_comments[1] = f"! Title: Blockd NSFW (part {part_number})"
-        part_comments.append(f"! Entries: {len(part_filters)}")
+        part_comments[1] = f"! Title: {comments[1].replace('Title:', '').strip()} (part {part_number})"
+        part_comments[-1] = f"! Entries: {len(part_filters)}"
         
         write_filter_file(part_output_file, part_filters, part_comments)
 
