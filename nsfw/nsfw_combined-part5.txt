@@ -2,13 +2,10 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20240813
-! Last modified: August 13, 2024
-! Entries: 20582
+! Version: 20240814
+! Last modified: August 14, 2024
+! Entries: 20579
 
-||xxxgaymatches.com^
-||xxxgaymen.com^
-||xxxgaymennaked.tumblr.com^
 ||xxxgaymovies.co.uk^
 ||xxxgaymovies.mobi^
 ||xxxgaymovs.com^
