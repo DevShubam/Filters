@@ -2,10 +2,15 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20240814
-! Last modified: August 14, 2024
-! Entries: 20579
+! Version: 20240815
+! Last modified: August 15, 2024
+! Entries: 20609
 
+||xxxgaylov3r.tumblr.com^
+||xxxgaymail.com^
+||xxxgaymatches.com^
+||xxxgaymen.com^
+||xxxgaymennaked.tumblr.com^
 ||xxxgaymovies.co.uk^
 ||xxxgaymovies.mobi^
 ||xxxgaymovs.com^
@@ -1604,6 +1609,7 @@
 ||xxxlive.se^
 ||xxxlive.startplezier.nl^
 ||xxxlivebabes.com^
+||xxxlivecam.cam^
 ||xxxlivecam.com^
 ||xxxlivecam.de^
 ||xxxlivecam.eu^
@@ -1612,6 +1618,7 @@
 ||xxxlivecam.org^
 ||xxxlivecamchat.com^
 ||xxxlivecamgirls.com^
+||xxxlivecams.cam^
 ||xxxlivecams.com^
 ||xxxlivecams.nl^
 ||xxxlivecams.org^
@@ -1620,11 +1627,14 @@
 ||xxxlivechat.eu^
 ||xxxlivechat.org^
 ||xxxlivegay.com^
+||xxxlivegirl.cam^
+||xxxlivegirls.cam^
 ||xxxlivegirls.club^
 ||xxxlivegirls.net^
 ||xxxlivehd.com^
 ||xxxlivenew.xyz^
 ||xxxlivenude.com^
+||xxxliveporn.cam^
 ||xxxliveporncams.com^
 ||xxxlivesex.de^
 ||xxxlivesex.nl^
@@ -1690,6 +1700,7 @@
 ||xxxlounge.net^
 ||xxxlovablebeast.tumblr.com^
 ||xxxlove.ar^
+||xxxlove.cam^
 ||xxxlove.canalblog.com^
 ||xxxlove.cc^
 ||xxxlove.ch^
@@ -1704,18 +1715,32 @@
 ||xxxlove.pro^
 ||xxxlove.sx^
 ||xxxlove.tv^
+||xxxlove4free.cam^
 ||xxxlove4sex.tumblr.com^
+||xxxlove4you.cam^
+||xxxlovecam.cam^
 ||xxxlovecam.net^
+||xxxlovecamgirl.cam^
+||xxxlovecams.cam^
 ||xxxlovecams.com^
+||xxxlovecash.cam^
 ||xxxloved.com^
+||xxxlovefree.cam^
+||xxxlovegirl.cam^
+||xxxlovegirls.cam^
 ||xxxlovehotgirl.com^
 ||xxxlovelive.com^
+||xxxlovemodel.cam^
+||xxxlovemodels.cam^
 ||xxxlovensexxx.tumblr.com^
+||xxxloveporn.cam^
+||xxxloveporno.cam^
 ||xxxlover.info^
 ||xxxlovers.com^
 ||xxxloves.com^
 ||xxxlovetoys.co.uk^
 ||xxxlovevideos.com^
+||xxxloveweb.cam^
 ||xxxloving.com^
 ||xxxlowellathletics.olinesports.com^
 ||xxxlowhot.com^
@@ -3712,6 +3737,7 @@
 ||xxxpornvideo.me^
 ||xxxpornvideo.name^
 ||xxxpornvideo.net^
+||xxxpornvideo.online^
 ||xxxpornvideo.org^
 ||xxxpornvideo.rodeo^
 ||xxxpornvideo.vip^
@@ -5096,6 +5122,7 @@
 ||xxxtaiwan.com^
 ||xxxtake-mexxx.tumblr.com^
 ||xxxtalentcash.com^
+||xxxtalk.net^
 ||xxxtamil.org^
 ||xxxtamil.top^
 ||xxxtangeray.cam^
@@ -5267,7 +5294,6 @@
 ||xxxteenyoung.com^
 ||xxxteenyporn.com^
 ||xxxteenz.com^
-||xxxtele.dk^
 ||xxxtele.se^
 ||xxxtelefonsex.com^
 ||xxxtelugu.net^
@@ -8402,6 +8428,7 @@
 ||yaoismbondage.tumblr.com^
 ||yaoisource.com^
 ||yaoispunkcomic.blogspot.com^
+||yaoitoon.com^
 ||yaoitoons.net^
 ||yaoitube.net^
 ||yaoiweb.com^
@@ -18328,6 +18355,7 @@
 ||zinaz2.tumblr.com^
 ||zinbusiness.com^
 ||zinc-lead-titanium.tumblr.com^
+||zinchanmanga.com^
 ||zindagi.com.co^
 ||zindagigayejaa.org^
 ||zindianporn.com^
@@ -18470,6 +18498,7 @@
 ||zixi123.com^
 ||zixporn.com^
 ||zixun9.com^
+||ziy2zkzrc1.com^
 ||ziyaa.co.in^
 ||ziyaa.net^
 ||ziyaasen.com^
@@ -18645,6 +18674,7 @@
 ||zmnow.id^
 ||zmoda.hostreo.com^
 ||zmovs.com^
+||zmq72.com^
 ||zmrr10.com^
 ||zms-soap.com^
 ||zmsexe.com^
