@@ -2,10 +2,32 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20240820
-! Last modified: August 20, 2024
-! Entries: 245
+! Version: 20240821
+! Last modified: August 21, 2024
+! Entries: 267
 
+||zwartneuktwit.maakjestart.nl^
+||zwartporno.com^
+||zwatcha.canalblog.com^
+||zwav8.xyz^
+||zwav9.buzz^
+||zwcr.xyz^
+||zwdsy.com^
+||zwebcams.com^
+||zweepje.nl^
+||zweetsinner.com^
+||zweetspleet.nl^
+||zwei-frauen-und-ein-mann-beim-sex-geile-fickerei.pages.dev^
+||zwei.in^
+||zweilochstute.com^
+||zweiporn.cam^
+||zweiporn.com^
+||zwerge-sex.de^
+||zwerge.xt5.de^
+||zwergensex.com^
+||zwergme.tumblr.com^
+||zwezdrusex.org^
+||zwhite.canalblog.com^
 ||zwhores.com^
 ||zwhzs.com^
 ||zwiazane-kurwiszcze.blogspot.com^
