@@ -2,21 +2,10 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20240825
-! Last modified: August 25, 2024
-! Entries: 659
+! Version: 20240826
+! Last modified: August 26, 2024
+! Entries: 648
 
-||zprostitutki-igevska.com^
-||zprostitutki-irkutska.com^
-||zprostitutki-ivanovo.com^
-||zprostitutki-kaliningrada.com^
-||zprostitutki-kazani.com^
-||zprostitutki-kemerovo.com^
-||zprostitutki-khabarovska.com^
-||zprostitutki-krasnodara.com^
-||zprostitutki-krasnoyarska.com^
-||zprostitutki-kurska.com^
-||zprostitutki-lipetska.com^
 ||zprostitutki-magnitogorska.com^
 ||zprostitutki-nignego.com^
 ||zprostitutki-nizhnevartovska.com^
