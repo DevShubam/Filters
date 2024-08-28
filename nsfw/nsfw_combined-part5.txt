@@ -2,10 +2,48 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20240827
-! Last modified: August 27, 2024
-! Entries: 1094
+! Version: 20240828
+! Last modified: August 28, 2024
+! Entries: 1132
 
+||zoom.forsale^
+||zoom.lu^
+||zoom.photo^
+||zoom.porn^
+||zoomadult.com^
+||zoomag.blogspot.com^
+||zoomairxxx.tumblr.com^
+||zoomarte.com.br^
+||zoomba619.blogspot.com^
+||zoombaboomba.blogspot.com^
+||zoomcamgirls.com^
+||zoomedical.com.br^
+||zoomedpussy.com^
+||zoomflings.com^
+||zoomfree.com^
+||zoomgay.com^
+||zoomgirls.net^
+||zoomhentai.com^
+||zoomhookups.com^
+||zoomilf.com^
+||zooming.vip^
+||zoomintheroom.tumblr.com^
+||zoomix.free.fr^
+||zoomlensphotos.com^
+||zoomlevoyeur.canalblog.com^
+||zoommalebody.tumblr.com^
+||zoomobileporn.com^
+||zoomovies.com^
+||zoomovies.org^
+||zoomovs.org^
+||zoomp4.online^
+||zoompegs.com^
+||zoomporn.pro^
+||zoomporno.ru^
+||zoomporno.top^
+||zoomporno.tumblr.com^
+||zoomporntube.com^
+||zoompussy.com^
 ||zoomri.tumblr.com^
 ||zoomsextube.com^
 ||zoomsextube.net^
