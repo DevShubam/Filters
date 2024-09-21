@@ -2,10 +2,89 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20240920
-! Last modified: September 20, 2024
-! Entries: 98433
+! Version: 20240921
+! Last modified: September 21, 2024
+! Entries: 98539
 
+||topsexmy.com^
+||topsexnow.com^
+||topsexold.com^
+||topsexpagina.nl^
+||topsexpale.com^
+||topsexphoto.blogspot.com^
+||topsexplanetannuaire.free.fr^
+||topsexplanethardcore.free.fr^
+||topsexplanetphotos.free.fr^
+||topsexplanetsponsors.free.fr^
+||topsexplanetvideos.free.fr^
+||topsexpop.nl^
+||topsexporno.com^
+||topsexpro.shop^
+||topsexpro.store^
+||topsexpro1.shop^
+||topsexpuppe.de^
+||topsexred.com^
+||topsexrich.com^
+||topsexsad.com^
+||topsexscenes.com^
+||topsexseiten.ch^
+||topsexshop.com.ua^
+||topsexshop.ru^
+||topsexshop.ru.learncours.ru^
+||topsexshops.ru^
+||topsexsims.supertop-100.com^
+||topsexsimulatorgames.com^
+||topsexspielzeuge.de^
+||topsexstore.com^
+||topsexstories.tumblr.com^
+||topsexstory.com^
+||topsextape.com^
+||topsexteen.com^
+||topsextoons.com^
+||topsextoys.ru^
+||topsextoyshops.com^
+||topsextoyspornpics.tumblr.com^
+||topsextoysshop.com^
+||topsextrung.com^
+||topsexual.com^
+||topsexualporn.tumblr.com^
+||topsexv.blogspot.com^
+||topsexverhalen.nl^
+||topsexvid.com^
+||topsexvideo.cc^
+||topsexvideo.info^
+||topsexvideos.nl^
+||topsexvideos.pro^
+||topsexvideos.su^
+||topsexvids.xyz^
+||topsexviet.club^
+||topsexviet.org^
+||topsexviet.pro^
+||topsexviet.xyz^
+||topsexvietnam.pro^
+||topsexvn.com^
+||topsexvn.pro^
+||topsexweb.com^
+||topsexweb.it^
+||topsexwebsite.com^
+||topsexwebsites.com^
+||topsexwebsites.eu^
+||topsexwet.com^
+||topsexx.eu^
+||topsexxxx.link^
+||topsexy-news.com^
+||topsexy.blogtrafic.com^
+||topsexy.net^
+||topsexy.pt^
+||topsexy69.com^
+||topsexy974.blogspot.com^
+||topsexycam.free.fr^
+||topsexycams.com^
+||topsexycelebrity.com^
+||topsexydoll.com^
+||topsexyfeet.com^
+||topsexygames.com^
+||topsexygirl.over-blog.net^
 ||topsexygirl.tk^
 ||topsexygirls.net^
 ||topsexylist.com^
@@ -1670,6 +1749,7 @@
 ||tovit.de^
 ||tovx.com^
 ||tow.co.il^
+||towamowacafe.com^
 ||towardsdevelopment.blogspot.com^
 ||towares.com^
 ||towaru.ru^
@@ -9056,7 +9136,6 @@
 ||tstvpersonals.com^
 ||tstvtube.com^
 ||tstyra.com^
-||tsubadaisukikurabu.com^
 ||tsubafeti.com^
 ||tsubakism.com^
 ||tsubasajav.blogspot.com^
@@ -16641,6 +16720,7 @@
 ||ulluuncut.org^
 ||ulluuncut.xyz^
 ||ulluuncut2.com^
+||ulluwebseriesvideo.pro^
 ||ulm-models.com^
 ||ulma-analfuck.tumblr.com^
 ||ulmf.org^
@@ -16809,6 +16889,7 @@
 ||ultimatephonegirls.com^
 ||ultimatephonesex.net^
 ||ultimatephonesex.org^
+||ultimateporn.info^
 ||ultimateporncams.com^
 ||ultimatepornfan.blogspot.com^
 ||ultimateporngalleries.com^
@@ -17189,9 +17270,11 @@
 ||ultramovie.pl^
 ||ultramovies.us^
 ||ultrampg.com^
+||ultramvs.com^
 ||ultranackt.tumblr.com^
 ||ultranicegirlkd.tumblr.com^
 ||ultranikki.lip.st^
+||ultranovation.ru^
 ||ultranow.blogspot.com^
 ||ultranow.typepad.com^
 ||ultrantexansfan.tumblr.com^
@@ -17334,6 +17417,7 @@
 ||ultraxamateur.com^
 ||ultraxporn.com^
 ||ultraxtube.com^
+||ultraxvids.com^
 ||ultraxxx.com^
 ||ultraxxxhd.com^
 ||ultraxxxlesbians.com^
@@ -18934,7 +19018,6 @@
 ||unisecconsortium.eu^
 ||uniseptic.ru^
 ||uniservis.net^
-||unisex-friseure.de^
 ||unisex.ee^
 ||unisex.nl^
 ||unisexandlifestyle.eu^
@@ -21135,7 +21218,6 @@
 ||usedpantyworld.com^
 ||usedporn.com^
 ||usedporn.eu^
-||usedporndvds.com^
 ||usedporno.com^
 ||usedpussyisgood.tumblr.com^
 ||usedsloopypussy.tumblr.com^
@@ -21535,6 +21617,7 @@
 ||utamumoto.blogspot.com^
 ||utanmazkizlar.com^
 ||utanmazturkler.com^
+||utasha.net^
 ||utatane-lm.com^
 ||utatane-nh.com^
 ||utazasivasar.hu^
@@ -25705,6 +25788,7 @@
 ||vibofun.nl^
 ||vibokep.cc^
 ||vibokep.fun^
+||vibokep.id^
 ||vibokep.pics^
 ||vibokep.xyz^
 ||vibokepxxx.blogspot.com^
@@ -35862,6 +35946,7 @@
 ||vlxx.mobi^
 ||vlxx.moe^
 ||vlxx.network^
+||vlxx.pet^
 ||vlxx.pro^
 ||vlxx.rocks^
 ||vlxx.run^
@@ -39365,6 +39450,7 @@
 ||vxxx.online^
 ||vxxx.site^
 ||vxxx.skin^
+||vxxx.website^
 ||vxxx.work^
 ||vxxx2.com^
 ||vxxxcdn.net^
@@ -39413,6 +39499,7 @@
 ||vyshaliforu.blogspot.com^
 ||vyshivai.ru^
 ||vysotnygorod.ru^
+||vyspelesousedky.com^
 ||vytr.info^
 ||vyuni.tumblr.com^
 ||vyvyan25.blogspot.com^
@@ -39548,6 +39635,7 @@
 ||w4bs.blogspot.com^
 ||w4c.cc^
 ||w4mbbw.com^
+||w4nkr.com^
 ||w4nktime-deactivated20140806.tumblr.com^
 ||w4porn.com^
 ||w4rez.org^
@@ -41251,7 +41339,6 @@
 ||watchbabeshows.com^
 ||watchbbwporn.com^
 ||watchbbwporn.net^
-||watchbdsm.com^
 ||watchbdsm.net^
 ||watchbestmilf.com^
 ||watchbestsex.com^
@@ -41721,7 +41808,6 @@
 ||watchsluts.com^
 ||watchsmut.com^
 ||watchspycams.com^
-||watchstreamingporn.com^
 ||watchstreamingpornvideo.blogspot.com^
 ||watchstreamporn.com^
 ||watchteencam.com^
@@ -48643,7 +48729,6 @@
 ||wetpet23.tumblr.com^
 ||wetpetal.tumblr.com^
 ||wetphone.com^
-||wetphonesex.com^
 ||wetpics.com^
 ||wetpinkdreams.flnet.org^
 ||wetpinkhoney.com^
@@ -51214,7 +51299,6 @@
 ||wideomodelki.pl^
 ||wideopencunt.com^
 ||wideopenhotpussy.tumblr.com^
-||wideopenpussies.com^
 ||wideopenpussies.tumblr.com^
 ||widephatbooty688.tumblr.com^
 ||widerstand.org^
@@ -53668,6 +53752,7 @@
 ||wladimirpayen.com^
 ||wlady.bachelor.free.fr^
 ||wlapatata.com^
+||wlbtech.site^
 ||wlchsl.com^
 ||wlcka.tumblr.com^
 ||wldndrty.tumblr.com^
@@ -53981,6 +54066,7 @@
 ||wolrdpornvips1.click^
 ||wolrdpornvips3.click^
 ||wolrdteenparadise.com^
+||wolrmy.com^
 ||woltzmedia.com^
 ||wolume.com^
 ||wolverine.games.webjump.com^
@@ -60245,6 +60331,7 @@
 ||xdvdz.com^
 ||xdw33.com^
 ||xdxdlol.tk^
+||xdxx.com^
 ||xdydaohang.com^
 ||xe21.com^
 ||xe53.com^
@@ -61692,6 +61779,7 @@
 ||xhchannel3.com^
 ||xhchannel4.com^
 ||xhchick.xyz^
+||xhclpj.com^
 ||xhcontent.com^
 ||xhcporn.com^
 ||xhd.mx^
@@ -61819,6 +61907,7 @@
 ||xhlive.cam^
 ||xhlive.org^
 ||xhlocal.com^
+||xhltg.com^
 ||xhm.mobi^
 ||xhm311.top^
 ||xhmailer.site^
@@ -63978,7 +64067,6 @@
 ||xn----jtbhede0biaeco.tv^
 ||xn----jtbisccbfkql9b.com^
 ||xn----jtbokebcckdlay.net^
-||xn----jtbrgebeef8aw7e.xn--p1ai^
 ||xn----oncafa0fl.tv^
 ||xn----otbbgfjebee6am9jpa.xn--p1ai^
 ||xn----ptbahmcdbglz.xn--p1ai^
@@ -64020,6 +64108,7 @@
 ||xn--12cl2bca0a9jsa8a7e1dc3gd.com^
 ||xn--12cl2bca0a9jsa8a7e1dc3gd.tv^
 ||xn--12cl2bu3go0a5d9cud.com^
+||xn--12cl2bu3go0a5d9cud.net^
 ||xn--12cl2bu6aya5cs8a8b9a7f9d.com^
 ||xn--12cl2buca7fybuba7bxgwexc0b1f.com^
 ||xn--12cl2cgltv8etcp4mwa9h.com^
@@ -64035,6 +64124,7 @@
 ||xn--12cln7c7aya4cs8a9b5gtd3c.com^
 ||xn--12cln7c7aya4cs8a9b5gtd3c.net^
 ||xn--12cln7c7aya4cs8a9b5gtd3c.tv^
+||xn--12cm2bul1b3dm5bf3fwfre.com^
 ||xn--12cm8c3bmy4bf6a.com^
 ||xn--12cmb2cha4rsb7e.com^
 ||xn--12cn2dqscy2g5a5iqf.com^
@@ -64077,6 +64167,7 @@
 ||xn--2-5wf7cj4ag2d7bd1o4cj.com^
 ||xn--2-cxf2cudi4c.com^
 ||xn--2-tud0bk8bncd2c2ab0evahf2i7c3a.com^
+||xn--2-twfr5czaca9g3bwaba1c5gze1c3b6f.com^
 ||xn--2-wxf2e3an9l.com^
 ||xn--2-ztbcbch.cam^
 ||xn--2-ztbcbch.help^
@@ -67012,6 +67103,7 @@
 ||xoxo.pl^
 ||xoxoalexis.com^
 ||xoxoangelawhite.com^
+||xoxoav.com^
 ||xoxobbwporn.com^
 ||xoxobella.com^
 ||xoxobeth.blogspot.com^
@@ -69282,6 +69374,7 @@
 ||xuejiandywa.com^
 ||xuejiefl.top^
 ||xuelexing.com^
+||xueli17.buzz^
 ||xuelianhotel.com^
 ||xuenvwg.com^
 ||xueqiu666.com^
@@ -75748,7 +75841,6 @@
 ||xxxbucksparties.com.au^
 ||xxxbuddies.com^
 ||xxxbuddy.co^
-||xxxbuddy.com^
 ||xxxbuff.com^
 ||xxxbuffyfreakxxx.web-log.nl^
 ||xxxbukkake.com^
@@ -77695,7 +77787,6 @@
 ||xxxguys.com^
 ||xxxguysex.com^
 ||xxxgwidonxxx.wrzuta.pl^
-||xxxgym.com^
 ||xxxh.xyz^
 ||xxxh2o.com^
 ||xxxha-bonxxx.skyblog.com^
@@ -86109,6 +86200,7 @@
 ||yed500.com^
 ||yed77.blogspot.com^
 ||yed9.com^
+||yedd.me^
 ||yedd.net^
 ||yeddek69.blogspot.com^
 ||yedfin.com^
@@ -86526,6 +86618,7 @@
 ||yeserospintores.com.uy^
 ||yesescue-filegacy.com^
 ||yeseter.com^
+||yesewangchao.com^
 ||yesewc1.com^
 ||yesewc5.com^
 ||yesexp.com^
@@ -86855,6 +86948,7 @@
 ||yesxtube.blogspot.com^
 ||yesxxx.co^
 ||yesxxx.com.es^
+||yesxxx.pw^
 ||yesxxx.xyz^
 ||yesxxxpornvideowatchwritenow.blogspot.com^
 ||yesxxxtube.com^
@@ -86904,6 +86998,7 @@
 ||yeu18.site^
 ||yeu181.store^
 ||yeu365.com^
+||yeuhentai.xyz^
 ||yeumoitruong.vn^
 ||yeuphimmoi.com^
 ||yeuphimsex.biz^
@@ -87114,6 +87209,7 @@
 ||yijieshunda.top^
 ||yiju958.com^
 ||yijuweixin.com^
+||yijuzhen.com^
 ||yikes-im-gay.tumblr.com^
 ||yikes2014.tumblr.com^
 ||yikezu.com^
@@ -87148,6 +87244,8 @@
 ||yingav8.com^
 ||yingav9.com^
 ||yingguosuojiblog.com^
+||yinghuawa.com^
+||yinghuaya.com^
 ||yingpian8.com^
 ||yingpian89.com^
 ||yingtaohub.com^
@@ -93247,6 +93345,7 @@
 ||yu3n.com^
 ||yu7711.com^
 ||yuajav.com^
+||yuan-da.com^
 ||yuanabx.life^
 ||yuanchenghuiyi.com^
 ||yuanchenhao.com^
@@ -93398,6 +93497,7 @@
 ||yuliassecret.com^
 ||yulieart.com^
 ||yuliia.sexy^
+||yulijt.com^
 ||yulinzaixian.com^
 ||yulixxxs.tumblr.com^
 ||yuliyaanp.tumblr.com^
@@ -93909,6 +94009,7 @@
 ||ywebjf30.cn^
 ||ywesexiwuq.tk^
 ||ywhhzs.com^
+||ywj001.com^
 ||ywldkddqx.bid^
 ||ywmeitu.com^
 ||ywmod.info^
@@ -93951,6 +94052,7 @@
 ||yxsyjxh.com^
 ||yxtdupqc.bid^
 ||yxtishka.blogspot.com^
+||yxtlh.com^
 ||yxtv29.cc^
 ||yxtv35.cc^
 ||yxurqp6-free-clips.blogspot.com^
@@ -95575,6 +95677,7 @@
 ||zh.olablacksex.com^
 ||zh.seksi1.top^
 ||zh.zhgals.com^
+||zh22.mom^
 ||zh3-stroking-long-blk-hard.tumblr.com^
 ||zh5184.com^
 ||zh56sh.com^
@@ -95992,6 +96095,7 @@
 ||zimmer-zu-vermieten.de^
 ||zimmerhanzelsbarbeque.com^
 ||zimom.com^
+||zimu.app^
 ||zimukuhd.com^
 ||zimzimer.tumblr.com^
 ||zina-magazin.ru^
@@ -96106,6 +96210,7 @@
 ||zipturk.com^
 ||ziqqawest.tumblr.com^
 ||ziraffa.eu^
+||zirakpurcallgirl.com^
 ||zirakpurcallgirls.co.in^
 ||zirakpurcallgirls.com^
 ||zirakpurescort.com^
@@ -96177,6 +96282,7 @@
 ||zizijet.fr^
 ||zizipedia.blogspot.com^
 ||zizipetit.tumblr.com^
+||ziziporn.com^
 ||zizisanscomplexes.allmyblog.com^
 ||zizishop.net^
 ||zizitordu.free.fr^
