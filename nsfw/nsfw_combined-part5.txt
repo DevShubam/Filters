@@ -2,10 +2,45 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20240924
-! Last modified: September 24, 2024
-! Entries: 104628
+! Version: 20240925
+! Last modified: September 25, 2024
+! Entries: 104660
 
+||tits.me.uk^
+||tits.monster^
+||tits.name^
+||tits.nl^
+||tits.se^
+||tits.tumblr.com^
+||tits.web-log.nl^
+||tits.xyz^
+||tits101.com^
+||tits123.com^
+||tits2.com^
+||tits2juggs.com^
+||tits2squeeze.tumblr.com^
+||tits3.com^
+||tits3.tumblr.com^
+||tits3d.icu^
+||tits42.com^
+||tits476.tumblr.com^
+||tits4cum.tumblr.com^
+||tits4pics.com^
+||tits4ten.com^
+||tits69.com^
+||titsaholic.com^
+||titsaiporn.com^
+||titsalbum.com^
+||titsalert.com^
+||titsalicious.com^
+||titsallglobalschools.com^
+||titsamateur.com^
+||titsand-tartan.tumblr.com^
+||titsandarseinblackandwhite.tumblr.com^
+||titsandarses.tumblr.com^
+||titsandass.in^
+||titsandass20.tumblr.com^
+||titsandassgalore.com^
 ||titsandasshaven.tumblr.com^
 ||titsandassontheweb.tumblr.com^
 ||titsandasspass.com^
@@ -38771,9 +38806,6 @@
 ||vip-xxx.blogspot.com^
 ||vip-xxx.site^
 ||vip-xxxx.com^
-||vip-zona.biz^
-||vip-zona.com^
-||vip-zona.net^
 ||vip-zone.ro^
 ||vip.ag^
 ||vip.pbull.com^
@@ -45512,6 +45544,7 @@
 ||w69.me^
 ||w6un.com^
 ||w7710.com^
+||w79r8v.lol^
 ||w7s7.com^
 ||w816.cicisex.shop^
 ||w88casinoonline.com^
@@ -84827,7 +84860,6 @@
 ||xxxksiazka.top^
 ||xxxkuntxxx.sexy^
 ||xxxkylierose.com^
-||xxxkzn.com^
 ||xxxl-cash.net^
 ||xxxl-club.de^
 ||xxxl-frauen.de^
