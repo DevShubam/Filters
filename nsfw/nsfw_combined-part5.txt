@@ -2,36 +2,10 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241001
-! Last modified: October 01, 2024
-! Entries: 102252
+! Version: 20241002
+! Last modified: October 02, 2024
+! Entries: 102230
 
-||tokyovixen.com^
-||tokyovoyeur.com^
-||tokyovporn.com^
-||tokyovsex.com^
-||tokyovsporn.com^
-||tokyovxxx.com^
-||tokyowave.net^
-||tokyowetdream.com^
-||tokyowhores.com^
-||tokyowins.co.jp^
-||tokyoxgirl.com^
-||tokyoxhd.com^
-||tokyoxhot.com^
-||tokyoxporn.com^
-||tokyoxporno.com^
-||tokyoxporns.com^
-||tokyoxpornx.com^
-||tokyoxsex.com^
-||tokyoxtube.com^
-||tokyoxtubes.com^
-||tokyoxvideos.com^
-||tokyoxxporn.biz^
-||tokyoxxporn.com^
-||tokyoxxporn.mom^
-||tokyoxxporn.pro^
-||tokyoxxporn.wtf^
 ||tokyoxxx.info^
 ||tokyoxxxhd.com^
 ||tokyoxxxo.com^
@@ -9677,7 +9651,6 @@
 ||travelsexlife.com^
 ||travelslanka.lk^
 ||travelstorybyann.com^
-||travelsupport.com.ar^
 ||travelsureuk.com^
 ||traveltrousers.com^
 ||travelvava.com^
@@ -11031,6 +11004,7 @@
 ||tropiki-spa.ru^
 ||tropikmarket.net^
 ||tropikon.net^
+||tropilhagrill.com.br^
 ||tropiques.net^
 ||tropistudio.com^
 ||tropitalia.com.br^
@@ -26995,6 +26969,7 @@
 ||varvatosrocks.tumblr.com^
 ||varve.dk^
 ||vasa.com.vn^
+||vasan.gr^
 ||vase-eroticke-povidky.cz^
 ||vasellina.com^
 ||vasen.cz^
@@ -31465,7 +31440,6 @@
 ||videofen.com^
 ||videofetishporn.com^
 ||videofighting.ru^
-||videofilmaciones.mx^
 ||videofilmerotique.com^
 ||videofilmkijken.nl^
 ||videofilmx.org^
@@ -43079,6 +43053,7 @@
 ||vyc.co^
 ||vycaqah.newsit.es^
 ||vycohicyvola.blogspot.com^
+||vyebi.com^
 ||vyebshhik.vip^
 ||vyeesric.bid^
 ||vygemy85.blog.co.uk^
@@ -43092,9 +43067,11 @@
 ||vykup-avto-krasnodar.ru^
 ||vykupavto-krasnodar.ru^
 ||vylehokyy00.tumblr.com^
+||vymanga.net^
 ||vymenapartneru.cz^
 ||vymenymanzelek.cz^
 ||vymgcn88.xyz^
+||vynovel.com^
 ||vypraskdnes.cz^
 ||vyprc.com^
 ||vypusk.by^
@@ -65490,7 +65467,6 @@
 ||xhdsex.com^
 ||xhdt.me^
 ||xhdtubes.com^
-||xhdvd.world^
 ||xhdvideo.life^
 ||xhdvids.com^
 ||xhdx.xyz^
@@ -68600,6 +68576,7 @@
 ||xn--snde-0ra.blogspot.com^
 ||xn--sngerrunde-neuhofen-gwb.at^
 ||xn--sobreponersealapornografa-xlc.net^
+||xn--sperbahisplus-wob.com^
 ||xn--ssse-ftzchen-9ib2f.de^
 ||xn--stockholmbostder-7nb.se^
 ||xn--stutenzhmung-mcb.de^
@@ -71423,7 +71400,6 @@
 ||xporntubesex.com^
 ||xporntv.com^
 ||xporntv.fun^
-||xporntv.live^
 ||xpornuha.xyz^
 ||xpornusikisme.click^
 ||xpornv.com^
@@ -73310,7 +73286,6 @@
 ||xvideo.gdn^
 ||xvideo.giving^
 ||xvideo.in^
-||xvideo.kim^
 ||xvideo.life^
 ||xvideo.loan^
 ||xvideo.m1bar.com^
@@ -80266,6 +80241,7 @@
 ||xxxde.net^
 ||xxxdeals.com^
 ||xxxdedsi.com^
+||xxxdee.me^
 ||xxxdee.net^
 ||xxxdeep.com^
 ||xxxdeepfake.com^
@@ -86761,6 +86737,7 @@
 ||xxxtube2022.com^
 ||xxxtube24.cc^
 ||xxxtube24.com^
+||xxxtube24.icu^
 ||xxxtube247.blogspot.com^
 ||xxxtube247.com^
 ||xxxtube2k.com^
@@ -88923,6 +88900,7 @@
 ||yaeby.cc^
 ||yaeby.com^
 ||yaeby.info^
+||yaeby.org^
 ||yaeby.pro^
 ||yaestantodosusados.tumblr.com^
 ||yafavoritesnowbunny.tumblr.com^
