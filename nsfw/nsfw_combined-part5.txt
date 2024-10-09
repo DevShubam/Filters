@@ -2,10 +2,11 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241008
-! Last modified: October 08, 2024
-! Entries: 14377
+! Version: 20241009
+! Last modified: October 09, 2024
+! Entries: 14378
 
+||xxxwholesale.com^
 ||xxxwhore.com^
 ||xxxwhoresonline.com^
 ||xxxwife.cc^
