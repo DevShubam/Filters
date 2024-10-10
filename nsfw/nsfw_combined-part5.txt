@@ -2,105 +2,10 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241009
-! Last modified: October 09, 2024
-! Entries: 14378
+! Version: 20241010
+! Last modified: October 10, 2024
+! Entries: 14283
 
-||xxxwholesale.com^
-||xxxwhore.com^
-||xxxwhoresonline.com^
-||xxxwife.cc^
-||xxxwifeblog.com^
-||xxxwifefantasy.com^
-||xxxwifekiss.com^
-||xxxwifepics.com^
-||xxxwifes.com^
-||xxxwifetube.com^
-||xxxwifevideos.com^
-||xxxwijzer.nl^
-||xxxwildsex.com^
-||xxxwings.com^
-||xxxwinkel.nl^
-||xxxwitze.de^
-||xxxwives.com^
-||xxxwn.com^
-||xxxwoman.net^
-||xxxwoman.top^
-||xxxwomen69.blogspot.com^
-||xxxwomenporn.com^
-||xxxwomentoday.com^
-||xxxwords.net^
-||xxxwork.ru^
-||xxxworkpornx.com^
-||xxxworld.cc^
-||xxxworld.de^
-||xxxworld.dr.ag^
-||xxxworld.eu^
-||xxxworld.info^
-||xxxworld.p0.ru^
-||xxxworld.pro^
-||xxxworld.tk^
-||xxxworld.xyz^
-||xxxworld007.tumblr.com^
-||xxxworldlust.blogspot.com^
-||xxxworldnews.com^
-||xxxworldsporn.com^
-||xxxworldwides.com^
-||xxxwow-net.cfd^
-||xxxwow-net.ru^
-||xxxwow-net.sbs^
-||xxxwow.cfd^
-||xxxwow.net^
-||xxxwow.ru^
-||xxxwow.sbs^
-||xxxwow.shop^
-||xxxwow.xyz^
-||xxxwownet.ru^
-||xxxwowtube.com^
-||xxxwq.com^
-||xxxwritings.tumblr.com^
-||xxxwtf.com^
-||xxxww.mobi^
-||xxxwww.mobi^
-||xxxwww.xyz^
-||xxxwww1.com^
-||xxxwwwcam.com^
-||xxxwwwcom.com^
-||xxxwwwcom.name^
-||xxxwwwxxx.com^
-||xxxx-faithful.sadist.jp^
-||xxxx-files.blogspot.com^
-||xxxx-matures.com^
-||xxxx-mobile.net^
-||xxxx-movie.xyz^
-||xxxx-movies.com^
-||xxxx-porn-video.xyz^
-||xxxx-porn.tumblr.com^
-||xxxx-porno.com^
-||xxxx-ritale-xxxx.skyblog.com^
-||xxxx-sex.startspot.nl^
-||xxxx-tube.com^
-||xxxx-tube.com.cdn.cloudflare.net^
-||xxxx-videos.com^
-||xxxx.blog4ever.com^
-||xxxx.by^
-||xxxx.co^
-||xxxx.codes^
-||xxxx.com^
-||xxxx.com.ar^
-||xxxx.com.au^
-||xxxx.com.br^
-||xxxx.com.es^
-||xxxx.cyou^
-||xxxx.jp^
-||xxxx.mobartis.com^
-||xxxx.nz^
-||xxxx.org^
-||xxxx.pics^
-||xxxx.pro^
-||xxxx.red^
-||xxxx.rodeo^
-||xxxx.ru^
 ||xxxx.se^
 ||xxxx.show^
 ||xxxx.wiki^
