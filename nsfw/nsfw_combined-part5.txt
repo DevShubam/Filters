@@ -2,77 +2,10 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241011
-! Last modified: October 11, 2024
-! Entries: 14479
+! Version: 20241012
+! Last modified: October 12, 2024
+! Entries: 14411
 
-||xxxvuistneuken.nl^
-||xxxvulva.com^
-||xxxvuto.pro^
-||xxxvvv2015.tumblr.com^
-||xxxw.pro^
-||xxxw.xyz^
-||xxxwaffle.com^
-||xxxwallet.com^
-||xxxwallpapers.net^
-||xxxwallpapers.tumblr.com^
-||xxxwalls.tumblr.com^
-||xxxwanhot.com^
-||xxxwanktube.com^
-||xxxwanmy.com^
-||xxxwant.com^
-||xxxwanted.com^
-||xxxwap.cam^
-||xxxwap.mobi^
-||xxxwap.pro^
-||xxxwapik.net^
-||xxxwapila.com^
-||xxxwapka.net^
-||xxxwapvideos.com^
-||xxxwarm.com^
-||xxxwatch.com^
-||xxxwatch.net^
-||xxxwatch.xyz^
-||xxxwatcher.com^
-||xxxwater.net^
-||xxxwave.tumblr.com^
-||xxxways.com^
-||xxxwdc.tumblr.com^
-||xxxweak.com^
-||xxxwealth.com^
-||xxxweb.biz.monamour.ru^
-||xxxweb.blogspot.com^
-||xxxweb.com^
-||xxxweb.info^
-||xxxweb.maxiweb.hu^
-||xxxweb.mw.hu^
-||xxxweb.startbewijs.nl^
-||xxxwebcam.co^
-||xxxwebcam.co.uk^
-||xxxwebcam.net^
-||xxxwebcam.nl^
-||xxxwebcambabes.nl^
-||xxxwebcamera.com^
-||xxxwebcamgirls.com^
-||xxxwebcamlive.com^
-||xxxwebcams-chat.info^
-||xxxwebcams.it^
-||xxxwebcams.net^
-||xxxwebcams.nl^
-||xxxwebcams.startspot.nl^
-||xxxwebcams.stream^
-||xxxwebcams.top^
-||xxxwebcams.us^
-||xxxwebcamschat.com^
-||xxxwebcamseks.nl^
-||xxxwebcamsex.be^
-||xxxwebcamsex.nl^
-||xxxwebcamsfree.com^
-||xxxwebcamshow.com^
-||xxxwebcamshows.com^
-||xxxwebcamstrip.com^
-||xxxwebdultbloggy.com^
-||xxxwebfilms.com^
 ||xxxwebfilms.holtis.com^
 ||xxxwebgames.com^
 ||xxxwebhosting.com^
@@ -13967,7 +13900,6 @@
 ||zuigendesletten.nl^
 ||zuigenschat.nl^
 ||zuigmedan.nl^
-||zuigsex.nl^
 ||zuigtepel.nl^
 ||zuigtepels.nl^
 ||zuigzoen.nl^
