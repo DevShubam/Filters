@@ -2,12 +2,10 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241016
-! Last modified: October 16, 2024
-! Entries: 12087
+! Version: 20241017
+! Last modified: October 17, 2024
+! Entries: 12085
 
-||yerliseyret.blogspot.com^
-||yerlixnxx.blogspot.com^
 ||yermaintima.es^
 ||yerningforyou.tumblr.com^
 ||yeroc789.tumblr.com^
@@ -4532,6 +4530,7 @@
 ||youporngames.com^
 ||youporngaming.com^
 ||youporngay.asia^
+||youporngay.autos^
 ||youporngay.beauty^
 ||youporngay.best^
 ||youporngay.bond^
@@ -10411,7 +10410,6 @@
 ||zonaderikura.blogspot.com^
 ||zonadesahan.blogspot.com^
 ||zonadictos.net^
-||zonadivas.info^
 ||zonadivas.mx^
 ||zonadosuga.ru^
 ||zonadultos.es^
