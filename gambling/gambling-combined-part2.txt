@@ -2,10 +2,49 @@
 ! Title: !  Blockd Gambling (part 2)
 ! Description: Block Gambling Domains
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241025
-! Last modified: October 25, 2024
-! Entries: 13398
+! Version: 20241026
+! Last modified: October 26, 2024
+! Entries: 13440
 
+||www8.smartadserver.com^
+||www80.app^
+||www8263centrum.24-pl.es^
+||www82712c.com^
+||www85966.com^
+||www8683centrum.24-pl.es^
+||www88000880.com^
+||www88440880.com^
+||www88660880.com^
+||www88770880.com^
+||www888505.com^
+||www888569.com^
+||www88990880.com^
+||www8xbet.org^
+||www9.8tglbetting.com^
+||www9.addfreestats.com^
+||www9.compblue.com^
+||www9.counter.bloke.com^
+||www9.effectivemeasure.net^
+||www9.idtselalu.com^
+||www9.jpkfree.com^
+||www9.paypopup.com^
+||www9.servequake.com^
+||www9.smartadserver.com^
+||www90898.com^
+||www91.intel.com^
+||www959049.com^
+||www98192c.com^
+||www99.bounceme.net^
+||www99.zapto.org^
+||www99000880.com^
+||www99110880.com^
+||www99220880.com^
+||www996tk.com^
+||www99770880.com^
+||www99880880.com^
+||www9999kk.com^
+||wwwa.gasterrzcs.top^
+||wwwaaarga88.co^
 ||wwwaaarga88.com^
 ||wwwaaarga88.info^
 ||wwwaaarga88.net^
@@ -121,6 +160,7 @@
 ||wx66.vip^
 ||wx6nje.sbs^
 ||wx7bntyoe.top^
+||wxdh.site^
 ||wxefrvbs.cfd^
 ||wxgcbzxj.cfd^
 ||wxgj0.com^
@@ -6819,6 +6859,7 @@
 ||yasopp.lat^
 ||yasudahlah99.xyz^
 ||yasukuni-movie.com^
+||yasumicon.com^
 ||yasuoizumi.net^
 ||yasutoshiezumi.com^
 ||yat-kha.com^
@@ -7539,6 +7580,7 @@
 ||ygg999.life^
 ||yggacorapanih.buzz^
 ||ygh189.bio^
+||ygjogo.com^
 ||ygkembar.com^
 ||ygkembar.org^
 ||ygkembar.xyz^
