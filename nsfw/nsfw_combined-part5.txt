@@ -2,39 +2,10 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241026
-! Last modified: October 26, 2024
-! Entries: 24459
+! Version: 20241027
+! Last modified: October 27, 2024
+! Entries: 24431
 
-||xxxbrowser.com^
-||xxxbrts.com^
-||xxxbrtube.com^
-||xxxbru.com^
-||xxxbrutal.com^
-||xxxbrutalclips.com^
-||xxxbrutalgif.tumblr.com^
-||xxxbruts.com^
-||xxxbs.com^
-||xxxbtc.com^
-||xxxbtits.com^
-||xxxbttmboixxx.tumblr.com^
-||xxxbubker.com^
-||xxxbuceta.com^
-||xxxbuceta.com.br^
-||xxxbucetas.net^
-||xxxbucker.com^
-||xxxbucket.blogspot.com^
-||xxxbucksparties.com.au^
-||xxxbuddies.com^
-||xxxbuddy.co^
-||xxxbuddy.com^
-||xxxbue.com^
-||xxxbuff.com^
-||xxxbuffyfreakxxx.web-log.nl^
-||xxxbukkake.com^
-||xxxbukkake.site^
-||xxxbukkakevideos.online^
-||xxxbul.com^
 ||xxxbule-com.ru^
 ||xxxbule.art^
 ||xxxbule.com^
@@ -8232,6 +8203,7 @@
 ||xxxvdothai-hd.blogspot.com^
 ||xxxvds.com^
 ||xxxvdz.me^
+||xxxvdzhd.me^
 ||xxxve.com^
 ||xxxvedio.com.co^
 ||xxxvedio.name^
