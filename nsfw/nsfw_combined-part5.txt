@@ -2,10 +2,53 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241105
-! Last modified: November 05, 2024
-! Entries: 43015
+! Version: 20241106
+! Last modified: November 06, 2024
+! Entries: 43057
 
+||x456k.com^
+||x4f.net^
+||x4hack.com^
+||x4men.com^
+||x4nix.nl^
+||x4sex.com^
+||x4t.net^
+||x4tos.b-cdn.net^
+||x4tos.com^
+||x4u.xyz^
+||x4x.net^
+||x4you.de^
+||x50.org^
+||x520.com^
+||x55d.com^
+||x567x.me^
+||x5av.com^
+||x5o.org^
+||x5x.nl^
+||x5xxx.com^
+||x6-chat.de^
+||x6661.win^
+||x669x.blogspot.com^
+||x69.biz^
+||x69.es^
+||x69.free.fr^
+||x69.hypermart.net^
+||x69.live^
+||x69.me^
+||x69.najlepsze.net^
+||x69.pl^
+||x69.ru^
+||x69.tv^
+||x69cams.com^
+||x69iman.tumblr.com^
+||x69q.com^
+||x69tube.net^
+||x69tv.com^
+||x6av.com^
+||x6cam.com^
+||x6cams-com.blogspot.com^
+||x6camsy.com^
+||x6dh.com^
 ||x6t88.com^
 ||x6wx.com^
 ||x6x.net^
@@ -13,6 +56,7 @@
 ||x77x.com^
 ||x796.tv^
 ||x7dav4.xyz^
+||x815.com^
 ||x8648.com^
 ||x8661.com^
 ||x88av.cc^
@@ -697,6 +741,7 @@
 ||xbvr.app^
 ||xbw333.com^
 ||xbx.mobi^
+||xbx222.com^
 ||xbxx.click^
 ||xbxx.icu^
 ||xbxx.link^
@@ -3249,7 +3294,6 @@
 ||xhtree7.com^
 ||xhtree8.com^
 ||xhtree9.com^
-||xhtron.site^
 ||xhub.cx^
 ||xhub.mobi^
 ||xhub.nl^
@@ -3345,6 +3389,7 @@
 ||xianshangrui.com^
 ||xianxian.one^
 ||xianyang56.com^
+||xianyour.com^
 ||xiao-dimsum.com^
 ||xiaobinen.org^
 ||xiaoboyyy.tumblr.com^
@@ -4100,6 +4145,7 @@
 ||xlesbx.free.fr^
 ||xletmewatchyoufuckmygfx.tumblr.com^
 ||xlets-get-high-and-fuck.tumblr.com^
+||xlezzies.com^
 ||xlfjs.com^
 ||xlflix.com^
 ||xlfreetube.com^
@@ -7472,7 +7518,6 @@
 ||xnxxet.com^
 ||xnxxex.com^
 ||xnxxfamily.com^
-||xnxxfan.com^
 ||xnxxfansclub.blogspot.com^
 ||xnxxfap.com^
 ||xnxxfap.info^
@@ -8224,7 +8269,6 @@
 ||xnxxxnxx.top^
 ||xnxxxporn.cc^
 ||xnxxxporn.com.es^
-||xnxxxpornhd.com^
 ||xnxxxporno.net^
 ||xnxxxporns.com^
 ||xnxxxporntube.com^
@@ -8868,7 +8912,6 @@
 ||xporn.click^
 ||xporn.cloud^
 ||xporn.club^
-||xporn.co^
 ||xporn.com^
 ||xporn.com.br^
 ||xporn.com.es^
@@ -18330,7 +18373,6 @@
 ||xxxchats.nl^
 ||xxxchatsex.com^
 ||xxxchatten.nl^
-||xxxchatter.com^
 ||xxxchatterbox.com^
 ||xxxchatters.com^
 ||xxxchatters.top^
@@ -29584,7 +29626,6 @@
 ||ydcs008.net^
 ||yddaduoyevoli.tumblr.com^
 ||ydhub.net^
-||ydhub1.net^
 ||ydhub2.net^
 ||ydhub7.net^
 ||ydick.com^
@@ -30210,7 +30251,6 @@
 ||yesiamyourgoddess.tumblr.com^
 ||yesichat.com^
 ||yesifuck.co.uk^
-||yesik1.sexy^
 ||yesika.com^
 ||yesiladagayrimenkul.com.tr^
 ||yesilcam-indir.blogspot.com^
@@ -35377,6 +35417,7 @@
 ||your-wife-is-hot.tumblr.com^
 ||your-wildestfantasies.tumblr.com^
 ||your-xxx-tube.com^
+||your1.cc^
 ||your1.icu^
 ||your18.com^
 ||your1shop.com^
@@ -40610,6 +40651,7 @@
 ||zj-ndt.com^
 ||zj-rl.net^
 ||zj-zxywb.com^
+||zj0760.com^
 ||zjboyi.net^
 ||zjbwb.com^
 ||zjbxf.com^
