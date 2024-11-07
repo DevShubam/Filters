@@ -2,10 +2,17 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241106
-! Last modified: November 06, 2024
-! Entries: 43057
+! Version: 20241107
+! Last modified: November 07, 2024
+! Entries: 43055
 
+||x3world.blogspot.com^
+||x3x-babe.blogspot.com^
+||x3x3x.xyz^
+||x3xtube.com^
+||x3y34.com^
+||x4-video.blogspot.com^
+||x420xdeviant.tumblr.com^
 ||x456k.com^
 ||x4f.net^
 ||x4hack.com^
@@ -2726,7 +2733,6 @@
 ||xhamster.vc^
 ||xhamster.vg^
 ||xhamster.video^
-||xhamster.vip^
 ||xhamster.watch^
 ||xhamster.website^
 ||xhamster.wf^
@@ -5782,7 +5788,6 @@
 ||xn--c1aem.cc^
 ||xn--c1aem.fun^
 ||xn--c1aem.porn^
-||xn--c1ajapahq.xn--p1ai^
 ||xn--c1ajbknbbt0c0f.net^
 ||xn--c3ctp1a3dzgb3cc.net^
 ||xn--c3cyi7av9a4a4a0h0b.com^
@@ -6035,7 +6040,6 @@
 ||xn--ingenskadpjobbet-mob81a.se^
 ||xn--ingyenporn-pbb.hu^
 ||xn--istanbulmasz-fjb.com^
-||xn--j1afcdg.xn--p1ai^
 ||xn--j1aigbi5d.me^
 ||xn--j1an.su^
 ||xn--jaculationfaciale-9sb.com^
@@ -6746,7 +6750,6 @@
 ||xnxx-ei7.blogspot.com^
 ||xnxx-en.com^
 ||xnxx-en1.com^
-||xnxx-erotic.com^
 ||xnxx-es.com^
 ||xnxx-eu1.com^
 ||xnxx-film.ru^
@@ -6781,6 +6784,7 @@
 ||xnxx-hentai.blogspot.com^
 ||xnxx-hotgirl.com^
 ||xnxx-hq.net^
+||xnxx-hr.com^
 ||xnxx-image.com^
 ||xnxx-images.com^
 ||xnxx-images.top^
@@ -6867,8 +6871,6 @@
 ||xnxx-redtube.blogspot.com^
 ||xnxx-ru.com^
 ||xnxx-rus.com^
-||xnxx-russia.com^
-||xnxx-sekis.com^
 ||xnxx-sekis.ru^
 ||xnxx-semi.com^
 ||xnxx-sex-khmer.blogspot.com^
@@ -6892,19 +6894,16 @@
 ||xnxx-sextube.com^
 ||xnxx-sexvideos.blogspot.com^
 ||xnxx-sexvideos.com^
-||xnxx-sexxx.com^
 ||xnxx-sl.com^
 ||xnxx-stories.com^
 ||xnxx-teen.pro^
 ||xnxx-teens.com^
-||xnxx-terbaru.com^
 ||xnxx-thai.com^
 ||xnxx-trans.blogspot.com^
 ||xnxx-tube.click^
 ||xnxx-tube.com^
 ||xnxx-tube.net^
 ||xnxx-tube.org^
-||xnxx-tubee.com^
 ||xnxx-tuber.com^
 ||xnxx-tv.beauty^
 ||xnxx-tv.pro^
@@ -7022,7 +7021,6 @@
 ||xnxx.cx^
 ||xnxx.cymru^
 ||xnxx.dance^
-||xnxx.dating^
 ||xnxx.de^
 ||xnxx.de.com^
 ||xnxx.degree^
@@ -7417,6 +7415,7 @@
 ||xnxxanime.ru^
 ||xnxxar.net^
 ||xnxxarab.cc^
+||xnxxarab.click^
 ||xnxxarab.net^
 ||xnxxarabianpornstar.blogspot.com^
 ||xnxxarabsex.com^
@@ -28976,7 +28975,6 @@
 ||yandy.tumblr.com^
 ||yaneshai.tumblr.com^
 ||yanet-garcia.com^
-||yanez7.sexy^
 ||yanfengkm.com^
 ||yang-fan.com^
 ||yangchebaodian.com^
@@ -36412,6 +36410,7 @@
 ||yoursecretfantasies.com^
 ||yoursecrethobby-pt.blogspot.com^
 ||yoursecrethookup.com^
+||yoursecrethornyplace.blogspot.com^
 ||yoursecretlady.com^
 ||yoursecretmatureaffair.com^
 ||yoursecretmaturecontact.com^
@@ -41093,7 +41092,6 @@
 ||zoeymonroehdvideos.tumblr.com^
 ||zoeyportland.com^
 ||zoeyportlandfacialabuse.com^
-||zoeyriveras.sexy^
 ||zoeyrph.tumblr.com^
 ||zoeyryder.com^
 ||zoeysdesires.tumblr.com^
