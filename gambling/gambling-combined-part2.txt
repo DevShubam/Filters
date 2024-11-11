@@ -2,10 +2,16 @@
 ! Title: !  Blockd Gambling (part 2)
 ! Description: Block Gambling Domains
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241110
-! Last modified: November 10, 2024
-! Entries: 30598
+! Version: 20241111
+! Last modified: November 11, 2024
+! Entries: 30605
 
+||vnnv.prodepl.top^
+||vnon.app^
+||vnoodieljdoood.site^
+||vnpro88.com^
+||vnq8.bet^
+||vnq8.com^
 ||vnq8.net^
 ||vnq8.win^
 ||vnra.net^
@@ -12378,6 +12384,7 @@
 ||winspirit-vip.xyz^
 ||winspirit.app^
 ||winspirit.com^
+||winspirit1.com^
 ||winsport365.com^
 ||winsportbet.com^
 ||winsroyal.com^
