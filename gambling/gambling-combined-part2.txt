@@ -2,10 +2,42 @@
 ! Title: !  Blockd Gambling (part 2)
 ! Description: Block Gambling Domains
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241111
-! Last modified: November 11, 2024
-! Entries: 30605
+! Version: 20241112
+! Last modified: November 12, 2024
+! Entries: 30638
 
+||vnf88.com^
+||vnf88bet.org^
+||vnfa88.com^
+||vng99.com^
+||vngame123.com^
+||vngame66.com^
+||vngiassnagpur.org^
+||vngoal88.com^
+||vnhjuecwdu.top^
+||vnimatelnostdetyam.com^
+||vnineday.com^
+||vninenumb3r1.com^
+||vnkaiko.xyz^
+||vnkucdn.net^
+||vnkuvideo.com^
+||vnkv99.com^
+||vnl.com.ua^
+||vnloto.com^
+||vnloto.ltd^
+||vnloto.vip^
+||vnlotovn.com^
+||vnm999.com^
+||vnmanbetx.com^
+||vnmx66.com^
+||vnn-123b.one^
+||vnn-tracking.vnncdn.net^
+||vnn123.com^
+||vnn138.com^
+||vnn138.net^
+||vnn6888.bet^
+||vnn8d.com^
+||vnnayngaytin.vn^
 ||vnnv.prodepl.top^
 ||vnon.app^
 ||vnoodieljdoood.site^
@@ -7650,6 +7682,7 @@
 ||web.acumenpi.com #[AdvertPro]^
 ||web.adblade.com^
 ||web.aimistik.com^
+||web.analysiscloud.info^
 ||web.api.adtimaserver.vn^
 ||web.austintlmn.com^
 ||web.btncdn.com^

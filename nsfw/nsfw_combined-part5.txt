@@ -2,22 +2,10 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241111
-! Last modified: November 11, 2024
-! Entries: 43771
+! Version: 20241112
+! Last modified: November 12, 2024
+! Entries: 43757
 
-||x-fuchs.com^
-||x-fuck-y0u-08-x.skyblog.com^
-||x-fuck.com^
-||x-fuck.me^
-||x-fucker.com^
-||x-fuckmehard-x-deactivated20150.tumblr.com^
-||x-fuckmehard-x.tumblr.com^
-||x-fucktor.tumblr.com^
-||x-gal.com^
-||x-galaxy.ok.nov.ru^
-||x-galleries.net^
-||x-gallery.com^
 ||x-gallery.tv^
 ||x-gals.com^
 ||x-gay-porn.com^
@@ -23072,7 +23060,6 @@
 ||xxxmovies.asia^
 ||xxxmovies.at^
 ||xxxmovies.autos^
-||xxxmovies.bet^
 ||xxxmovies.bid^
 ||xxxmovies.blue^
 ||xxxmovies.boats^
@@ -27952,7 +27939,6 @@
 ||xxxvintagevideo.com^
 ||xxxvintagevideos.com^
 ||xxxvintagexxx.com^
-||xxxvio.com^
 ||xxxvip.agency^
 ||xxxvip.app^
 ||xxxvip.asia^
@@ -31512,6 +31498,7 @@
 ||yiffcorp.com^
 ||yiffer.xyz^
 ||yifferfurrs.tumblr.com^
+||yiffest.programmerpony.com^
 ||yifffoxkuro.tumblr.com^
 ||yifffurrydick.tumblr.com^
 ||yiffhaven.com^
@@ -37699,7 +37686,6 @@
 ||youwank.com^
 ||youwannabeapornstar.com^
 ||youwannaseeme.is^
-||youwant.gay^
 ||youwantdiscipline.com^
 ||youwantfreesex.blogspot.com^
 ||youwantitall.com^
