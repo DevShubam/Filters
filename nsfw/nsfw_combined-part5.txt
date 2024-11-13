@@ -2,28 +2,10 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241112
-! Last modified: November 12, 2024
-! Entries: 43757
+! Version: 20241113
+! Last modified: November 13, 2024
+! Entries: 43733
 
-||x-gallery.tv^
-||x-gals.com^
-||x-gay-porn.com^
-||x-gay-tube.com^
-||x-gay-x.com^
-||x-gay.com^
-||x-gay.de^
-||x-gay.fr^
-||x-gay.net^
-||x-gay.tube^
-||x-gayreplay.blogspot.com^
-||x-gif.com^
-||x-girl.co.uk^
-||x-girlfriends.net^
-||x-girls-24.cc^
-||x-girls-x.com^
-||x-girls.cc^
-||x-girls.com^
 ||x-girls.tv^
 ||x-glamour.cc^
 ||x-glamour.com^
@@ -1336,6 +1318,7 @@
 ||xboardx.blogspot.com^
 ||xboats.free.fr^
 ||xbobsvideos.com^
+||xbokep.net^
 ||xbokep.pw^
 ||xbokep1.com^
 ||xbokep2.online^
@@ -9846,7 +9829,6 @@
 ||xporno2019.ru^
 ||xporno24.com^
 ||xporno365.com^
-||xporno365.name^
 ||xporno365.ru^
 ||xporno666.ru^
 ||xporno69.ru^
@@ -12692,7 +12674,6 @@
 ||xvideosbtk.blogspot.com^
 ||xvideosbuceta.blog^
 ||xvideosbuceta.blog.br^
-||xvideosbucetas.blog.br^
 ||xvideoscache.com^
 ||xvideoscam.net^
 ||xvideoscaseros.net^
@@ -22179,7 +22160,6 @@
 ||xxxleak.online^
 ||xxxleaked.com^
 ||xxxleaks.org^
-||xxxleaks24.com^
 ||xxxleap.com^
 ||xxxleapx.com^
 ||xxxlebrity.com^
@@ -23611,7 +23591,6 @@
 ||xxxonlyfree.com^
 ||xxxonlyfreeporn.com^
 ||xxxonlygirls.online^
-||xxxonlyporn.com^
 ||xxxonmymind.tumblr.com^
 ||xxxonne.tumblr.com^
 ||xxxonporn.com^
@@ -28366,7 +28345,6 @@
 ||xxxxfuckxxxxxxxxx.tumblr.com^
 ||xxxxg.click^
 ||xxxxg.link^
-||xxxxgay.com^
 ||xxxxgayfuck.com^
 ||xxxxgays.com^
 ||xxxxgi8.cc^
@@ -28990,7 +28968,6 @@
 ||xygaytr.tumblr.com^
 ||xygbbq.com^
 ||xygmtv.top^
-||xyguilin.com^
 ||xygzw.net^
 ||xyha.xyz^
 ||xyhairless.blogg.de^
@@ -36974,7 +36951,6 @@
 ||yourpleasurepoint.com^
 ||yourporn-tube.com^
 ||yourporn-tube.ru^
-||yourporn.asia^
 ||yourporn.cam^
 ||yourporn.cc^
 ||yourporn.club^
