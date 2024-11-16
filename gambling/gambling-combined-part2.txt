@@ -2,10 +2,21 @@
 ! Title: !  Blockd Gambling (part 2)
 ! Description: Block Gambling Domains
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241115
-! Last modified: November 15, 2024
-! Entries: 28743
+! Version: 20241116
+! Last modified: November 16, 2024
+! Entries: 28755
 
+||vulkancasinosverige.top^
+||vulkanchampioncasino.com^
+||vulkanclub-na-dengi.org^
+||vulkanclub-site.net^
+||vulkanclub.best^
+||vulkandelux.cam^
+||vulkandelux.vip^
+||vulkandengi.net^
+||vulkankasino.co^
+||vulkanmaximum-casino.xyz^
+||vulkanmaximumcasino.xyz^
 ||vulkanmaximumcasino1.xyz^
 ||vulkanmaximumcasino2.xyz^
 ||vulkanmaximumcasino3.xyz^
@@ -17806,6 +17817,7 @@
 ||xlfinland.com^
 ||xlhc.com^
 ||xlisting.jp^
+||xlive-sicherwetten.at^
 ||xlivebet.com^
 ||xlivedoor.com^
 ||xljs2.com^
