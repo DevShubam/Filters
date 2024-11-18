@@ -2,10 +2,27 @@
 ! Title: !  Blockd Gambling (part 2)
 ! Description: Block Gambling Domains
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241117
-! Last modified: November 17, 2024
-! Entries: 41250
+! Version: 20241118
+! Last modified: November 18, 2024
+! Entries: 41284
 
+||usahatoto-super.shop^
+||usahatoto-terbesar.com^
+||usahatoto-togel.com^
+||usahatoto-u.com^
+||usahatoto-user.xyz^
+||usahatoto-win.xyz^
+||usahatoto15.com^
+||usahatoto303.com^
+||usahatoto8.com^
+||usahatoto9.com^
+||usahatroz.shop^
+||usairsolutionsaz.com^
+||usaittech.com^
+||usaklub.cfd^
+||usaklub.plus^
+||usaklubtampan.com^
+||usaloanmaster.com^
 ||usamailexpress.com^
 ||usamax24.com^
 ||usamega.com^
@@ -11752,8 +11769,25 @@
 ||vuabai9vn.com^
 ||vuabai9vnd.com^
 ||vuabet88.agency^
+||vuabet88.bar^
+||vuabet88.blog^
 ||vuabet88.club^
+||vuabet88.fyi^
+||vuabet88.hair^
+||vuabet88.help^
+||vuabet88.info^
+||vuabet88.monster^
+||vuabet88.net^
+||vuabet88.onl^
 ||vuabet88.org^
+||vuabet88.pw^
+||vuabet88.top^
+||vuabet88.yachts^
+||vuabet881.in^
+||vuabet882.in^
+||vuabet883.in^
+||vuabet88i.bar^
+||vuabet88i.com^
 ||vuabip17.vip^
 ||vuaclub1008.club^
 ||vuagaaz.one^
