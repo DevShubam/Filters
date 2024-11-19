@@ -2,10 +2,19 @@
 ! Title: !  Blockd Gambling (part 2)
 ! Description: Block Gambling Domains
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241118
-! Last modified: November 18, 2024
-! Entries: 41284
+! Version: 20241119
+! Last modified: November 19, 2024
+! Entries: 41292
 
+||usahatoto-live.work^
+||usahatoto-livedraw.com^
+||usahatoto-oglok.com^
+||usahatoto-paito.xyz^
+||usahatoto-resmi.site^
+||usahatoto-sicbo.info^
+||usahatoto-slot.com^
+||usahatoto-slot.shop^
+||usahatoto-store.com^
 ||usahatoto-super.shop^
 ||usahatoto-terbesar.com^
 ||usahatoto-togel.com^
@@ -25052,7 +25061,6 @@
 ||woodlawnknights.com^
 ||woodlearningcenter.com^
 ||woodlegandarm.com^
-||woodlyinteriors.com^
 ||woodpecker.uc.cn^
 ||woodprep.com^
 ||woodratusa.com^
