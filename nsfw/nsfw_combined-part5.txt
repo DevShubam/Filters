@@ -2,10 +2,152 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241120
-! Last modified: November 20, 2024
-! Entries: 42126
+! Version: 20241121
+! Last modified: November 21, 2024
+! Entries: 42266
 
+||xbooster-official.com^
+||xboot.ibelgique.com^
+||xbooty.net^
+||xbootyporn.tumblr.com^
+||xboul.com^
+||xboutagirl.tumblr.com^
+||xbox-code.eu^
+||xbox360.all-stars.pl^
+||xboxandnudes-deactivated2014121.tumblr.com^
+||xboxcodegenerator.com^
+||xboxjoy.extra.hu^
+||xboxster.ru^
+||xboy2.online.fr^
+||xboylove.com^
+||xboyporn.com^
+||xboys.me^
+||xboys.net^
+||xboys.online^
+||xboystubes.com^
+||xboyvideos.com^
+||xboyvids.com^
+||xboyz.com^
+||xboyz.w.interia.pl^
+||xboyzzz.com^
+||xbporn.com^
+||xbpz.net^
+||xbrasileirinhas.com.br^
+||xbrasilporno.com^
+||xbrats.com^
+||xbravotube.com^
+||xbrax-xwirox.tumblr.com^
+||xbraz.com^
+||xbrcpx.com^
+||xbree.me^
+||xbree.net^
+||xbree.tv^
+||xbree1.com^
+||xbreedingaddict.tumblr.com^
+||xbreezy.tv^
+||xbreizh.fr^
+||xbritish.xyz^
+||xbritney.com^
+||xbronzedbrunettex.tumblr.com^
+||xbrut.com^
+||xbscream.com^
+||xbube.com^
+||xbubis.com^
+||xbul.net^
+||xbulldog.blogspot.com^
+||xbullrider.tumblr.com^
+||xbulut.com^
+||xbunker.nu^
+||xbunny.org^
+||xbunnylive.com^
+||xburma.net^
+||xburro.com^
+||xbus.me^
+||xbusiness.ideaclic.com^
+||xbuster.com^
+||xbusty.com^
+||xbustyteen.com^
+||xbutter.com^
+||xbuuz.com^
+||xbuzz.mobi^
+||xbvr.app^
+||xbw333.com^
+||xbx.mobi^
+||xbx222.com^
+||xbxx.click^
+||xbxx.icu^
+||xbxx.link^
+||xbxx.me^
+||xbxx.mobi^
+||xbxx.tube^
+||xbxx.us^
+||xbxx999.blogspot.com^
+||xbxxhd.com^
+||xbxxporn.com^
+||xbxxxq.xyz^
+||xbyc.cc^
+||xbyc.tumblr.com^
+||xbye-ya.com^
+||xbyh.shop^
+||xbypass.com^
+||xbzxxx.com^
+||xc-machine.com^
+||xc123456am.com^
+||xc1n1modx.sexy^
+||xc57.mom^
+||xcabin.net^
+||xcachondasmx.blogspot.com^
+||xcadr.club^
+||xcadr.com^
+||xcadr.net^
+||xcadr.online^
+||xcadr.org^
+||xcadr.ru^
+||xcadr.tv^
+||xcafe-com.ru^
+||xcafe.com^
+||xcafe.love^
+||xcafe.mobi^
+||xcafe.online^
+||xcafe.pro^
+||xcafe.su^
+||xcalaban.tumblr.com^
+||xcalibur709-pantsdown.blogspot.com^
+||xcalls.co.il^
+||xcam.adult^
+||xcam.app^
+||xcam.be^
+||xcam.cc^
+||xcam.chat^
+||xcam.co.il^
+||xcam.com^
+||xcam.es^
+||xcam.ninja^
+||xcam.nl^
+||xcam.porn^
+||xcam.sex^
+||xcam.vip^
+||xcam.wtf^
+||xcam.xxx^
+||xcam24.com^
+||xcam7.com^
+||xcamadult.com^
+||xcambabes.de^
+||xcambabes.eu^
+||xcambabes.net^
+||xcambabes.startspot.nl^
+||xcamclips.com^
+||xcamdates.com^
+||xcamdb.com^
+||xcamdrodmisslullaby.cam^
+||xcamel.tumblr.com^
+||xcamera.org^
+||xcameuse.com^
+||xcamfactor.com^
+||xcamfan.com^
+||xcamgays.com^
+||xcamgirlblog.com^
+||xcamgirls.be^
 ||xcamgirls.com^
 ||xcamgirlslive.com^
 ||xcamgirlstube.blogspot.com^
@@ -359,6 +501,7 @@
 ||xcram.xyz^
 ||xcrave.com^
 ||xcrawling-back-to-youx.tumblr.com^
+||xcream.net^
 ||xcreampie.com^
 ||xcreampie.top^
 ||xcreampieporn.com^
@@ -641,6 +784,7 @@
 ||xekeko.com^
 ||xelaalec.tumblr.com^
 ||xelebrity.com^
+||xeleo.de^
 ||xelephantporn.com^
 ||xelk.de^
 ||xelle.it^
@@ -672,6 +816,7 @@
 ||xemjav123.com^
 ||xemjjavmoi.info^
 ||xemjjavtop.info^
+||xemlon.net^
 ||xemlon.vip^
 ||xemmanuelle.centerblog.net^
 ||xemngay.com^
@@ -1732,6 +1877,7 @@
 ||xgx.mobi^
 ||xgxx.xyz^
 ||xh-porn.com^
+||xh.loveyousexy.com^
 ||xh.media^
 ||xh.video^
 ||xh510.com^
@@ -2643,6 +2789,7 @@
 ||xiaoshuoc.info^
 ||xiaotimedia.com^
 ||xiaotin.com^
+||xiaoxiaopai.com^
 ||xiaoxtaa.cfd^
 ||xiaoxtzxspj.buzz^
 ||xiaoxuen.com^
@@ -2652,9 +2799,11 @@
 ||xiaoyaojp.com^
 ||xiaoybond.com^
 ||xiaoyg3.cc^
+||xiaoyg44.top^
 ||xiaoyinbi1.buzz^
 ||xiaoyizi.site^
 ||xiaoyuanle001.com^
+||xiaoyudanc28.info^
 ||xiaozhensh.com^
 ||xiara.galeon.com^
 ||xiaridh.xyz^
@@ -2813,8 +2962,6 @@
 ||xingqichina.com^
 ||xingqiu3.xyz^
 ||xingquyuan.com^
-||xingse.en.alibaba.com^
-||xingshiba.cc^
 ||xingster.com^
 ||xingtaim2.com^
 ||xingtainx.top^
@@ -3028,7 +3175,6 @@
 ||xjapanhub.com^
 ||xjapanporn.com^
 ||xjapantube.blogspot.com^
-||xjapporn.com^
 ||xjaps.com^
 ||xjaqmffjxa.tumblr.com^
 ||xjav.jp^
@@ -4989,6 +5135,7 @@
 ||xn--bttresex-0za.se^
 ||xn--c1abb1amf0j.com^
 ||xn--c1acygb.xn--p1ai^
+||xn--c1ad2amb.xn--p1ai^
 ||xn--c1adkajoaddbinf3a9q.xn--p1ai^
 ||xn--c1aem.cc^
 ||xn--c1aem.fun^
@@ -5037,7 +5184,6 @@
 ||xn--d1ab2abgi.xn--p1ai^
 ||xn--d1abj0abs9d.in.ua^
 ||xn--d1acjhmcdbglnmdk.xn--p1ai^
-||xn--d1acqdkb6g.xn--p1ai^
 ||xn--d1aifoe0a9a.top^
 ||xn--d1ancdebbbcl6dxd.xn--p1ai^
 ||xn--d1aqebhc1g.xn--p1ai^
@@ -5161,6 +5307,7 @@
 ||xn--fremdvgeln-jcb.de^
 ||xn--frhlingsgelste-hsbj.de^
 ||xn--ftichic-bya.fr^
+||xn--ftichistes-b7a.fr^
 ||xn--ftzchen-90a.de^
 ||xn--g-pt1c.com^
 ||xn--gay-522eo68m.com^
@@ -5571,7 +5718,6 @@
 ||xn--u9j5f6h350i7heql7alpw.net^
 ||xn--u9j9fvde9vw07pwxji6mzh0c.xyz^
 ||xn--u9j9hyc6dr37vd0fz2kothsy1butecla.xyz^
-||xn--u9j9hyc6dx79xfpd0uio7hsy1bute.xyz^
 ||xn--u9jy52g0ehg2wz3g.jp^
 ||xn--u9jy52ge0c34h711b.site^
 ||xn--uis76c70x.net^
@@ -6113,7 +6259,6 @@
 ||xnxx-v.com^
 ||xnxx-vi.com^
 ||xnxx-vid.com^
-||xnxx-video-player-all-format.en.softonic.com^
 ||xnxx-video.net^
 ||xnxx-video.pro^
 ||xnxx-videos.cc^
@@ -6445,6 +6590,7 @@
 ||xnxx18.org^
 ||xnxx18.pro^
 ||xnxx18.xyz^
+||xnxx18girl.com^
 ||xnxx18porn.ru^
 ||xnxx18up.com^
 ||xnxx18x.com^
@@ -8242,7 +8388,6 @@
 ||xpornhd.com.es^
 ||xpornhd1.click^
 ||xpornhd18x.blogspot.com^
-||xpornhd3.click^
 ||xpornhdfree.com^
 ||xpornhdvideos.com^
 ||xpornhell.com^
@@ -9878,6 +10023,7 @@
 ||xtreamsex.nl^
 ||xtreem-adult.startbewijs.nl^
 ||xtreem.be^
+||xtreemconnex.com^
 ||xtreemsex.startje.com^
 ||xtreemteen.com^
 ||xtreffpunkt.com^
@@ -12414,7 +12560,6 @@
 ||xxindex.com^
 ||xxindian.za.pl^
 ||xxindianporn.com^
-||xxindianporn.pro^
 ||xxiqiyiavxx.buzz^
 ||xxitsgabbibitchxx.tumblr.com^
 ||xxivy-is-my-mother.tumblr.com^
@@ -13004,7 +13149,6 @@
 ||xxrrxx.tumblr.com^
 ||xxryan10inxx.tumblr.com^
 ||xxs-movies.blogspot.com^
-||xxs.eu^
 ||xxs.fr^
 ||xxsad-teenagerxx.tumblr.com^
 ||xxsarah-storiesxx.tumblr.com^
@@ -13040,7 +13184,6 @@
 ||xxsexi.com^
 ||xxsexlive.com^
 ||xxsexnow.com^
-||xxsexpg.xyz^
 ||xxsexporn.com^
 ||xxsexs.com^
 ||xxsexshop.com^
@@ -16659,6 +16802,7 @@
 ||xxxav14.mom^
 ||xxxav14.xyz^
 ||xxxav15.cc^
+||xxxav16.xyz^
 ||xxxav17.cc^
 ||xxxav18.cc^
 ||xxxav19.cc^
@@ -16823,7 +16967,6 @@
 ||xxxbbwxxx.tumblr.com^
 ||xxxbd.com^
 ||xxxbdo.blogspot.com^
-||xxxbdpg.xyz^
 ||xxxbdsm.click^
 ||xxxbdsm.com^
 ||xxxbdsm.fun^
@@ -16985,7 +17128,6 @@
 ||xxxbios.info^
 ||xxxbios.net^
 ||xxxbios.nl^
-||xxxbios.org^
 ||xxxbios.us^
 ||xxxbiosreview.com^
 ||xxxbiosreviews.com^
@@ -17311,7 +17453,9 @@
 ||xxxbynight.com^
 ||xxxbytes.com^
 ||xxxbz.com^
+||xxxbz.info^
 ||xxxbz1.com^
+||xxxbz1.info^
 ||xxxc.one^
 ||xxxc.pro^
 ||xxxc.tw^
@@ -17878,7 +18022,6 @@
 ||xxxcooltube.ru^
 ||xxxcooter.com^
 ||xxxcop.com^
-||xxxcopg.xyz^
 ||xxxcorebabes.com^
 ||xxxcorp.com^
 ||xxxcorvettezo6.tumblr.com^
@@ -17971,7 +18114,6 @@
 ||xxxcvideo.com^
 ||xxxcvideos.com^
 ||xxxcxcxcxxxx.blogspot.com^
-||xxxcxpg.xyz^
 ||xxxcy.com^
 ||xxxcyb.blogspot.com^
 ||xxxcyber.com^
@@ -19005,6 +19147,7 @@
 ||xxxfv.blogspot.com^
 ||xxxfv.com^
 ||xxxfxck.top^
+||xxxfzy.com^
 ||xxxg.com.cn^
 ||xxxgaixinh.com^
 ||xxxgaixinh.net^
@@ -21655,7 +21798,6 @@
 ||xxxmoviessexy.com^
 ||xxxmoviesspot.com^
 ||xxxmoviestore.com^
-||xxxmoviestream.com^
 ||xxxmoviestream.org^
 ||xxxmoviestream.xyz^
 ||xxxmoviestube.me^
@@ -21882,7 +22024,6 @@
 ||xxxniteclub.com^
 ||xxxnitro.ru^
 ||xxxnj.com^
-||xxxnmpg.xyz^
 ||xxxnn.com^
 ||xxxnn.com.chaztel.com^
 ||xxxnn.net^
@@ -22106,7 +22247,6 @@
 ||xxxopenmindxxx.tumblr.com^
 ||xxxoporn.com^
 ||xxxops.blogspot.com^
-||xxxoptics.com^
 ||xxxoracle.com^
 ||xxxoral.com^
 ||xxxoral.net^
@@ -22277,7 +22417,6 @@
 ||xxxpayouts.com^
 ||xxxpayperview.net^
 ||xxxpays.com^
-||xxxpaysites.com^
 ||xxxpazintys.lt^
 ||xxxpazintys.lt.w3snoop.com^
 ||xxxpazintys.net^
@@ -22477,6 +22616,7 @@
 ||xxxpixs.tumblr.com^
 ||xxxpk.xyz^
 ||xxxplaatjes.favos.nl^
+||xxxplace.co.uk^
 ||xxxplace.net^
 ||xxxplaces.com^
 ||xxxplanet.dr.ag^
@@ -24725,6 +24865,7 @@
 ||xxxteennude.com^
 ||xxxteenphonesex.com^
 ||xxxteenphotos.tumblr.com^
+||xxxteenpics.blogspot.com^
 ||xxxteenpics.com^
 ||xxxteenpics.net^
 ||xxxteenpics.tumblr.com^
@@ -26733,7 +26874,6 @@
 ||xxxx.se^
 ||xxxx.show^
 ||xxxx.sogexpert.com^
-||xxxx.sport.blog^
 ||xxxx.website^
 ||xxxx.wiki^
 ||xxxx.xxx^
@@ -27112,10 +27252,8 @@
 ||xxxxxl100.blogspot.com^
 ||xxxxxljock.tumblr.com^
 ||xxxxxmmmmm.tumblr.com^
-||xxxxxnpg.xyz^
 ||xxxxxoil.pages.dev^
 ||xxxxxox.tumblr.com^
-||xxxxxpg.xyz^
 ||xxxxxporno.com^
 ||xxxxxsex.com^
 ||xxxxxsex.net^
@@ -27309,6 +27447,7 @@
 ||xxxyvideo.com^
 ||xxxyvideos.com^
 ||xxxyxxx.com^
+||xxxyyl.com^
 ||xxxyyy8.com^
 ||xxxyyyzzz.de^
 ||xxxyzs.com^
@@ -27442,6 +27581,7 @@
 ||xygaytr.tumblr.com^
 ||xygbbq.com^
 ||xygmtv.top^
+||xygzw.net^
 ||xyha.xyz^
 ||xyhairless.blogg.de^
 ||xyhhr.com^
@@ -27779,6 +27919,7 @@
 ||yabana.net^
 ||yabancidizibax.com^
 ||yabanciforex.com^
+||yabancigoruntuluchat.com^
 ||yabank11.me^
 ||yabank16.me^
 ||yabank22.me^
@@ -27885,7 +28026,6 @@
 ||yagaerok.tumblr.com^
 ||yagai-nude.net^
 ||yagaisex.com^
-||yagaisex.weejam.net^
 ||yagalo.blogspot.com^
 ||yagamiband.bandcamp.com^
 ||yagamicum.tumblr.com^
@@ -28122,6 +28262,7 @@
 ||yandere-nico.tumblr.com^
 ||yandere-simulator.com^
 ||yanderesimulator.com^
+||yandex.by^
 ||yandex_rambler.chat.ru^
 ||yandexbocil.buzz^
 ||yandexporn.com^
@@ -29234,7 +29375,6 @@
 ||yes-messenger.be^
 ||yes-messenger.com^
 ||yes-messenger.eu^
-||yes-messenger.fr^
 ||yes-messengers.com^
 ||yes-messengers.eu^
 ||yes-milf.tumblr.com^
@@ -29349,7 +29489,7 @@
 ||yesesex.com^
 ||yeseter.com^
 ||yesewangchao.com^
-||yesewc5.com^
+||yesexiaoshuo.com^
 ||yesexp.com^
 ||yesexpressdelivery.com.br^
 ||yesexyporn.com^
@@ -29398,6 +29538,7 @@
 ||yeshomopls.tumblr.com^
 ||yeshornyslut.tumblr.com^
 ||yeshotfunme.tumblr.com^
+||yeshua.com.br^
 ||yeshubxxx.com^
 ||yeshubxxx.com.helpingachild.org^
 ||yesiamaslut.blogspot.com^
@@ -29420,7 +29561,9 @@
 ||yesilyurtgayrimenkul.com^
 ||yesimacumfetish.tumblr.com^
 ||yesimapervert.tumblr.com^
+||yesimcopy.com^
 ||yesimgay.tumblr.com^
+||yesimhorny.com^
 ||yesimnakedtoo.tumblr.com^
 ||yesimodel.net^
 ||yesimpregnateme.tumblr.com^
@@ -29918,6 +30061,7 @@
 ||yie4zooseif.info^
 ||yies.com^
 ||yifahutao.com^
+||yifatbracha.co.il^
 ||yifenga.com^
 ||yiff-ai.com^
 ||yiff-andclass.tumblr.com^
@@ -33681,7 +33825,6 @@
 ||younxxx.com^
 ||younygirls.com^
 ||youobviouslyloveoreos-forever.tumblr.com^
-||youoio.com^
 ||youonly-yolo-once.tumblr.com^
 ||youonlylivetwice.info^
 ||youonlywetter.co.uk^
@@ -36344,6 +36487,7 @@
 ||yqdhzs.com^
 ||yqdiy8.com^
 ||yqhklh.com^
+||yqii.blogspot.com^
 ||yqiykonymeredop7248.blogspot.com^
 ||yqizeqydanugowe.blogspot.com^
 ||yqjxzw.com^
@@ -36449,7 +36593,6 @@
 ||ystbgyc.com^
 ||ystunna519.blogspot.com^
 ||ysubxxx.com^
-||yswc1.xyz^
 ||yswly.com^
 ||yswords.com^
 ||ysxk8.xyz^
@@ -39507,7 +39650,6 @@
 ||zimom.com^
 ||zimu.app^
 ||zimukuhd.com^
-||zimuquanbdsm.com^
 ||zimzimer.tumblr.com^
 ||zina-magazin.ru^
 ||zinabusty.callgirlfiles.com^
@@ -41881,7 +42023,6 @@
 ||zxclin.tumblr.com^
 ||zxctube.com^
 ||zxcx1232.tumblr.com^
-||zxduanju.com^
 ||zxdy.xyz^
 ||zxedu51.com^
 ||zxfair.com^
@@ -41918,7 +42059,6 @@
 ||zxxxgl.com^
 ||zxxxhhv.top^
 ||zxxxporn.xyz^
-||zxxxst.com^
 ||zxxxst.top^
 ||zxxxst.vip^
 ||zxxxvideos.com^
