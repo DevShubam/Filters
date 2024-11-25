@@ -2,189 +2,10 @@
 ! Title: !  Blockd Gambling (part 2)
 ! Description: Block Gambling Domains
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241124
-! Last modified: November 24, 2024
-! Entries: 65218
+! Version: 20241125
+! Last modified: November 25, 2024
+! Entries: 65016
 
-||thebestroyals.com^
-||thebestscanners.com^
-||thebestvacuumcleaner.com^
-||thebestwargames.com^
-||thebestwebpillplace.com^
-||thebet.info^
-||thebetarena.com^
-||thebetbeast.com^
-||thebetsbookies.xyz^
-||thebetsbookmakers.xyz^
-||thebetterbeast.com^
-||thebettercasino.com^
-||thebetting.net^
-||thebettingguy.co.uk^
-||thebettingsites.com^
-||thebeverlyhillscourier.com^
-||thebgap.com^
-||thebhakti.com^
-||thebibliophilegirl.com^
-||thebierstube.com^
-||thebig8radio.com^
-||thebigbangsalon.com^
-||thebigbangweb.com^
-||thebigboarddc.com^
-||thebigbox.id^
-||thebigclimatething.com^
-||thebiggiescards.com^
-||thebighits.com^
-||thebigoutdoors.co.uk^
-||thebigplotgardening.com^
-||thebigshow.cfd^
-||thebigswing.org^
-||thebigwalnutgrill.com^
-||thebikecar.com^
-||thebikeshopracing.com^
-||thebillshakespeareproject.com^
-||thebinocularsite.com^
-||thebirches.wiki^
-||thebirchonelm.com^
-||thebirdhome.com^
-||thebirdnestingguide.com^
-||thebirdsnestpub.com^
-||thebiscuitcompanyofvicksburg.com^
-||thebistromo.com^
-||thebitbay.org^
-||thebitcoin-up.com^
-||thebitcoincode.com^
-||thebitcoindecoder.financialmarketsworld.com^
-||thebitcoinprimeapp.com^
-||thebitcoins-pro.financialmarketsworld.com^
-||thebitcoinsmarter.com^
-||thebitcoinsystem.io^
-||thebitcrew.com^
-||thebitenews.com^
-||thebitqtapp.com^
-||thebjjnetwork.com^
-||thebjone.biz^
-||theblackdogcoffeecompany.com^
-||theblackexplorer.com^
-||theblackhorsecherhill.com^
-||theblackjacktattoo.in^
-||theblackjackwiz.com^
-||theblackjoymixtape.com^
-||theblackonx.com^
-||theblackpearlinn.com^
-||theblackroseny.com^
-||theblacksportswoman.com^
-||theblackspotlight.com^
-||theblackstock.com^
-||theblackwhaletea.com^
-||theblemish.us.intellitxt.com^
-||theblenderproject.com^
-||theblinkbar.com^
-||theblock-mag.com^
-||theblockchainnew.com^
-||theblockchainshow.com^
-||theblockorg.com^
-||theblocksharpener.com^
-||theblogginghero.com^
-||theblogmire.com^
-||theblogofleire.com^
-||thebloodyaussiebattler.com^
-||thebloodyoyster.com^
-||thebloomingunion.com^
-||thebluebellcafenyc.com^
-||thebluebirdreno.com^
-||theblueflameagency.com^
-||thebluegrassmom.com^
-||thebluelotusfeet.com^
-||thebluemoosecafe.com^
-||thebluepeace.org^
-||theblueproject.org^
-||theblueribbongrill.com^
-||theblueroomblog.org^
-||thebluesbroads.com^
-||thebluessa.com^
-||thebluffmemphis.com^
-||thebluwater.com^
-||theboardmatch.net^
-||thebodhitreesalon.com^
-||thebodylovesociety.com^
-||thebohochild.com^
-||thebohs.com^
-||theboldvisionaire.com^
-||thebollywoodticket.com^
-||thebonanza88.site^
-||theboneyardbbq-livonia.com^
-||thebookhavenonline.com^
-||thebooknympho.com^
-||thebooksconnection.com^
-||thebookstacks.org^
-||thebootcave.com^
-||theborderlinelondon.com^
-||theborgataonlineprepaidcard.com^
-||theborgiabull.com^
-||theborodailygrind.com^
-||thebosh.us.intellitxt.com^
-||thebossbet.com^
-||thebosscasino.shop^
-||thebossgrill.com^
-||thebostoninn.com^
-||thebottleshare.org^
-||theboulevardde.com^
-||thebourbonbarandgrill.com^
-||theboweryboys.info^
-||theboweryhotel.com^
-||thebowlinalley.net^
-||theboxingplanet.com^
-||theboxisagift.com^
-||theboxofdaughter.com^
-||theboxoffice.be^
-||theboyfriendjeans.com^
-||thebpmfestival-europe.com^
-||thebrainstorms.io^
-||thebrainweaver.com^
-||thebranders.ar^
-||thebrannannc.com^
-||thebrassswan.com^
-||thebrawl.net^
-||thebreakaways.com^
-||thebreakfastclubtybee.com^
-||thebreastfest.org^
-||thebrewbuff.com^
-||thebreweryatlucianos.com^
-||thebrewerybible.com^
-||thebrewinnnyc.com^
-||thebrickhouseartgallery.com^
-||thebridelink.com^
-||thebridge-moct.org^
-||thebridgeatcornelltech.com^
-||thebridgeband.com^
-||thebridgectr.org^
-||thebrief.io^
-||thebrightnotes.com^
-||thebrighttag.com^
-||thebrilliantinvestor.com^
-||thebrinklounge.com^
-||thebrixtonaustin.com^
-||thebroadstreetcafe.com^
-||thebrobasket.com^
-||thebronxnightmarket.com^
-||thebrowncountychamber.org^
-||thebrowngeeks.com^
-||thebrownidentity.com^
-||thebrunswickherald.com^
-||thebryansinger.com^
-||thebryoga.com^
-||thebuddhism.net^
-||thebudranchgardencenter.com^
-||thebuffaloclubboise.com^
-||thebugs.ws^
-||thebuibrothers.com^
-||thebullruncoin.com^
-||theburghblog.com^
-||theburiedlife.com^
-||theburningtruth.us^
-||theburritobarwv.com^
-||thebushwickdream.net^
-||thebusinesnews.com^
 ||thebusinessberg.com^
 ||thebusinessblocks.com^
 ||thebusinesslibrarian.com^
@@ -537,7 +358,6 @@
 ||thedonutrun.com^
 ||thedoodl.com^
 ||thedoorinthewall.com^
-||thedotmediagroup.com^
 ||thedouchebaggery.com^
 ||thedowntowner.net^
 ||thedowntownpalace.com^
@@ -1469,7 +1289,6 @@
 ||themusicofthenight.co.uk^
 ||themuzepaper.com^
 ||themythicfire.com^
-||themzziworld.com^
 ||then-now.com^
 ||then1n3project.com^
 ||thenagsheade17.com^
@@ -3195,10 +3014,8 @@
 ||ticketspy.fr^
 ||ticketturtle.com^
 ||tickforfree.com^
-||tickinfo.cyou^
 ||ticklesign.com^
 ||ticklishribs.com^
-||tickonline.cfd^
 ||ticks2.bugsense.com^
 ||tickschamber.com^
 ||ticksel.com^
@@ -3825,8 +3642,6 @@
 ||timelesscelebrity.com^
 ||timelessglass.xyz^
 ||timelesspoker.com^
-||timelesstrails.xyz^
-||timelesstranquility.live^
 ||timelesstreasuressf.com^
 ||timelife.122.2o7.net^
 ||timemedya.com^
@@ -4083,7 +3898,6 @@
 ||tinytruffles.com^
 ||tinyyogahabits.com^
 ||tiogapassresort.com^
-||tiolan.xyz^
 ||tiomantaconsulting.com^
 ||tiomarkets.com^
 ||tiongbahruchickenricevn.com^
@@ -4647,6 +4461,7 @@
 ||tk88.com^
 ||tk88.de^
 ||tk88.download^
+||tk88.family^
 ||tk88.fan^
 ||tk88.fit^
 ||tk88.game^
@@ -12044,6 +11859,7 @@
 ||tradecasa.com^
 ||tradecolosseum.com^
 ||tradecompany.pl^
+||tradecore.tradehouse.media^
 ||tradedealvip.su^
 ||tradedoubler.com^
 ||tradedoubler.sonvideopro.com^
@@ -12112,7 +11928,6 @@
 ||tradgirl.com^
 ||tradicionesrestaurant.com^
 ||tradie.bet^
-||tradiimedia.com^
 ||trading-platform.io^
 ||trading.com^
 ||tradingblak.com^
@@ -12288,7 +12103,6 @@
 ||trailofdead.com^
 ||trailyardbikes.com^
 ||train-teaching.com^
-||train2t.com^
 ||trainandgainfitnesswear.com^
 ||traincertain.com^
 ||trainfromspain.org^
@@ -12485,7 +12299,6 @@
 ||traptiindia.com^
 ||trarow.xyz^
 ||trart.org^
-||trasewqq.xyz^
 ||trashpandapost.com^
 ||trasinfos.xyz^
 ||trastpilot.info^
@@ -12644,7 +12457,6 @@
 ||trdone.new-era.top^
 ||trdplatform.xyz^
 ||trdreview.com^
-||trdsa.nimprove.top^
 ||trdsbet12.xyz^
 ||trdsbet2.xyz^
 ||tre.aichatt.top^
@@ -12846,6 +12658,7 @@
 ||trentonscottishirish.com^
 ||trenwayang.com^
 ||treop.nimprove.top^
+||treports.in^
 ||trepsnola.com^
 ||trescasasmexicangrill.com^
 ||tresco.id^
@@ -13309,7 +13122,6 @@
 ||triplesplumbinginc.com^
 ||tripletsghettokids.com^
 ||triplewdirectory.com^
-||tripleyourvalue.com^
 ||tripleyourvegas.com^
 ||triplify.org^
 ||tripnegrisakura.com^
@@ -14997,7 +14809,6 @@
 ||tulipmerah.shop^
 ||tulipsun.xyz^
 ||tuliptales.cam^
-||tuliptreasure.xyz^
 ||tulipwonder.xyz^
 ||tulipwonderland.xyz^
 ||tulisindo4dpools.com^
@@ -17491,6 +17302,7 @@
 ||ubbwiki.com^
 ||ubcd4win.org^
 ||ube7.com^
+||ubecebgaw.com^
 ||ubeforlyfe.top^
 ||ubehs.com^
 ||ubemresidency.com^
@@ -19565,6 +19377,7 @@
 ||ukonlinecasino.us^
 ||ukonlineslots.com^
 ||ukprosurf.com^
+||ukr-netdigitalhub.pro^
 ||ukraero.space^
 ||ukrailarchive.org^
 ||ukraine-cat-uxo.com^
@@ -21246,7 +21059,6 @@
 ||unthem.com^
 ||unthrobbb.spokedar.online^
 ||untidyquestion.com^
-||untielines.site^
 ||untimelypast.org^
 ||untiup.xyz^
 ||untobaccocontrol.org^
@@ -21874,7 +21686,6 @@
 ||upitabebe.com^
 ||upjago177.com^
 ||upking177.com^
-||upklover.space^
 ||upkongsibet.com^
 ||upl.expensivesurvey.click^
 ||upl.net-solutions.vn^
@@ -23111,11 +22922,9 @@
 ||utov.actyprogss.top^
 ||utoycemeteryinc.org^
 ||utoyen.com^
-||utqeaser.xyz^
 ||utrace.fr^
 ||utrack.hexun.com^
 ||utrava.com^
-||utred.autotrdes.top^
 ||utrellpark.com^
 ||utrencon.com^
 ||utroo.xiproject.top^
@@ -25000,11 +24809,9 @@
 ||vanhulsteijn.com^
 ||vania768.com^
 ||vaniindia.org^
-||vanil1lavis1ta.xyz^
 ||vanillaandcream.com^
 ||vanillasand.com^
 ||vanillasands.com^
-||vanillavoyage.xyz^
 ||vaniqa.1.p2l.info^
 ||vanitynailbarsa.com^
 ||vanlai.com^
@@ -26316,7 +26123,6 @@
 ||veltocars.com.pl^
 ||veltree.com^
 ||velvetbingo.com^
-||velvetcascade.com^
 ||velvetechoes.fit^
 ||velvetgeek.com^
 ||velvethaven.store^
@@ -26519,7 +26325,6 @@
 ||venusss.com^
 ||venusstar.com^
 ||venussurya.com^
-||venusvantage.site^
 ||veo-novelas.com^
 ||vep.hautnah-kosmetik-grafenau.de^
 ||ver-cuevana.my^
@@ -26569,7 +26374,6 @@
 ||verdan1valley.xyz^
 ||verdantblossom.xyz^
 ||verdantcu.com^
-||verdantvalley.xyz^
 ||verdantvista.cam^
 ||verde-casino.com^
 ||verde-casino.gr^
@@ -26701,7 +26505,6 @@
 ||veroniquematernity.com^
 ||veronym.com^
 ||verplanes.com^
-||verqvue.com^
 ||vers.kadalgurun.site^
 ||versace4d.org^
 ||versacehandbags.name^
@@ -26797,7 +26600,6 @@
 ||veryfashionplanet.com^
 ||veryhappystories.com^
 ||veryhard.us^
-||veryiwertr.xyz^
 ||verysparg.com^
 ||veryvoga.pl^
 ||verywellcasino777.com^
@@ -29686,6 +29488,7 @@
 ||vinted-polska-zpj.ordernew484822.info^
 ||vinted-polska-zwl.ordernew11010103.info^
 ||vinted-pt.order-377.com^
+||vinted-ro.tebras.shop^
 ||vinted-uk.afforders.com^
 ||vinted-uk.glorder.com^
 ||vinted-uk.pchorders.com^
@@ -29701,6 +29504,7 @@
 ||vinted.confirm132478.info^
 ||vinted.confirm1743283.info^
 ||vinted.confirm2743283.info^
+||vinted.confirm2748363.info^
 ||vinted.confirm27853248.info^
 ||vinted.confirm284239.info^
 ||vinted.confirm332478.info^
@@ -29744,6 +29548,7 @@
 ||vintedcz.id5028.com^
 ||vintedcz.id5031.info^
 ||vintedcz.id5032.com^
+||vintedcz.id5032.info^
 ||vintedcz.id5032.org^
 ||vinteddk.defen.info^
 ||vintedfr.pro^
@@ -29891,11 +29696,9 @@
 ||violetvalley.xyz^
 ||violetvibes.cam^
 ||violetvibes.xyz^
-||violetvivid.xyz^
 ||violetvogue.xyz^
 ||violetwhispers.xyz^
 ||violetwhitecoral.top^
-||violfix.xyz^
 ||violin88.link^
 ||violin88.website^
 ||violin88bos.com^
@@ -31239,7 +31042,9 @@
 ||vipsmartglasses.com^
 ||vipsmartgoods.com^
 ||vipsodo.app^
+||vipsodo.info^
 ||vipsodo.ph^
+||vipsodo.top^
 ||vipsodo18.cc^
 ||vipspeedferry.com^
 ||vipspel.com^
@@ -33970,6 +33775,7 @@
 ||vorcuta.info^
 ||vordervilesian.xyz^
 ||vorell.net^
+||vorercontr.com^
 ||vormex.shop^
 ||vornair.com^
 ||vorply.com^
@@ -36406,6 +36212,7 @@
 ||w5900.vip^
 ||w59738.com^
 ||w59759.com^
+||w5db2fmhi5jtu7r5j0mb5319.gardenfourum.com^
 ||w5jogo1.com^
 ||w5txr.net^
 ||w5x6y7.click^
@@ -37855,6 +37662,7 @@
 ||waf-web1337.one^
 ||wafa88.site^
 ||wafembroidery.com^
+||waffl.dev^
 ||wafflesonwednesday.com^
 ||waffset.info^
 ||waffwell.co^
@@ -42494,7 +42302,6 @@
 ||weknowgamers.net^
 ||wekomoa.com^
 ||wekopacasinoresort.com^
-||wekoruy4.xyz^
 ||wekutogl.live^
 ||wekza.top^
 ||wel777cor.lol^
@@ -44309,7 +44116,6 @@
 ||wildwill.net^
 ||wildwoodmotel.com^
 ||wildwoodmusicfest.com^
-||wildwoodwhispers.cfd^
 ||wildwoodwonder.xyz^
 ||wildz-casino.top^
 ||wildz.com^
@@ -44663,6 +44469,7 @@
 ||win2max.org^
 ||win2max.vip^
 ||win2max01.com^
+||win2prizes.world^
 ||win2rich.cc^
 ||win2rich.vip^
 ||win2starcasino.com^
@@ -45770,6 +45577,7 @@
 ||winmahkota555.org^
 ||winmajalah4ds.com^
 ||winmaker.com^
+||winmaker2.com^
 ||winmaniacasino.com^
 ||winmaret88.com^
 ||winmario-win.lol^
@@ -46107,6 +45915,7 @@
 ||winportogel.com^
 ||winpotcasino-mx.top^
 ||winprincess.co.tz^
+||winprizes24.sbs^
 ||winpro.initips01.com^
 ||winpro1.polartpjne.com^
 ||winpro12.polartpjne.com^
@@ -47221,6 +47030,7 @@
 ||wishmaker.com^
 ||wishmeawaydoc.com^
 ||wisho.com^
+||wishoaw.cc^
 ||wishoaw.com^
 ||wishoaw.online^
 ||wishocasino.top^
@@ -48396,7 +48206,6 @@
 ||wonderjaya.com^
 ||wonderlandads.com^
 ||wonderlandentgroup.com^
-||wonderlandescape.site^
 ||wonderleafcbd.com^
 ||wondermaxwin.skin^
 ||wonderplay888.com^
@@ -48913,7 +48722,6 @@
 ||worldsfairs.com^
 ||worldshotokan.org^
 ||worldsim.club^
-||worldsinvesinshow.click^
 ||worldsitelink.com^
 ||worldslotcasino.shop^
 ||worldsnowboardtour.com^
@@ -49448,7 +49256,6 @@
 ||wrappedwonders.online^
 ||wrapper-vast.adsafeprotected.com^
 ||wrapper.fileplanet.com^
-||wraproads.online^
 ||wrapsol-jp.com^
 ||wrathbtk.top^
 ||wrating.com^
@@ -50152,7 +49959,6 @@
 ||wtobetbit.yachts^
 ||wtobeth.com^
 ||wtop.waugrate.info^
-||wtopas.xyz^
 ||wtoseattle.org^
 ||wtoslot.xyz^
 ||wtp-india.com^
@@ -55738,7 +55544,6 @@
 ||xplozone.com^
 ||xplusone.com^
 ||xpmom.com^
-||xpoengage.com^
 ||xpokies.com^
 ||xponsor.com^
 ||xpop.co^
@@ -56128,6 +55933,7 @@
 ||xwowslot888.pages.dev^
 ||xwq932.com^
 ||xwqp.club^
+||xww.bd6te.top^
 ||xx.ajhe.lat^
 ||xx.c.appier.net^
 ||xx.gapkod.com^
@@ -56546,7 +56352,6 @@
 ||xzmkwin.com^
 ||xzsryuqknt.net^
 ||xzsysw.com^
-||xzwptwaagvdf.com^
 ||y-5kpk.icu^
 ||y-a-k-u-z-a-1-2-3.com^
 ||y-ds2a.sbs^
@@ -56648,6 +56453,7 @@
 ||y188xj.com^
 ||y19789.com^
 ||y1cfio.skin^
+||y1ibco.cyou^
 ||y1k4b7.buzz^
 ||y1qvfy.hair^
 ||y1tp.net^
@@ -58696,7 +58502,6 @@
 ||yellowstonecountry.org^
 ||yellowtenisball.com^
 ||yellowterang.xyz^
-||yellowy0nder.xyz^
 ||yellspain.112.2o7.net^
 ||yelltum.fun^
 ||yelo99.store^
@@ -60633,7 +60438,6 @@
 ||yowestogel127.com^
 ||yowestogel139.com^
 ||yowestogelvip02.com^
-||yowingcliff.store^
 ||yowinslot-vip.beauty^
 ||yowinslot1.com^
 ||yowinslot1.net^
@@ -61723,7 +61527,6 @@
 ||yz9888.com^
 ||yzeuressurcreuse.com^
 ||yzis.org^
-||yzkzixun.com^
 ||yzqq16.webwave.dev^
 ||yztdrh.com^
 ||yztoto.me^
@@ -61775,6 +61578,7 @@
 ||z.namawlatogl88.net^
 ||z.rajaindolot88.net^
 ||z.safekaisartoto88.com^
+||z.shavsl.com^
 ||z.spiritindolot88.net^
 ||z.sukakaisartoto88.com^
 ||z.tanggaindolot88.net^
@@ -62416,7 +62220,6 @@
 ||zastrzykinformacji24.pl^
 ||zaswiadczeniekrk.pl^
 ||zataz.fr.intellitxt.com^
-||zatinsoe.xyz^
 ||zato-solnechnyi.ru^
 ||zatowoodlands.com^
 ||zatr.neweconomichb.cfd^
@@ -62835,8 +62638,6 @@
 ||zenithrise.ink^
 ||zenithsend.org^
 ||zenithslots.com^
-||zenithzest.quest^
-||zenithzone.live^
 ||zenix88cair.xyz^
 ||zenix89slot.com^
 ||zenix99.com^
@@ -62884,7 +62685,6 @@
 ||zenwinmaxwin.com^
 ||zenwinpro.com^
 ||zenwinslot.com^
-||zenzest.live^
 ||zenzoneliving.info^
 ||zenzuu.com^
 ||zeomascara.online^
@@ -63006,7 +62806,6 @@
 ||zestoreticlisinopril.store^
 ||zesttyziing.xyz^
 ||zestuplms.com^
-||zestyc1trus.sbs^
 ||zeszytyliterackie.com^
 ||zet-casino.top^
 ||zet77.net^
@@ -65069,7 +64868,6 @@
 ||zydear.xyz^
 ||zyfaraliy.com^
 ||zyg6268.com^
-||zygoniu8.space^
 ||zyhoney.xyz^
 ||zyiugwpsxq.net^
 ||zyjadeu.pics^
