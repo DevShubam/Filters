@@ -2,12 +2,10 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241125
-! Last modified: November 25, 2024
-! Entries: 42938
+! Version: 20241126
+! Last modified: November 26, 2024
+! Entries: 42925
 
-||x2vn.com^
-||x2x.com.ru^
 ||x2x.nl^
 ||x2xx.net^
 ||x3-team.ru^
@@ -1614,7 +1612,6 @@
 ||xemphimsex3.com^
 ||xemphimsex3x.net^
 ||xemphimsex68.pro^
-||xemphimsex69.vip^
 ||xemphimsex88.com^
 ||xemphimsexhay.com^
 ||xemphimsexhay.me^
@@ -1696,7 +1693,6 @@
 ||xemsex69.me^
 ||xemsex69.net^
 ||xemsex69.one^
-||xemsex69.org^
 ||xemsex69.pro^
 ||xemsex69.vip^
 ||xemsex69.xyz^
@@ -1748,7 +1744,6 @@
 ||xemsexjav.com^
 ||xemsexjav.me^
 ||xemsexjav.online^
-||xemsexjav.org^
 ||xemsexjav.pro^
 ||xemsexjav.site^
 ||xemsexjav.us^
@@ -1797,7 +1792,6 @@
 ||xemsextop.com^
 ||xemsextop1.net^
 ||xemsextop1.pro^
-||xemsextop1.vip^
 ||xemsextructuyen.com^
 ||xemsextv.com^
 ||xemsextv.net^
@@ -3506,6 +3500,7 @@
 ||xiaotin.com^
 ||xiaoxiaopai.com^
 ||xiaoxtaa.cfd^
+||xiaoxtab.cfd^
 ||xiaoxtzxspj.buzz^
 ||xiaoxuen.com^
 ||xiaoyakankan.com^
@@ -3513,6 +3508,7 @@
 ||xiaoyansexdating.pages.dev^
 ||xiaoyaojp.com^
 ||xiaoybond.com^
+||xiaoyg2.buzz^
 ||xiaoyg3.cc^
 ||xiaoyg44.top^
 ||xiaoyinbi1.buzz^
@@ -3876,6 +3872,7 @@
 ||xizmitescort.com^
 ||xj2sextoys.blogspot.com^
 ||xj5577.cc^
+||xj87ti.com^
 ||xj889.com^
 ||xj909.com^
 ||xj922.com^
@@ -8850,7 +8847,6 @@
 ||xphimsex.xyz^
 ||xphimsex.zip^
 ||xphimsex69.com^
-||xphimsexhay.com^
 ||xphimsexhay.pro^
 ||xphimsexkhongche.top^
 ||xphimsexviet.com^
@@ -9117,7 +9113,6 @@
 ||xpornhub.cc^
 ||xpornhub.co^
 ||xpornhub.com^
-||xpornhub.live^
 ||xpornhub.me^
 ||xpornhub.net^
 ||xpornhub.org^
@@ -20954,7 +20949,6 @@
 ||xxxid.com^
 ||xxxidle.com^
 ||xxxidol-sextape123.com^
-||xxxidolxxx18.click^
 ||xxxie.blogspot.com^
 ||xxxifuck.com^
 ||xxxifuck.ru^
@@ -22254,7 +22248,6 @@
 ||xxxmoms.pro^
 ||xxxmoms.vip^
 ||xxxmoms.xyz^
-||xxxmomsex.com^
 ||xxxmomsex.mobi^
 ||xxxmomsex.net^
 ||xxxmomson.cc^
@@ -26276,7 +26269,6 @@
 ||xxxtubepot.fun^
 ||xxxtubepot.info^
 ||xxxtubepot.pro^
-||xxxtuber.co^
 ||xxxtuber.info^
 ||xxxtuberange.com^
 ||xxxtuberaw.com^
@@ -32382,7 +32374,6 @@
 ||youjizz777.net^
 ||youjizzasian.com^
 ||youjizzbbw.com^
-||youjizzbo.info^
 ||youjizzbo.net^
 ||youjizzcc.com^
 ||youjizzchinese.com^
@@ -33079,7 +33070,6 @@
 ||youngasiangirlfriend.com^
 ||youngasianguys.com^
 ||youngasianladyboys.com^
-||youngasianmoms.com^
 ||youngasianpics.com^
 ||youngasianporn.org^
 ||youngasianporntube.net^
@@ -36157,7 +36147,6 @@
 ||yourobedientpig.tumblr.com^
 ||yourobsession.pl^
 ||youroffice.com.br^
-||youroliveira.sexy^
 ||youroneandonley.tumblr.com^
 ||youronestopdownload.blogspot.com^
 ||youronlinechoice.eu^
@@ -37755,7 +37744,6 @@
 ||yumy.nl^
 ||yumyespleasexxx.tumblr.com^
 ||yumytumyproxy.info^
-||yumyum-babes.com^
 ||yumyum.tsx.org^
 ||yumyumcult.tumblr.com^
 ||yumyummytumtummy.tumblr.com^
@@ -40491,6 +40479,7 @@
 ||zitcom-wordpressexpert.be^
 ||zithromaxo.com^
 ||zitoleads.com^
+||zitop.ru^
 ||zitteraal.com^
 ||zitto-e-godi.com^
 ||zitto.com^
@@ -40499,7 +40488,6 @@
 ||ziumnfnltbu.bid^
 ||ziunim-hinam.blogspot.com^
 ||zivafeyxxx.com^
-||ziveporno.cz^
 ||zivity.com^
 ||zivkovicgvozdena.blogspot.com^
 ||zivot.rs^
@@ -42072,7 +42060,6 @@
 ||zpfchengeschichten-ficken-in-bochum.pages.dev^
 ||zphimsex.info^
 ||zphimsex.me^
-||zphimsex.net^
 ||zphimsex.pro^
 ||zphimsex.top^
 ||zphimsex.us^
