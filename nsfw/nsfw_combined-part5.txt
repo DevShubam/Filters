@@ -2,101 +2,10 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241126
-! Last modified: November 26, 2024
-! Entries: 42925
+! Version: 20241127
+! Last modified: November 27, 2024
+! Entries: 42826
 
-||x2x.nl^
-||x2xx.net^
-||x3-team.ru^
-||x3.net^
-||x300x.com^
-||x31.co^
-||x32187.cn^
-||x35.co^
-||x35.net^
-||x350x350.tumblr.com^
-||x365x.com^
-||x365x.net^
-||x3arabi.com^
-||x3av.com^
-||x3cams.com^
-||x3d-xxx.com^
-||x3depot.eu^
-||x3dgames.net.ru^
-||x3dgay.com^
-||x3dsex.com^
-||x3dxxx.com^
-||x3fap.com^
-||x3g.fr^
-||x3gallery.blogspot.com^
-||x3guide.com^
-||x3guide.net^
-||x3links.com^
-||x3list.com^
-||x3m.us^
-||x3meporn.com^
-||x3pic.com^
-||x3pics.com^
-||x3playtube.tumblr.com^
-||x3plaza.com^
-||x3port.de^
-||x3s69nj.tumblr.com^
-||x3scripts.com^
-||x3sex.com^
-||x3srv.com^
-||x3stories.blogspot.com^
-||x3tgp.com^
-||x3tube.blogspot.com^
-||x3vid.com^
-||x3vids.com^
-||x3world.blogspot.com^
-||x3x-babe.blogspot.com^
-||x3x3x.xyz^
-||x3xtube.com^
-||x3y34.com^
-||x4-video.blogspot.com^
-||x420xdeviant.tumblr.com^
-||x456k.com^
-||x4f.net^
-||x4hack.com^
-||x4men.com^
-||x4nix.nl^
-||x4sex.com^
-||x4t.net^
-||x4tos.b-cdn.net^
-||x4tos.com^
-||x4u.xyz^
-||x4x.net^
-||x4you.de^
-||x50.org^
-||x520.com^
-||x55d.com^
-||x567x.me^
-||x5av.com^
-||x5o.org^
-||x5x.nl^
-||x5xxx.com^
-||x6-chat.de^
-||x622x.com^
-||x6661.win^
-||x669x.blogspot.com^
-||x69.biz^
-||x69.es^
-||x69.free.fr^
-||x69.hypermart.net^
-||x69.live^
-||x69.me^
-||x69.najlepsze.net^
-||x69.pl^
-||x69.ru^
-||x69.tv^
-||x69cams.com^
-||x69iman.tumblr.com^
-||x69q.com^
-||x69tube.net^
-||x69tv.com^
-||x6av.com^
 ||x6cam.com^
 ||x6cams-com.blogspot.com^
 ||x6camsy.com^
@@ -1618,7 +1527,6 @@
 ||xemphimsexhay.pro^
 ||xemphimsexhay.xyz^
 ||xemphimsexhayhd.pro^
-||xemphimsexhd.pro^
 ||xemphimsexhd.vip^
 ||xemphimsexhz.pro^
 ||xemphimsexmoi.com^
@@ -1688,10 +1596,8 @@
 ||xemsex3x.vip^
 ||xemsex3x.xyz^
 ||xemsex55.net^
-||xemsex69.club^
 ||xemsex69.com^
 ||xemsex69.me^
-||xemsex69.net^
 ||xemsex69.one^
 ||xemsex69.pro^
 ||xemsex69.vip^
@@ -1742,7 +1648,6 @@
 ||xemsexhot.pro^
 ||xemsexjav.biz^
 ||xemsexjav.com^
-||xemsexjav.me^
 ||xemsexjav.online^
 ||xemsexjav.pro^
 ||xemsexjav.site^
@@ -1790,8 +1695,6 @@
 ||xemsexpro.tv^
 ||xemsexso1.pro^
 ||xemsextop.com^
-||xemsextop1.net^
-||xemsextop1.pro^
 ||xemsextructuyen.com^
 ||xemsextv.com^
 ||xemsextv.net^
@@ -3581,6 +3484,7 @@
 ||ximimai.com^
 ||ximnasiatempo.es^
 ||ximovies.blogspot.com^
+||ximumov.cc^
 ||xin-zhou.com^
 ||xin.18183.com^
 ||xin056.com^
@@ -5227,7 +5131,6 @@
 ||xmxx.org.uk^
 ||xmxx.pro^
 ||xmxx.rocks^
-||xmxx.tube^
 ||xmxxamator.com^
 ||xmxxporn.com^
 ||xmxxsexxx.com^
@@ -5721,7 +5624,6 @@
 ||xn--80adaggc5bdhlfamsfdij4p7b.xn--p1ai^
 ||xn--80adc8beafyeu.com^
 ||xn--80adc8beafyeu.org^
-||xn--80adgen2b3a2b.xn--p1acf^
 ||xn--80adisc4bc1a.com^
 ||xn--80ads6akb7a.xn--p1ai^
 ||xn--80adsjoy.xn--p1ai^
@@ -7503,6 +7405,7 @@
 ||xnxxbangbros.com^
 ||xnxxbase.com^
 ||xnxxbay.com^
+||xnxxbb.com^
 ||xnxxbbw.net^
 ||xnxxbbwporn.com^
 ||xnxxbdsm.co^
@@ -9456,7 +9359,6 @@
 ||xpressking.tk^
 ||xpresslivecams.com^
 ||xpresso3000.tumblr.com^
-||xprettielilpetx.sexy^
 ||xprettydollyx.tumblr.com^
 ||xprettyredrosex.com^
 ||xpreview.com^
@@ -10255,7 +10157,6 @@
 ||xsso.anbtr.com^
 ||xst0ry.blogspot.com^
 ||xst8888.com^
-||xstacy.sexy^
 ||xstar.biz^
 ||xstarlive.com^
 ||xstarnews.com^
@@ -14508,7 +14409,6 @@
 ||xxx-com.club^
 ||xxx-com.net^
 ||xxx-com.pro^
-||xxx-com.xxx^
 ||xxx-com.xyz^
 ||xxx-comics.com^
 ||xxx-comics.org^
@@ -29805,6 +29705,7 @@
 ||yegerotic.blogspot.com^
 ||yeguoparty.com^
 ||yeh-sex.com^
+||yeha.co.uk^
 ||yehoo.nl^
 ||yehporn.com^
 ||yehsp.xyz^
@@ -33970,7 +33871,6 @@
 ||youngpornvideos.top^
 ||youngpornvideosm.com^
 ||youngpornvideoz.com^
-||youngpornxvideos.com^
 ||youngpornxxx.com^
 ||youngpornxxx.net^
 ||youngpornxxx.tumblr.com^
@@ -37235,6 +37135,7 @@
 ||yshtzg.com^
 ||ysinsaatgayrimenkul.com^
 ||ysjbx.com^
+||ysjdsp.com^
 ||ysjrlm.com^
 ||ysjtv.xyz^
 ||ysjyz.com^
@@ -38950,6 +38851,7 @@
 ||zasians.com^
 ||zasisi.club^
 ||zasisi.info^
+||zasklivanilodzii.eu^
 ||zaslobodu.sk^
 ||zasolncem.ru^
 ||zaspancki.si^
@@ -41754,7 +41656,6 @@
 ||zooporno.space^
 ||zooporno.video^
 ||zoopornos.com^
-||zoopornos.top^
 ||zoopornotube.com^
 ||zoopornsex.site^
 ||zoopornsex.su^

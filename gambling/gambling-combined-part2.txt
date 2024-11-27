@@ -2,8 +2,8 @@
 ! Title: !  Blockd Gambling (part 2)
 ! Description: Block Gambling Domains
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241126
-! Last modified: November 26, 2024
+! Version: 20241127
+! Last modified: November 27, 2024
 ! Entries: 71782
 
 ||tanggabk.org^
@@ -2827,6 +2827,7 @@
 ||telegamao.online^
 ||telegdi.org^
 ||telegrakad.org^
+||telegrakbd.org^
 ||telegram-app.vip^
 ||telegram-bot.rr.nu^
 ||telegram8.vip^
@@ -2874,7 +2875,6 @@
 ||teleproservice.com^
 ||telesafe.pro^
 ||telescopy.xyz^
-||telesgram.my^
 ||telethon-belgique.org^
 ||teletorium-siemiatycze.myfreesites.net^
 ||teletrade.eu^
