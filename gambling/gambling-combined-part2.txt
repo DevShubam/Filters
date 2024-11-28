@@ -2,10 +2,18 @@
 ! Title: !  Blockd Gambling (part 2)
 ! Description: Block Gambling Domains
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241127
-! Last modified: November 27, 2024
-! Entries: 71782
+! Version: 20241128
+! Last modified: November 28, 2024
+! Entries: 71791
 
+||tangga88.xyz^
+||tanggabesi.com^
+||tanggabet.com^
+||tanggabird.com^
+||tanggabird.org^
+||tanggabird.pro^
+||tanggabird.xyz^
+||tanggabk.fun^
 ||tanggabk.org^
 ||tanggabk.xyz^
 ||tanggabravo.pro^
@@ -31133,6 +31141,7 @@
 ||vavada.uk^
 ||vavada1000.fun^
 ||vavada193.fun^
+||vavada1993.com^
 ||vavada2024.fun^
 ||vavada313.fun^
 ||vavada731.fun^
