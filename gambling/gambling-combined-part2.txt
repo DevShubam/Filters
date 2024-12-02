@@ -2,10 +2,18 @@
 ! Title: !  Blockd Gambling (part 2)
 ! Description: Block Gambling Domains
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241201
-! Last modified: December 01, 2024
-! Entries: 69796
+! Version: 20241202
+! Last modified: December 02, 2024
+! Entries: 69808
 
+||tcd.tebex.io^
+||tcfdiningservices.com^
+||tcgaportal.org^
+||tcgdemo.com^
+||tcgpwa.org^
+||tcground.com^
+||tcgthdemo2.com^
+||tcgtrkr.com^
 ||tchanse.nimprove.top^
 ||tcheck.outbrainimg.com^
 ||tchin-tchine.com^
@@ -1051,7 +1059,7 @@
 ||telegamao.online^
 ||telegdi.org^
 ||telegrakad.org^
-||telegrakbd.org^
+||telegrakdd.org^
 ||telegram-app.vip^
 ||telegram-bot.rr.nu^
 ||telegram8.vip^
@@ -10691,6 +10699,7 @@
 ||toktoto99.com^
 ||tokudc.com^
 ||tokyo-burabura.com^
+||tokyo.cz^
 ||tokyo123.id^
 ||tokyo168game.com^
 ||tokyo188auto.com^
@@ -35301,6 +35310,7 @@
 ||vipzeus8m.com^
 ||vipzhao.xyz^
 ||vipzino.com^
+||vipzino77.com^
 ||vipzone4d.sbs^
 ||vir.rajapaito.works^
 ||viraads.com^
@@ -40092,6 +40102,7 @@
 ||w1nsane.com^
 ||w1pg.com^
 ||w1pid0c9qfmf7it53ap7blsi.makeupgap.com^
+||w1volcanicpg.com.br^
 ||w1xbet.ru^
 ||w1xiya.hair^
 ||w2-mango4d.xyz^
@@ -46675,6 +46686,7 @@
 ||welldoneslots.com^
 ||welldressedhome.com^
 ||welldressedwilla.com^
+||welle.casino^
 ||wellilog.com^
 ||wellington-luxury-homes.com^
 ||wellingtoncoop.com^
