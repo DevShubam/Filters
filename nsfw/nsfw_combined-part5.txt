@@ -2,72 +2,10 @@
 ! Title: !  Blockd NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241204
-! Last modified: December 04, 2024
-! Entries: 45723
+! Version: 20241205
+! Last modified: December 05, 2024
+! Entries: 45647
 
-||writersofbhutan.com^
-||writervamp.blogspot.com^
-||writerwithoutatitle.tumblr.com^
-||writesex.net^
-||writesexright.com^
-||writetheweb.com^
-||writetoaceleb.com^
-||writeworld.tumblr.com^
-||writhing-rapture.tumblr.com^
-||writhingbodies.tumblr.com^
-||writhinginpain.tumblr.com^
-||writhinglust.tumblr.com^
-||writing-about-larry.tumblr.com^
-||writing-naked.com^
-||writing-of-fandoms.tumblr.com^
-||writing.jmpressley.net^
-||writingdirty.com^
-||writingfling.tumblr.com^
-||writingpays.biz^
-||writings.com^
-||writingteenovels.com^
-||writingtheoutsiders.tumblr.com^
-||writingwithcolor.tumblr.com^
-||writingyouwet.tumblr.com^
-||written.chat^
-||writtendown.com^
-||writteninpurpleink.blogspot.com^
-||writteninthenude.tumblr.com^
-||writtensex.tumblr.com^
-||writtensmut.tumblr.com^
-||writtenxxx.pro^
-||wrl-gmbh.de^
-||wrldsex.com^
-||wrldxporn4.live^
-||wrn26.com^
-||wroclaw.paulini.pl^
-||wrona.it^
-||wrong-hole.com^
-||wrong-in-sweden.com^
-||wrong-url-motherfucker.tumblr.com^
-||wrongappreciator.tumblr.com^
-||wrongcodes.blogspot.com^
-||wrongfuckedandoverrated.tumblr.com^
-||wrongholerightnow.tumblr.com^
-||wrongonesin.tumblr.com^
-||wrongreel.com^
-||wrongsex.tumblr.com^
-||wrongsexlinetity.tumblr.com^
-||wrongtown.blogspot.com^
-||wrongwonderlandxxx.tumblr.com^
-||wrp.it^
-||wrp.net^
-||wrporn.com^
-||wrsa.adv.br^
-||wrsex.com^
-||wrsscreencaps.blogspot.com^
-||wrstdeeppussy.tumblr.com^
-||wrstlvr.blogspot.com^
-||wrstlvr2.blogspot.com^
-||wrt-belt.com^
-||wrtransportesexpress.grupocarlostelecom.com.br^
-||wrunk.com^
 ||wrwerert.blogspot.com^
 ||wrx09.xyz^
 ||wrxboy.tumblr.com^
@@ -3429,7 +3367,6 @@
 ||xcam.co.il^
 ||xcam.com^
 ||xcam.es^
-||xcam.ninja^
 ||xcam.nl^
 ||xcam.porn^
 ||xcam.sex^
@@ -4198,7 +4135,6 @@
 ||xemphimsex1s.biz^
 ||xemphimsex1s.info^
 ||xemphimsex1s.net^
-||xemphimsex1s.pro^
 ||xemphimsex2k.com^
 ||xemphimsex3.com^
 ||xemphimsex3x.net^
@@ -4322,7 +4258,6 @@
 ||xemsexhd.info^
 ||xemsexhd.live^
 ||xemsexhd.net^
-||xemsexhd.pro^
 ||xemsexhd.xyz^
 ||xemsexhd88.pro^
 ||xemsexhdhay.com^
@@ -4361,7 +4296,6 @@
 ||xemsexnay.org^
 ||xemsexne.com^
 ||xemsexnet.com^
-||xemsexnet.net^
 ||xemsexnet.org^
 ||xemsexnet.pro^
 ||xemsexngon.info^
@@ -4431,6 +4365,7 @@
 ||xemtrai.com^
 ||xemtrai.top^
 ||xemtruyenhay.com^
+||xemtruyenhentaivn.com^
 ||xemtruyensex.com^
 ||xemvlxx.me^
 ||xemxnxx.com^
@@ -4675,7 +4610,6 @@
 ||xfetish.one^
 ||xfetishasianmassage.tumblr.com^
 ||xfetishboardcom.blogspot.com^
-||xfetishcams.com^
 ||xfetishclip.com^
 ||xfetishfetishx.blog.excite.it^
 ||xfetishfreak.com^
@@ -5301,6 +5235,7 @@
 ||xhamster-xxx.ru^
 ||xhamster-youporn.com^
 ||xhamster.beauty^
+||xhamster.best^
 ||xhamster.biz^
 ||xhamster.boats^
 ||xhamster.christmas^
@@ -8009,7 +7944,6 @@
 ||xn----jtbisccbfkql9b.com^
 ||xn----jtbokebcckdlay.net^
 ||xn----oncafa0fl.tv^
-||xn----otbbgfjebee6am9jpa.xn--p1ai^
 ||xn----ptbahmcdbglz.xn--p1ai^
 ||xn----ptbahmfbfegq6k.xn--p1ai^
 ||xn----ptbjebfbfk7b.xn--p1ai^
@@ -8166,7 +8100,6 @@
 ||xn--42c6baga2dd6da0eti2a8e8a.com^
 ||xn--42c6bfq2ab9cycm4jh9e.com^
 ||xn--42c8agg2bnd3cwd9d8c5d.com^
-||xn--42c8bd2bxe2d4b.net^
 ||xn--42cf2bul7gtbe3e0e2cwa.com^
 ||xn--42cf7cbgd3iwbff6ptd.com^
 ||xn--42cf7cgd3cvc8be0ood.com^
@@ -19232,7 +19165,6 @@
 ||xxx09.com^
 ||xxx0sexy0xxx.skyblog.com^
 ||xxx0video.com^
-||xxx0x3.com^
 ||xxx0x3.pro^
 ||xxx0xxx.com^
 ||xxx1.com^
@@ -19545,7 +19477,6 @@
 ||xxx693xyz.shop^
 ||xxx696969.skyblog.com^
 ||xxx698.shop^
-||xxx699.online^
 ||xxx69997.shop^
 ||xxx6999xyz.shop^
 ||xxx69blog.com^
@@ -23121,8 +23052,6 @@
 ||xxxhd.world^
 ||xxxhd.xxx^
 ||xxxhd.yachts^
-||xxxhd101.cc^
-||xxxhd101.pro^
 ||xxxhd1080.top^
 ||xxxhd1080x.top^
 ||xxxhd2024.com^
@@ -28481,7 +28410,6 @@
 ||xxxtip.net^
 ||xxxtipp.de^
 ||xxxtipps.de^
-||xxxtit.com^
 ||xxxtitanic.com^
 ||xxxtitles.com^
 ||xxxtitlovers.tumblr.com^
@@ -29111,7 +29039,6 @@
 ||xxxtubezoo.ru^
 ||xxxtubezoo.top^
 ||xxxtubo.net^
-||xxxtubwi.mobi^
 ||xxxtubwi.net^
 ||xxxtubwi.org^
 ||xxxtubxxx.com^
@@ -38527,7 +38454,6 @@
 ||yourfascinations.net^
 ||yourfatbabes.tumblr.com^
 ||yourfavboobsite.tumblr.com^
-||yourfavbrat.sexy^
 ||yourfavcouple69.tumblr.com^
 ||yourfavefuckboy-deactivated2016.tumblr.com^
 ||yourfavegayporn.tumblr.com^
@@ -40517,7 +40443,6 @@
 ||yummyxxx.com^
 ||yummyxxx.pro^
 ||yummyxxxtube.com^
-||yummyyelper.sexy^
 ||yumporn.org^
 ||yumsexinsox.tumblr.com^
 ||yumstixxx.tumblr.com^
@@ -43253,7 +43178,6 @@
 ||zisapet.com.br^
 ||ziseav2.cc^
 ||zisexs.com^
-||zisexvid8u.com^
 ||zishijiaoxue.xyz^
 ||zishy.com^
 ||zishy.org^
