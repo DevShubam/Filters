@@ -2,116 +2,10 @@
 ! Title: !  Blockd Gambling (part 2)
 ! Description: Block Gambling Domains
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241205
-! Last modified: December 05, 2024
-! Entries: 65715
+! Version: 20241206
+! Last modified: December 06, 2024
+! Entries: 65613
 
-||theblemish.us.intellitxt.com^
-||theblenderproject.com^
-||theblinkbar.com^
-||theblock-mag.com^
-||theblockchainnew.com^
-||theblockchainshow.com^
-||theblockorg.com^
-||theblocksharpener.com^
-||theblogginghero.com^
-||theblogmire.com^
-||theblogofleire.com^
-||thebloodyaussiebattler.com^
-||thebloodyoyster.com^
-||thebloomingunion.com^
-||thebluebellcafenyc.com^
-||thebluebirdreno.com^
-||theblueflameagency.com^
-||thebluegrassmom.com^
-||thebluelotusfeet.com^
-||thebluemoosecafe.com^
-||thebluepeace.org^
-||theblueproject.org^
-||theblueribbongrill.com^
-||theblueroomblog.org^
-||thebluesbroads.com^
-||thebluessa.com^
-||thebluffmemphis.com^
-||thebluwater.com^
-||theboardmatch.net^
-||thebodhitreesalon.com^
-||thebodylovesociety.com^
-||thebohochild.com^
-||thebohs.com^
-||theboldvisionaire.com^
-||thebollywoodticket.com^
-||thebonanza88.site^
-||theboneyardbbq-livonia.com^
-||thebookhavenonline.com^
-||thebooknympho.com^
-||thebooksconnection.com^
-||thebookstacks.org^
-||thebootcave.com^
-||theborderlinelondon.com^
-||theborgataonlineprepaidcard.com^
-||theborgiabull.com^
-||theborodailygrind.com^
-||thebosh.us.intellitxt.com^
-||thebossbet.com^
-||thebosscasino.shop^
-||thebossgrill.com^
-||thebostoninn.com^
-||thebottleshare.org^
-||theboulevardde.com^
-||thebourbonbarandgrill.com^
-||theboweryboys.info^
-||theboweryhotel.com^
-||thebowlinalley.net^
-||theboxingplanet.com^
-||theboxisagift.com^
-||theboxofdaughter.com^
-||theboxoffice.be^
-||theboyfriendjeans.com^
-||thebpmfestival-europe.com^
-||thebrainstorms.io^
-||thebrainweaver.com^
-||thebranders.ar^
-||thebrannannc.com^
-||thebrassswan.com^
-||thebrawl.net^
-||thebreakaways.com^
-||thebreakfastclubtybee.com^
-||thebreastfest.org^
-||thebrewbuff.com^
-||thebreweryatlucianos.com^
-||thebrewerybible.com^
-||thebrewinnnyc.com^
-||thebrickhouseartgallery.com^
-||thebridelink.com^
-||thebridge-moct.org^
-||thebridgeatcornelltech.com^
-||thebridgeband.com^
-||thebridgectr.org^
-||thebrief.io^
-||thebrighteyestarot.com^
-||thebrightnotes.com^
-||thebrighttag.com^
-||thebrilliantinvestor.com^
-||thebrinklounge.com^
-||thebrixtonaustin.com^
-||thebroadstreetcafe.com^
-||thebrobasket.com^
-||thebronxnightmarket.com^
-||thebrowncountychamber.org^
-||thebrowngeeks.com^
-||thebrownidentity.com^
-||thebrunswickherald.com^
-||thebryansinger.com^
-||thebryoga.com^
-||thebuddhism.net^
-||thebudranchgardencenter.com^
-||thebuffaloclubboise.com^
-||thebugs.ws^
-||thebuibrothers.com^
-||thebullruncoin.com^
-||theburghblog.com^
-||theburiedlife.com^
 ||theburningtruth.us^
 ||theburritobarwv.com^
 ||thebushwickdream.net^
@@ -3549,6 +3443,7 @@
 ||tiktakasyik.com^
 ||tiktakaura.com^
 ||tiktakberkah.com^
+||tiktakbet.com^
 ||tiktakcahaya.com^
 ||tiktakceria.com^
 ||tiktakdragon.com^
@@ -7430,6 +7325,7 @@
 ||tootooloka88.lol^
 ||tootooloka88.me^
 ||tootsa.com^
+||top-646.ph^
 ||top-bestprize.life^
 ||top-bola-168.com^
 ||top-bola168.com^
@@ -24018,6 +23914,7 @@
 ||v4rtlz.cyou^
 ||v4ycti.top^
 ||v5-lewa.com^
+||v5-wistful.com^
 ||v5.all-in.cfd^
 ||v5.animasu.cc^
 ||v5.chinoc.net^
@@ -53783,6 +53680,7 @@
 ||xiawndu.shop^
 ||xiazaikuyun.com^
 ||xiberotarrak.com^
+||xibet.win^
 ||xibilla.com^
 ||xibucaijing.com^
 ||xico.bet^
