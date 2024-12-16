@@ -2,44 +2,10 @@
 ! Title: !  Blockd Gambling (part 2)
 ! Description: Block Gambling Domains
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241215
-! Last modified: December 15, 2024
-! Entries: 55005
+! Version: 20241216
+! Last modified: December 16, 2024
+! Entries: 54957
 
-||totecasino.mobi^
-||totecredit.org^
-||totedirect.net^
-||totedouble.net^
-||toteeachway.net^
-||toteeachway.org^
-||toteexacta.net^
-||toteexacta.org^
-||toteexchange.net^
-||toteexchange.org^
-||toteflexibetting.net^
-||totegames.net^
-||totegames.org^
-||totejackpot.net^
-||totejackpot.org^
-||toteladies.org^
-||totelbet.org^
-||totemcash.com^
-||totemcoffeeroasters.com^
-||toteminteriorsfw.com^
-||totemobile.net^
-||totemobile.org^
-||totemokakkoi.site^
-||toteonline.net^
-||toteplace.net^
-||toteplace.org^
-||toteplacepot.net^
-||toteplacepot.org^
-||totepoker.mobi^
-||totepoker.net^
-||totepoker.org^
-||totepool.org^
-||totesport.com^
-||tothebeachwa.com^
 ||tothebulan.com^
 ||tothecenter.us.intellitxt.com^
 ||tothemoontokyo88.com^
@@ -48,7 +14,6 @@
 ||totjejak.cc^
 ||totjitunow.site^
 ||totnawa.pro^
-||totnb.com^
 ||totnesimagebank.org^
 ||toto-328.id^
 ||toto-7d-awan.store^
@@ -1525,7 +1490,6 @@
 ||tour.affbuzzads.com^
 ||tour.brazzers.com^
 ||tour.cineble.com^
-||tour.polstatmedia.com^
 ||tour.sweetdiscreet.com^
 ||tour.xxxblackbook.com^
 ||touramador.com^
@@ -1610,6 +1574,7 @@
 ||toutousports.com^
 ||toutouvip.com^
 ||tovamiyoga.com^
+||tovar-promo.com^
 ||toveruy1.pro^
 ||toviper.com^
 ||towar.is-more.shop^
@@ -1758,6 +1723,7 @@
 ||toystore.texaschildrens.org^
 ||toyy4d.site^
 ||toyzmax.com^
+||tozgw.top^
 ||tozibbq.com^
 ||tozzl.com^
 ||tp-emea.exactag.com^
@@ -2656,7 +2622,6 @@
 ||tradearabia.advertserve.com^
 ||tradeasiaindo.com^
 ||tradeasiaindo.vip^
-||tradebankcoin.com^
 ||tradecasa.com^
 ||tradecolosseum.com^
 ||tradecompany.pl^
@@ -2673,6 +2638,7 @@
 ||tradeedgeai-pl.qegoroo.com^
 ||tradeeprex.net^
 ||tradeexchanging.com^
+||tradeffocus.click^
 ||tradefxpro.net^
 ||tradegpt360ai.com^
 ||tradeinn.fr^
@@ -3070,7 +3036,6 @@
 ||transyogateacher.com^
 ||trantens.com^
 ||trantienminh.info^
-||trantiveny.shop^
 ||tranvanbinh18.win^
 ||tranzibu9loid.shop^
 ||tranzit124.cz^
@@ -3102,6 +3067,7 @@
 ||traumahogsbbqshop.com^
 ||traumhausverlosung.de^
 ||traurturalay.xyz^
+||trauv.com^
 ||travamoholiday.com^
 ||travaux.me^
 ||travekocity.com^
@@ -3146,7 +3112,6 @@
 ||travelfremont.com^
 ||travelgooru.com^
 ||travelhajiumroh.org^
-||travelhekv.space^
 ||travelhub.com.sg^
 ||travelidealist.com^
 ||travelight.online^
@@ -3257,6 +3222,7 @@
 ||treacleedinburgh.co.uk^
 ||treadly.net^
 ||trearpow.pics^
+||treasure-shop.org^
 ||treasure777.net^
 ||treasurebay.com^
 ||treasureboxbd.net^
@@ -3276,6 +3242,7 @@
 ||treasurespins1.com^
 ||treasurevalleycoffee.net^
 ||treasurevalleyrollergirls.net^
+||treasury-goods.com^
 ||treatcenter.org^
 ||treatdreamsde.com^
 ||treatingthetaboo.com^
@@ -3326,7 +3293,6 @@
 ||treeserviceredding.org^
 ||treeservicesmackay.com^
 ||treeserviceswebstertx.com^
-||treeservicewestcovinaca.com^
 ||treesforfree.org^
 ||treesfullofmoney.com^
 ||treeskijang.co^
@@ -3351,9 +3317,7 @@
 ||treksinthewild.com^
 ||trekweb.us.intellitxt.com^
 ||trelass-ong.cfd^
-||trell.xiproject.top^
 ||trello777.bet^
-||trelneetios.com^
 ||tremendanota.com^
 ||tremendart.store^
 ||tremendoustime.com^
@@ -3445,6 +3409,7 @@
 ||trendyurls.info^
 ||trendzmag.com^
 ||trendzy.pl^
+||trener4.com^
 ||trenews.com^
 ||trenklawfirm.com^
 ||trenolx.info^
@@ -3569,7 +3534,6 @@
 ||trianglegourmet.com^
 ||trianglegroup.org^
 ||trianglepetroleum.com^
-||triangleportraits.com^
 ||trianglerank.net^
 ||trianglestory.cfd^
 ||triathloncoachcertification.com^
@@ -3976,6 +3940,7 @@
 ||triumphrat.us.intellitxt.com^
 ||triumphrider.id^
 ||triumphsandlaments.com^
+||triums.shop^
 ||triunfador.net^
 ||triunfoagency.com^
 ||triunfobet.com^
@@ -4083,6 +4048,7 @@
 ||trofeu.bet^
 ||trofeubet.com^
 ||trogiare.com^
+||trogirarea.com^
 ||trojabikes.com^
 ||trojancasino.com^
 ||troll2music.com^
@@ -4395,7 +4361,6 @@
 ||trusturl.top^
 ||trustvvallet.net^
 ||trustwinrate.com^
-||trustwishsolutions.com^
 ||trustx.org^
 ||trusty.law^
 ||trustyourselfbrand.com^
@@ -4737,6 +4702,7 @@
 ||tt3979.com^
 ||tt3979.net^
 ||tt43370.com^
+||tt4byd.cyou^
 ||tt4d.fun^
 ||tt4d.homes^
 ||tt4d.life^
@@ -5986,7 +5952,6 @@
 ||turkei.net^
 ||turkembabuja.com^
 ||turkendokrin.org^
-||turkexmin.com^
 ||turkey-coin.com^
 ||turkeya.life^
 ||turkeycentral.com^
@@ -6485,7 +6450,6 @@
 ||twci.coremetrics.com #[Tracking.Cookie]^
 ||twcimaxweb.112.2o7.net^
 ||twdiabv.xyz^
-||twe1.icu^
 ||tweakbox.mobi^
 ||tweaks.us.intellitxt.com^
 ||tweaktown.us.intellitxt.com^
@@ -6518,7 +6482,6 @@
 ||twhosting2.com^
 ||twibbi.com^
 ||twibbic.net^
-||twiceluck.com^
 ||twickernews.com^
 ||twiffo.com^
 ||twig-petal.com^
@@ -7382,7 +7345,6 @@
 ||u-dmp.urekamedia.com^
 ||u-gs2i.sbs^
 ||u-hiv.site^
-||u-jn9z.icu^
 ||u-krix.sbs^
 ||u-lite.org^
 ||u-no89.lat^
@@ -7751,7 +7713,6 @@
 ||u9822.com^
 ||u99f2.com^
 ||u99fu.com^
-||u9l3.top^
 ||u9play2.com^
 ||u9play2u.com^
 ||ua-1x-bet.com^
@@ -9181,7 +9142,6 @@
 ||ufalandx.com^
 ||ufalao.vip^
 ||ufalao999.net^
-||ufalinks12.com^
 ||ufalion168.com^
 ||ufalion168.win^
 ||ufalion1688.net^
@@ -9695,6 +9655,7 @@
 ||uggbootclearance.net.co^
 ||uggbootsforwomen.in.net^
 ||uggbootsonsale70off.name^
+||uggirgthh.info^
 ||uggooglepower.com^
 ||uggpg7.bet^
 ||uggpl.com^
@@ -9827,9 +9788,9 @@
 ||uh.mras.skin^
 ||uh.yaaj.skin^
 ||uh23.com^
+||uh5eoq.lol^
 ||uh5q3s4g.club^
 ||uh9jny.lat^
-||uhaklink.com^
 ||uhbrdx.com^
 ||uhcc.actiprogz.top^
 ||uhg0088s.com^
@@ -9850,6 +9811,7 @@
 ||ui.ppjol.com^
 ||ui.theo.lat^
 ||ui7qdp.lat^
+||ui8sbh.rest^
 ||uia2014durban.org^
 ||uiannefranktree.com^
 ||uib.ff.avast.com^
@@ -9878,6 +9840,7 @@
 ||uiom.depactive.top^
 ||uiow.actiprogz.top^
 ||uip.semasio.net^
+||uipluszz.top^
 ||uislot.biz^
 ||uislot.pro^
 ||uita.net^
@@ -10071,6 +10034,7 @@
 ||ukrainianbrides.us^
 ||ukrainiancomputing.org^
 ||ukrainianforum.net^
+||ukrainki-randki.pl^
 ||ukrainskiportal.pl^
 ||ukrashulya.ru^
 ||ukrbanner.net^
@@ -10079,7 +10043,6 @@
 ||ukrpts.net^
 ||ukrsocium.com^
 ||ukrstatistic.net^
-||ukrvor.com^
 ||ukrytatajemnica.rest^
 ||ukrytefakty.rest^
 ||ukrytyinformator.rest^
@@ -10300,7 +10263,6 @@
 ||ultimatewomensshow.com^
 ||ultimodiez.net^
 ||ultimorefugio.com^
-||ultimotest.click^
 ||ultivegas6d.net^
 ||ultm.org^
 ||ultra-browning.com^
@@ -11180,7 +11142,6 @@
 ||unimed.oewabox.at^
 ||unimercantile.com^
 ||unimhk.com^
-||uninstmd.bond^
 ||unintimidatedpac.com^
 ||uniocity.xyz^
 ||union-philippines.com^
@@ -11634,7 +11595,6 @@
 ||unspaceagency.com^
 ||unsq.top^
 ||unstat.baidu.com^
-||unstcktgng.stashiperoter.com^
 ||unstop-home.com^
 ||unstoppablethemovie.com^
 ||unsubscribed.co^
@@ -12227,6 +12187,7 @@
 ||update.9kir.com^
 ||update.adflex.vn^
 ||update.adsrvr.org^
+||update.billing41752.serveris.id.lv^
 ||update.cg100iii.com^
 ||update.hiconversion.com^
 ||update.ib.adnxs.com^
@@ -12261,7 +12222,6 @@
 ||updatedhelp.com^
 ||updatedolardua.me^
 ||updatedolarsatu.xyz^
-||updatee-facebok.com^
 ||updategame.click^
 ||updatehd.livejasmin.com^
 ||updatemanagir.us^
@@ -13244,6 +13204,7 @@
 ||uskola.info^
 ||uskyrie.com^
 ||usl39c.bet^
+||uslimv.com^
 ||uslot.asia^
 ||uslot.cash^
 ||uslot77.org^
@@ -13544,7 +13505,6 @@
 ||utipsalogin.com^
 ||utiva.org^
 ||utkp7.com^
-||utkrashtlandbase.com^
 ||utl-1.com^
 ||utlinek.xyz^
 ||utmagazine.ru^
@@ -13560,7 +13520,9 @@
 ||utorrent-backup-server.top^
 ||utorrent-backup-server2.top^
 ||utorrent-backup-server3.top^
+||utorrent-backup-server4.top^
 ||utorrent-backup-server5.top^
+||utorrent-servers.xyz^
 ||utov.actyprogss.top^
 ||utoycemeteryinc.org^
 ||utoyen.com^
@@ -13783,7 +13745,6 @@
 ||uv7820.com^
 ||uvairlines.com^
 ||uvatime.com^
-||uvh.v4l6.top^
 ||uvimage.56.com^
 ||uvindthethier.nl^
 ||uvip9.vip^
@@ -14249,6 +14210,7 @@
 ||v1nted.54215455.xyz^
 ||v1nted56product.57555465.xyz^
 ||v1nteddispatch.380935.xyz^
+||v1ofdi.lat^
 ||v1qidm.lol^
 ||v1qp.net^
 ||v1qp.pro^
@@ -14387,8 +14349,6 @@
 ||v29356.club^
 ||v2938.com^
 ||v2cc6.com^
-||v2chainlink.com^
-||v2chalnlink.com^
 ||v2fngfx935.autograalmann.de^
 ||v2ibo.art^
 ||v2ibo.lol^
@@ -15124,7 +15084,6 @@
 ||vai777.cc^
 ||vai777.pro^
 ||vaicore.xyz^
-||vaidarbhi.com^
 ||vaidebet.com^
 ||vaidebob.com^
 ||vaidepix.io^
@@ -15541,6 +15500,7 @@
 ||variasimenang.com^
 ||variations-classiques.com^
 ||varickmm.com^
+||varicorin.pl^
 ||varietync.org^
 ||varietystorerestaurant.com^
 ||vario125pagoda127.site^
@@ -15570,7 +15530,6 @@
 ||varyagi.shop^
 ||vas.gaszosakaii.top^
 ||vasa1f10.buzz^
-||vasalhorse.sbs^
 ||vasanthkumar.com^
 ||vasco-translator-polska.myfreesites.net^
 ||vasconcelos-versailles.com^
@@ -15911,7 +15870,6 @@
 ||vbcgivingfoundation.org^
 ||vbco.actiprogz.top^
 ||vbdc.trdechat.top^
-||vbdpublications.com^
 ||vbdxv.ximprrove.top^
 ||vbellagio.com^
 ||vbest.win^
@@ -17017,6 +16975,7 @@
 ||verify.rambler-profile.site^
 ||verifybooking.com^
 ||verifycaptcha.com^
+||verifys-support-accotus3641.top^
 ||verifyuserpage.co^
 ||verimuchme.com^
 ||veriond.com^
@@ -17284,7 +17243,6 @@
 ||vespalur.com^
 ||vespamaticjakarta.com^
 ||vespamewah.com^
-||vespaofficial.online^
 ||vespasakti.com^
 ||vespatogel2.vip^
 ||vespatogel2024.com^
@@ -17647,6 +17605,7 @@
 ||vhowland.co.uk^
 ||vhrr.top^
 ||vht.tradedoubler.com^
+||vhxhm.riders.50kfor50years.com^
 ||vi-serve.com^
 ||vi-tu-de-va.live^
 ||vi.5.p2l.info^
@@ -17928,7 +17887,6 @@
 ||victoriahospitalsjabalpur.com^
 ||victorialinesmalta.com^
 ||victoriamagnetics.com^
-||victorian-motel.com^
 ||victorianprop.com^
 ||victoriapetrosillo.com^
 ||victoriarayburnphotograp.hy.com^
@@ -18194,7 +18152,6 @@
 ||vidutalk.com^
 ||vidutils.taboola.com^
 ||vidxden.com^
-||vidyarthipro.com^
 ||vidyuti.com^
 ||vie.bet^
 ||vie2655641.com^
@@ -18293,6 +18250,7 @@
 ||viewtumi123.us^
 ||vig.vietbet.eu^
 ||viganplazahotel.com^
+||vigepui.com^
 ||viggenklubben.com^
 ||viggoslots.com^
 ||viggoslotscasino.com^
@@ -18554,7 +18512,6 @@
 ||villes-ephemeres.org^
 ||vilnevalley.cam^
 ||vilovetov.xyz^
-||vilwe.com^
 ||vim-tedstore.3890067.xyz^
 ||vimaxa.xyz^
 ||vimaxasli.id^
@@ -18634,11 +18591,9 @@
 ||vindercasino.dk^
 ||vindercasino.top^
 ||vindhyachalacademybhopal.com^
-||vindhyastone.com^
 ||vindicosuite.com^
 ||vindinium.org^
 ||vindstort.dk^
-||vinedostawa.shop^
 ||vineeasy.xyz^
 ||vinepipe.xyz^
 ||vineprolog.one^
@@ -18653,7 +18608,6 @@
 ||ving777s1.com^
 ||ving999z1.com^
 ||vingaming.com^
-||vingerspizza.com^
 ||vinho-777.com^
 ||vinhoki.org^
 ||vinhomeoceanpark.co^
@@ -18664,6 +18618,7 @@
 ||vinifilmfestivaltntv.com^
 ||vinigulaza.com^
 ||viniramos.com^
+||viniwae.com^
 ||vinix388go.art^
 ||vinix388go.club^
 ||vinkelvej12.dk^
@@ -18736,6 +18691,7 @@
 ||vinted-nl.inoko.shop^
 ||vinted-nl.maojin.shop^
 ||vinted-nl.yanbin.shop^
+||vinted-nl.zeebioty.shop^
 ||vinted-pl-3dseif.id-safe.xyz^
 ||vinted-pl-api.oferta-nfu.me^
 ||vinted-pl-gj32d.0xfee1dead.top^
@@ -20216,7 +20172,6 @@
 ||violettesvegan.com^
 ||violettouch.xyz^
 ||violetvalley.xyz^
-||violetvibes.cam^
 ||violetvibes.xyz^
 ||violetwhispers.xyz^
 ||violetwhitecoral.top^
@@ -21855,7 +21810,6 @@
 ||virdsam4d.icu^
 ||vireaeelcmaupas-curie-talbot.com^
 ||vireio.com^
-||virenderarya.com^
 ||virg-nelson.com^
 ||virg-nelson.pages.dev^
 ||virgendecoromoto.org^
@@ -21913,6 +21867,7 @@
 ||viriciravt.top^
 ||viridelife.com^
 ||viriginradio.fr^
+||virilan-new.org^
 ||virobent.com^
 ||viromusic.io^
 ||virpg.com^
@@ -22231,6 +22186,7 @@
 ||visionbyloh.com^
 ||visionforanation.net^
 ||visionforthevalleycle.com^
+||visiongaintech.store^
 ||visionlift.sbs^
 ||visionoptical.net^
 ||visionspa.org^
@@ -22322,9 +22278,9 @@
 ||visitvoltaire.com^
 ||visk588.com^
 ||vismednet.org^
-||visneticllc.com^
 ||visnyk.poker^
 ||visokogorcicg.com^
+||visospect.fair-2sale.com^
 ||vistaatoto.lol^
 ||vistabet-affiliate.host.bannerflow.com^
 ||vistabet.com^
@@ -22397,7 +22353,6 @@
 ||vitalibertas.com^
 ||vitalityhealthpets.com^
 ||vitalitymax.1.p2l.info^
-||vitalitysups.com^
 ||vitalityvaults.com^
 ||vitalizemagazine.com^
 ||vitals.vercel-analytics.com^
@@ -22413,7 +22368,9 @@
 ||vitaminjag77.com^
 ||vitaminjepe.com^
 ||vitaminmerah.com^
+||vitantgroup.com^
 ||vitantica.net^
+||vitasimil-pl.fiven-goods.org^
 ||vitatoto.beauty^
 ||vitatoto.homes^
 ||vite-react-web.vercel.app^
@@ -22423,6 +22380,7 @@
 ||vitibet.com^
 ||vitinhminhphu.com^
 ||vitivinicolagiuliani.com^
+||vitkacsa.com^
 ||vitkacsa.net^
 ||vitkata.com^
 ||vitkongsi88ok.xyz^
@@ -22627,7 +22585,6 @@
 ||vividnextw.com^
 ||vividragonpg.vip^
 ||vividtune.com^
-||vividvermilion.sbs^
 ||vividvortex.click^
 ||viviendosana.com^
 ||vivienne-westwood-polska.com^
@@ -22903,6 +22860,7 @@
 ||vk789bet.life^
 ||vk7fgj.sbs^
 ||vk88.live^
+||vkabutik.pl^
 ||vkacx.shop^
 ||vkadastre.com^
 ||vkaiko.fun^
@@ -22965,6 +22923,7 @@
 ||vlnted-at.jinjie.shop^
 ||vlnted-at.kinqbj.shop^
 ||vlnted-be.abidcreations.com^
+||vlnted-gb.acceptoffer4829.info^
 ||vlnted-gb.offer917.info^
 ||vlnted-gb.order81534.info^
 ||vlnted-gb.order842391.info^
@@ -24083,6 +24042,7 @@
 ||voluumtrk3.com^
 ||volveris.com^
 ||volvojakarta.id^
+||volysuo.com^
 ||vom2023.org^
 ||vomitgirl.org^
 ||von789.biz^
@@ -25449,6 +25409,7 @@
 ||vvipviper.com^
 ||vvipwukong138.com^
 ||vvipxyz388.com^
+||vvise-r.com^
 ||vvitengineering.com^
 ||vvjl.club^
 ||vvjl.com.ph^
@@ -25817,7 +25778,6 @@
 ||w-rabbit.com^
 ||w-sakti.vip^
 ||w-sunwin.net^
-||w-t23d.icu^
 ||w-tergacor.net^
 ||w-tergacor.vip^
 ||w-top.vip^
@@ -26340,7 +26300,6 @@
 ||w23.angkanet.red^
 ||w23.hitbox.com^
 ||w23.kijangjantan.xyz^
-||w23.v4l6.top^
 ||w23023.com^
 ||w23297.com^
 ||w2332.com^
@@ -26396,6 +26355,7 @@
 ||w289888.com^
 ||w29.hitbox.com^
 ||w29030.com^
+||w293cjhca4jfp1a6jecgghrc.animalhonour.com^
 ||w2978.com^
 ||w299.bet^
 ||w2enqd.lol^
@@ -27952,6 +27912,7 @@
 ||w936j007qqq63e163t5pud3p.buzzshowcase.com^
 ||w9455.com^
 ||w9466.com^
+||w95tv4eosab8ci96jro84r7a.fashioncluter.com^
 ||w96.mobi^
 ||w966.eu^
 ||w9668.com^
@@ -29576,7 +29537,6 @@
 ||warlog.info^
 ||warlog.ru^
 ||warloknihboss.com^
-||warm-canna-km8p00.mystrikingly.com^
 ||warma.org.zm^
 ||warmachineonline.com^
 ||warmafterthought.com^
@@ -29685,7 +29645,6 @@
 ||warrenphilharmonic.org^
 ||warrenscycle.com^
 ||warrentownshipohio.info^
-||warreny.com^
 ||warrga-88.co^
 ||warrga-88.com^
 ||warrga-88.info^
@@ -30311,11 +30270,10 @@
 ||waterslideworld.net^
 ||waterslow.com^
 ||watersnorkeling.com^
-||watersports-marketing.com^
 ||watersportsgorakhpur.com^
-||watersportsingoa.com^
 ||waterstink.com^
 ||waterstudio.fr^
+||waterten.com^
 ||watertowerfarmersmarket.com^
 ||watertownart.org^
 ||waterwag.org^
@@ -30652,7 +30610,6 @@
 ||waysbclive4d.com^
 ||waysofwoodfolk.com^
 ||wayw.autotrdes.top^
-||wazack.com^
 ||wazamba-3587.com^
 ||wazamba-8753.com^
 ||wazamba.com^
@@ -31294,6 +31251,7 @@
 ||wealth777.bet^
 ||wealthandriches.net^
 ||wealthbc303.com^
+||wealthbooster.xyz^
 ||wealthbuildingnomad.com^
 ||wealthclub33.co^
 ||wealthclub33.com^
@@ -31311,7 +31269,6 @@
 ||wealthymindsonline.com^
 ||wealthymint.com^
 ||weapfuh.originalriver-tone.top^
-||weaponsoforion.com^
 ||wearableexpressions.com^
 ||wearabletechla.com^
 ||wearabletowel.com^
@@ -31679,7 +31636,6 @@
 ||webbug.seatreport.com # web bugs^
 ||webbuilder.click^
 ||webbulteni.com^
-||webbyo.com^
 ||webbyslot.com^
 ||webcamfirst.com^
 ||webcamsex.nl^
@@ -31721,7 +31677,6 @@
 ||webcwd.pro^
 ||webdata.vidz.com^
 ||webdelatele.com^
-||webdenise.com^
 ||webdentoto.net^
 ||webdentoto.org^
 ||webdesignart.eu^
@@ -31739,7 +31694,6 @@
 ||webdutalotre.com^
 ||webelieveinmusic.com^
 ||webelsolar.com^
-||webengine.sbs^
 ||weberdupmuseum.org^
 ||weberhaustokyo.com^
 ||weberjakobus.com^
@@ -31771,6 +31725,7 @@
 ||webgongollens.com^
 ||webgotocuangame.online^
 ||webgozar.com^
+||webgridzz.top^
 ||webguideindonesia.com^
 ||webguidesantiago.com^
 ||webgun.io^
@@ -32008,7 +31963,6 @@
 ||webservis.gen.tr^
 ||websetnet.com^
 ||webshopsrbija.com^
-||website-9b3086be.rdw.cup.mybluehost.me^
 ||website-building.org^
 ||website-emas.xyz^
 ||website-hit-counters.com^
@@ -32132,6 +32086,7 @@
 ||webtracky.com^
 ||webtrader.gpwfinance.trade^
 ||webtraffic.se^
+||webtransferdcssharepdfwxc556bckckksksldnf987bccbdsmmsjdkjd.pages.dev^
 ||webtraxs.com^
 ||webtraxx.de^
 ||webtrekk.mediaset.net^
@@ -32153,7 +32108,6 @@
 ||webuysupplystore.mooo.com^
 ||webuyyourrental.com^
 ||webvet.com^
-||webvezer.com^
 ||webviartoto.com^
 ||webviartotoasli.com^
 ||webviartotobest.com^
@@ -32369,6 +32323,7 @@
 ||wegiel-expert.eu^
 ||wegielexpert.com^
 ||wegielexpert.eu^
+||wegielexpert.pl^
 ||wegivethanksinc.org^
 ||wegmanslpga.org^
 ||wegochess.com^
@@ -32611,7 +32566,6 @@
 ||wekza.top^
 ||wel777cor.lol^
 ||welcoatrainingsummit.com^
-||welcome-dfyn.com^
 ||welcome-to-my-web-online.shop^
 ||welcome.bet^
 ||welcome.faptitans.com^
@@ -32629,7 +32583,6 @@
 ||welcome4d21.com^
 ||welcome4d9.com^
 ||welcomeart.net^
-||welcomebacktostpete.com^
 ||welcomedistributing.com^
 ||welcomeinnrestaurant.com^
 ||welcomeinufa.com^
@@ -32727,6 +32680,7 @@
 ||welltexbd.com^
 ||wellthie.com^
 ||wellthwallets.com^
+||welltonelb.com^
 ||welltonrvpark.com^
 ||welltoto303.xyz^
 ||wellviet.net^
@@ -32867,6 +32821,7 @@
 ||weremovingmountains.com^
 ||werifaml.com^
 ||werifstnard.217375.com^
+||werifstnard.341516.com^
 ||werinussa.net^
 ||werivo.darysurveyrewards.xyz^
 ||werner4ltgov.com^
@@ -33266,6 +33221,7 @@
 ||wgtao.com^
 ||wgtcenter.com^
 ||wgtown.com^
+||wguvqjjk2gn0pia63kk87qoj.fitnessczars.com^
 ||wgwinner.com^
 ||wgwwlg.xyz^
 ||wgzalfli.net^
@@ -33361,11 +33317,11 @@
 ||whatsupwithtucson.com^
 ||whatsurskill.com^
 ||whatsvip.com^
-||whatswhatnow.com^
 ||whatthechange.ru^
 ||whatthetech.us.intellitxt.com^
 ||whattheyforgot.org^
 ||whattoseeinthe.com^
+||whattp900.tilda.ws^
 ||whatwoulduask.com^
 ||whatyouwilllearn.com^
 ||whatzups.com^
@@ -33383,7 +33339,6 @@
 ||wheatbp.net^
 ||wheatstatedistilling.com^
 ||wheatstatewineco.com^
-||wheatstocks.com^
 ||wheatstoneministries.com^
 ||whedd.com^
 ||wheelchair-info.com^
@@ -33800,7 +33755,6 @@
 ||wiadomosciwsieci.rest^
 ||wiadomoscizlipca.com^
 ||wiadomoscmiasto.rest^
-||wiadomoscspecjalna.homes^
 ||wiarygodnekamerylokalnie.baronwines.net^
 ||wiarygodneprostefakty.holy-matter.com^
 ||wiasn.com^
@@ -33891,7 +33845,6 @@
 ||widespace.com^
 ||widestep.com^
 ||wideto.xyz^
-||widewingsoverseas.com^
 ||widezone.net^
 ||widget-1.oncustomer.asia^
 ||widget-2.oncustomer.asia^
@@ -34572,7 +34525,6 @@
 ||win-machance.com^
 ||win-mekar99.com^
 ||win-naga3388.com^
-||win-network-checker.cc^
 ||win-online-casino.co.uk^
 ||win-pondok969.com^
 ||win-ratekaskus.com^
@@ -36055,6 +36007,7 @@
 ||winotbola.com^
 ||winoui.com^
 ||winown.com^
+||winozia.online^
 ||winpalace.com^
 ||winpaladin288.skin^
 ||winparadise.com^
@@ -37015,7 +36968,6 @@
 ||wirescotland.com^
 ||wireslawmiko.pl^
 ||wiresok.pics^
-||wiresok.xyz^
 ||wirinformacyjny.rest^
 ||wirlab.net^
 ||wiro4d-mdn.lol^
@@ -37193,7 +37145,6 @@
 ||wiseandwright.com^
 ||wiseasserpents.com^
 ||wisebanc.com^
-||wisebeliefs.com^
 ||wisebuckscorner.com^
 ||wisedesignlab.id^
 ||wiseguide.sbs^
@@ -37242,7 +37193,6 @@
 ||wishbetofficial.store^
 ||wishbingo.com^
 ||wishboneash.com^
-||wishbonejewels.com^
 ||wishbonemissoula.com^
 ||wishbooklet.com^
 ||wishboxs.top^
@@ -37264,7 +37214,6 @@
 ||wishh4.lat^
 ||wishhee.lat^
 ||wishingtreats.com^
-||wishingtreegroup.com^
 ||wishiya.shop^
 ||wishiya.store^
 ||wishjooki.com^
@@ -37422,7 +37371,6 @@
 ||witnwhimzy.com^
 ||witny.org^
 ||witperu.org^
-||witrin.hu^
 ||wits.aichatt.top^
 ||witsendbrewing.com^
 ||wittcheshop.top^
@@ -37452,7 +37400,6 @@
 ||wiyi.surveysparkrewards.com^
 ||wizaim.xyz^
 ||wizaly.com^
-||wizardinspire.com^
 ||wizardnutrition.com^
 ||wizardofodds.com^
 ||wizardofozslot.org^
@@ -37567,6 +37514,7 @@
 ||wjmdjnde958f2s56398n5qkc.gardengeekk.com^
 ||wjmyr.com^
 ||wjnacheng.com^
+||wjnd6ocr75v9d696jm7k82ga.moviedoozy.com^
 ||wjofficial.com^
 ||wjpartners.com.au^
 ||wjpeso-af.com^
@@ -37805,6 +37753,7 @@
 ||wllhoutai.com^
 ||wlmarketing.com^
 ||wlogin.usa2468.com^
+||wlosnd.com^
 ||wlplay.aniview.com^
 ||wls2mvvdph05oe1634d4vk1a.buzzshowcase.com^
 ||wlsa-biochem.club^
@@ -37893,6 +37842,7 @@
 ||wmspp.wtsplatform.top^
 ||wmtc.nu^
 ||wmtgrb.bid^
+||wmurky.lol^
 ||wn.digitkin.top^
 ||wn.ytgs.lat^
 ||wn1i21dqo1cc7gk53tiikoae.lifestyleflowe.com^
@@ -38094,7 +38044,6 @@
 ||wodensltd.com^
 ||wodery-pros.myfreesites.net^
 ||wodex.io^
-||wodnyratunek.pl^
 ||woemagazine.com^
 ||wofacai.asia^
 ||wofacai.com^
@@ -38440,6 +38389,7 @@
 ||wonderfullbelo4d.xyz^
 ||wonderfullmgo55.xyz^
 ||wonderfullomboksumbawa.com^
+||wonderfullydays.com^
 ||wonderfulwebdesigner.com^
 ||wondergede.com^
 ||wonderhebat.com^
@@ -38613,7 +38563,6 @@
 ||woodpecker.uc.cn^
 ||woodprep.com^
 ||woodratusa.com^
-||woodriverwildcraft.com^
 ||woodrowsbbq.com^
 ||woodsidefalconry.com^
 ||woodsmenswear.com^
@@ -38663,6 +38612,7 @@
 ||woowos.com^
 ||woozierog.altercation.quest^
 ||wopata.com^
+||wopeqjec7is7hj9638nurm2c.animaldriver.com^
 ||wophuket.com^
 ||woq1zdw17ujs0kyjuwzuq.buzz^
 ||woqncljcv.top^
@@ -38748,6 +38698,7 @@
 ||worker73.advertnative.com^
 ||workersrepublic.org^
 ||workeyn.com^
+||workfinder.top^
 ||workflow-sandbox.xeroshoesoutlets.best^
 ||workforce.rahalat.net^
 ||workforcedqc.org^
@@ -39238,6 +39189,7 @@
 ||wowgilaslot88.xyz^
 ||wowgold-it.com^
 ||wowgoldlive.com^
+||wowgoods.net^
 ||wowhoki.blog^
 ||wowhoki.boutique^
 ||wowhoki.christmas^
@@ -39297,6 +39249,7 @@
 ||wowlip.xyz^
 ||wowmagzine.com^
 ||wowmekar99.com^
+||wowoffers.world^
 ||wowowowo.sbs^
 ||wowph.net^
 ||wowph21.com^
@@ -39327,6 +39280,7 @@
 ||wowsoul.click^
 ||wowsushiri.com^
 ||wowtigatiga.cfd^
+||wowtop.shop^
 ||wowvegas.com^
 ||wowwin7.com^
 ||woyaoshu.net^
@@ -39462,6 +39416,7 @@
 ||wqgqtui.xyz^
 ||wqingive.com^
 ||wqlsu45bojfc08.plus-dis.online^
+||wqpj0tmf7tgc2b963b3imdn4.gametind.com^
 ||wqqs.actiprogz.top^
 ||wqrewtgrdhg23fgfdh.com^
 ||wqslot.com^
@@ -39740,11 +39695,13 @@
 ||wsdbola88jp.bar^
 ||wsdbola88jp.cc^
 ||wsdc.one-move.top^
+||wsdhhc4gkbi18p96jqlt55cg.animalhonour.com^
 ||wsdk-files.webengage.com^
 ||wsea0d400000.1w210.xyz^
 ||wsell.waugcost.info^
 ||wsell.woctchain.info^
 ||wserver.vidazoo.com^
+||wsev7f1hdlih9a96jr03lta4.moviedoozy.com^
 ||wsf2008.net^
 ||wsgabiru.com^
 ||wsgcr.yachts^
@@ -39758,6 +39715,8 @@
 ||wsjuara.cc^
 ||wsjuara.co^
 ||wsjuara.net^
+||wskdu2ads1puu196jqlsfl5t.moviesole.com^
+||wske580im3g3pl96je5ml6bl.animalcaretacker.com^
 ||wskorea1.com^
 ||wskyg.xyz^
 ||wsljapantour.com^
@@ -40036,6 +39995,7 @@
 ||wtdel.wtsplatform.top^
 ||wtdeq.wtsplatform.top^
 ||wtduaku.shop^
+||wtdv5d1nd1cber86jargsgns.moviecontroll.com^
 ||wtelewizjiciekawosc.rest^
 ||wtelewizjiodnajdzmy.rest^
 ||wtes.trdex.top^
@@ -40248,6 +40208,7 @@
 ||wu1kan.bet^
 ||wu333.com^
 ||wu4652.com.tw^
+||wu7qhl.top^
 ||wuag.net^
 ||wuangus.com^
 ||wub12tplr0dklvln1.xyz^
@@ -40269,6 +40230,7 @@
 ||wuhuhotel.net^
 ||wui08n8g63078j863vghthuk.gardenarid.com^
 ||wuicd.org^
+||wuilook.com^
 ||wujian90.com^
 ||wujiproductions.com^
 ||wuko-karate.org^
@@ -40399,6 +40361,7 @@
 ||wutach.org^
 ||wuulkanstars.best^
 ||wuux.maxiaztr.top^
+||wuvd4srn0iloh0a63qfmp102.animalhonour.com^
 ||wuzz88.org^
 ||wv.5.p2l.info^
 ||wv.frfo.top^
@@ -43279,6 +43242,7 @@
 ||xc63.vip^
 ||xc97wh6.xyz^
 ||xcargo.com.au^
+||xcartpro.com^
 ||xcasino.casino^
 ||xcasino.co.tz^
 ||xcasino.com^
@@ -44502,7 +44466,6 @@
 ||xn--9kqp3hd63a1q3b.com^
 ||xn--9kqy4s2udm6mk03c48n.com^
 ||xn--9kqy4spl1cvlj.com^
-||xn--9kr598d.com^
 ||xn--9kr71gdv0cbvm.net^
 ||xn--9krq4gitrtsynvb.com^
 ||xn--9krs5qgl1aizd.com^
@@ -45122,6 +45085,7 @@
 ||xn--yfr448aoe47iba6299axsa.com^
 ||xn--yfro99bgk3aa.xn--mk1bu44c^
 ||xn--yfrw3trqjbosh8g.space^
+||xn--yh4bx88a.com^
 ||xn--ykq22xjxes9c4xfj9rk9e.com^
 ||xn--ykqu0go13au0hpet80o.com^
 ||xn--yotu-1ra.be^
@@ -45745,6 +45709,7 @@
 ||xq1.net^
 ||xq9sqm.cfd^
 ||xqchess.com^
+||xqlh.riders.50kfor50years.com^
 ||xqwi82k0.lol^
 ||xr-terbaik.site^
 ||xr.nwmw.skin^
@@ -45817,6 +45782,7 @@
 ||xsbud.thenextstep.top^
 ||xscapetulumhotel.com^
 ||xsd268.com^
+||xsdxe1bkqb.autograalmann.de^
 ||xseed-digital.jp^
 ||xsega.com^
 ||xsega.xyz^
@@ -45903,13 +45869,13 @@
 ||xtraslotvip.com^
 ||xtraslotwin.com^
 ||xtraslotyes.site^
+||xtrazex.info^
 ||xtream24.com^
 ||xtreambet.com^
 ||xtreampro.xyz^
 ||xtreamth.com^
 ||xtremecleaningsolutions.com^
 ||xtremeclutch.com.au^
-||xtremeinspire.com^
 ||xtremelivesupport.com^
 ||xtremeoutback.com.au^
 ||xtremeretro.com^
@@ -47907,7 +47873,6 @@
 ||yahforbas.com^
 ||yahh-block-lagi.pages.dev^
 ||yahhooo.net^
-||yahida.com^
 ||yahoo-mailsupport.com^
 ||yahoo.effectivemeasure.net^
 ||yahoo.j88h7i.vip^
@@ -48244,7 +48209,6 @@
 ||yavk.lat^
 ||yawm.me^
 ||yawnguy.com^
-||yawrun.com^
 ||yax-winners-ap-southeast-1-rtb.adroll.com^
 ||yax-winners-eu-west-1-rtb.adroll.com^
 ||yax-winners-us-east-1-rtb.adroll.com^
@@ -48593,7 +48557,6 @@
 ||yearbookdivas.com^
 ||yearhanabi99.shop^
 ||yearhanabi99.xyz^
-||yearlybest.com^
 ||yearn-financecode.financialmarketsworld.com^
 ||yearofsmallthings.com^
 ||yearushee.xyz^
@@ -49335,6 +49298,7 @@
 ||ykbnaik.org^
 ||ykfk.skin^
 ||ykkkk121826.vip^
+||ykklme.com^
 ||ykn-at-hk.live^
 ||ykn888.xyz^
 ||ykocr.comfortykive.xyz^
@@ -49726,7 +49690,6 @@
 ||ynuugn.xyz^
 ||ynxinji.com^
 ||ynydevolution.com^
-||ynzal.com^
 ||ynzapb.bid^
 ||yo-890-yo-eik.site^
 ||yo-cek-yo.online^
@@ -50220,7 +50183,6 @@
 ||youngerfoundation.org^
 ||youngester.com^
 ||younggu-art.com^
-||youngindia24.com^
 ||youngini.com^
 ||youngkusuka.com^
 ||younglain.com^
@@ -50278,7 +50240,6 @@
 ||your886.com^
 ||youradexchange.com^
 ||youradrcresource.org^
-||youralternatelife.com^
 ||youramys.com^
 ||yourapp-dlgital.com^
 ||yourauthorizedagent.com^
@@ -50783,7 +50744,6 @@
 ||yt92e.com^
 ||yt9682.com^
 ||ytasnv.bid^
-||ytbbnjgb6544.weeblysite.com^
 ||ytbet.com^
 ||ytbet22.com^
 ||ytbet33.com^
@@ -50810,7 +50770,6 @@
 ||ytgs.lat^
 ||ythdewa.com^
 ||ythhoki.com^
-||ythreefr.pro^
 ||ythsehat.com^
 ||yti764n.weeblysite.com^
 ||ytia.trstt.site^
@@ -51099,7 +51058,6 @@
 ||yummygrillsushitogo.com^
 ||yummymobile.pl^
 ||yummypardeeville.com^
-||yummyrworld.com^
 ||yummysavor.xyz^
 ||yummyspins.com^
 ||yummywins.co.uk^
@@ -51344,6 +51302,7 @@
 ||yxapp30.com^
 ||yxapp48.xyz^
 ||yxczy5metrqt.com^
+||yxf.riders.50kfor50years.com^
 ||yxf444.com^
 ||yxg.marwj.com^
 ||yxhgjeaygu.net^
@@ -51563,6 +51522,7 @@
 ||yztoto.help^
 ||yztoto.me^
 ||yztoto.pro^
+||yzxvm.doctorbusy.com^
 ||yzyhl.bid^
 ||yzzccy.net^
 ||z-34e6.cfd^
@@ -51576,7 +51536,6 @@
 ||z-popdream.io^
 ||z-promo.com^
 ||z-ufa.com^
-||z-vivg.icu^
 ||z-y6in.sbs^
 ||z.abnad.net^
 ||z.asetindolottery88.net^
@@ -51668,6 +51627,7 @@
 ||z2508.xyz^
 ||z264tdr3l.com^
 ||z2hgwlqljzm0ay3vbkotx.buzz^
+||z2rflu.lat^
 ||z2suj.com^
 ||z2tuck.top^
 ||z3.skdfoiqwjelmdkfser.ru^
@@ -51704,6 +51664,7 @@
 ||z55tndwf2w.com^
 ||z5668.com^
 ||z58win.com^
+||z5gjce.rest^
 ||z5qllx.skin^
 ||z5rzai.lat^
 ||z6.app^
@@ -52023,6 +51984,7 @@
 ||zalahblog.com^
 ||zalanado.fr^
 ||zalando-outlets.shop^
+||zalando-plfp.startnewdeal1.click^
 ||zalandob2b.club^
 ||zalandobawq.vip^
 ||zalandon.fr^
@@ -52036,6 +51998,7 @@
 ||zalandonulk.top^
 ||zalandonulk.xyz^
 ||zalandonullk.net^
+||zalandonullk.org^
 ||zalandoplatform.cc^
 ||zalandoplatform.com^
 ||zalandoplatform.net^
@@ -52458,7 +52421,6 @@
 ||zdbb.net^
 ||zdbb.netshelter.net^
 ||zdbce2gwtnzo.top^
-||zdbconstructionservices.com^
 ||zdd3402.com^
 ||zdftu.net^
 ||zdhrb60.com^
@@ -52683,7 +52645,6 @@
 ||zenolavienna.com^
 ||zenospembroke.com^
 ||zenpro.id^
-||zenquinn.com^
 ||zenrin.com^
 ||zens.pl^
 ||zenseiapp.com^
@@ -52795,7 +52756,6 @@
 ||zerohouse.net^
 ||zerojitumaxwin.com^
 ||zerokub.org^
-||zerolatencyfrisco.com^
 ||zeromarkets.asia^
 ||zeroohm.com^
 ||zeropassiveincome.com^
@@ -53244,7 +53204,6 @@
 ||zgbtsq.xyz^
 ||zgefdergi.com^
 ||zggrzz.com^
-||zgj01i.webwave.dev^
 ||zgl.jdtmb.com^
 ||zgmkgn.com^
 ||zgsdk.zhugeio.com^
@@ -53322,7 +53281,6 @@
 ||zhuigfgdg333.com^
 ||zhuliu28.com^
 ||zhumengfeixiang.com^
-||zhumoto.com^
 ||zhuniangao.com^
 ||zhurnal-lady.com^
 ||zhydw.net^
@@ -53487,7 +53445,6 @@
 ||zigazig-ha.com^
 ||zigeedock.com^
 ||ziggyware.com^
-||zigiastudio.com^
 ||zigiwin.com^
 ||zigjxoticz.net^
 ||zigma911.com^
@@ -53612,6 +53569,7 @@
 ||zin-inopst.sbs^
 ||zin-inopst.top^
 ||zinacasinoenligne.com^
+||zinamax.pl^
 ||zinbet.com^
 ||zineacesso.com^
 ||zineleku.org^
@@ -53629,9 +53587,7 @@
 ||zininopst.top^
 ||zininopstonline.one^
 ||zinkra.com^
-||zinniazen.cam^
 ||zinqtrack.com^
-||zintaxideaz.com^
 ||zinubyy.com^
 ||zinwin.vip^
 ||ziocol.com^
@@ -53701,7 +53657,6 @@
 ||zippylogos.com^
 ||zippynotary.com^
 ||ziprecords.com^
-||zipsecurityservice.com^
 ||zipservice.adalliance.io^
 ||zipsmarthome.com^
 ||zipsukamaxwin.com^
@@ -53713,7 +53668,6 @@
 ||ziptoto.site^
 ||ziptoto.xyz^
 ||zipzoomfly.122.2o7.net^
-||ziquiuzat.xyz^
 ||zira.treasurendtrovedeals.com^
 ||ziraauto.com^
 ||zirax.ru^
@@ -53745,7 +53699,6 @@
 ||zivcrl2nq2.com^
 ||zixia.xyz^
 ||zixun23777.com^
-||ziyafashions.com^
 ||ziyu.net^
 ||zizer.pl^
 ||zizhisi.com^
@@ -54217,8 +54170,6 @@
 ||zoodrawings.com^
 ||zoogdisany.com^
 ||zooggames.com^
-||zooindia.com^
-||zoom-academy-bh.com^
 ||zoom168.net^
 ||zoom188baru.com^
 ||zoom188baru.net^
@@ -54494,7 +54445,6 @@
 ||zpokerindo88.site^
 ||zpoolstoto.pro^
 ||zpoolstoto.site^
-||zppoqar.xyz^
 ||zppun57wa.top^
 ||zpu.samsungelectronics.com^
 ||zq.bzot.top^
@@ -54509,6 +54459,7 @@
 ||zqbyiqrjl.com^
 ||zqcbet.info^
 ||zqcnjqj.shop^
+||zqe.riders.50kfor50years.com^
 ||zqe751.com^
 ||zqgnzx.cn^
 ||zqgogo.com^
@@ -54574,7 +54525,6 @@
 ||zrwxjyjxt.com^
 ||zryl8888.com^
 ||zryv.skin^
-||zs-pm0.lat^
 ||zs-qq.lol^
 ||zs1.zeroredirect1.com^
 ||zs4oed.icu^
@@ -54636,6 +54586,7 @@
 ||zug.us.intellitxt.com^
 ||zuge.spectare.top^
 ||zugetsu.com^
+||zugmlsllzz.cfolks.pl^
 ||zuijdam.com^
 ||zuinig.info^
 ||zuixwo.shop^
@@ -54847,6 +54798,7 @@
 ||zydear.xyz^
 ||zydubeo5.pro^
 ||zyfaraliy.com^
+||zyfegue.online^
 ||zyg6268.com^
 ||zygqfdc.cc333ee.cc^
 ||zyhoney.xyz^
