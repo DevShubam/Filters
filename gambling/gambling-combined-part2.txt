@@ -2,18 +2,10 @@
 ! Title: !  Blockd Gambling (part 2)
 ! Description: Block Gambling Domains
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20241222
-! Last modified: December 22, 2024
-! Entries: 49575
+! Version: 20241223
+! Last modified: December 23, 2024
+! Entries: 49571
 
-||ttkbet9.com^
-||ttking99.com^
-||ttkjd.com^
-||ttkm.haohao789.com^
-||ttkm.shbet999.vip^
-||ttm77877.com^
-||ttm787jos.xyz^
-||ttmagem.xyz^
 ||ttmagenjos.com^
 ||ttmagensakti.xyz^
 ||ttmcinlok.xyz^
@@ -10552,6 +10544,7 @@
 ||vavadacasinocom.ru^
 ||vavadacazinol.online^
 ||vavadaczy.com^
+||vavadad0r4.com^
 ||vavadadddf.com^
 ||vavadaded.com^
 ||vavadaen7.com^
@@ -16407,6 +16400,7 @@
 ||vipzeus8m.com^
 ||vipzhao.xyz^
 ||vipzino.com^
+||vipzino26.com^
 ||vipzino77.com^
 ||vipzino80.com^
 ||vipzone4d.sbs^
@@ -20485,6 +20479,7 @@
 ||vylkan-bet.org^
 ||vyllage.net^
 ||vyloniatech.xyz^
+||vyn4t0r.services^
 ||vynexfer.com^
 ||vynukae1.pro^
 ||vypir.com^
@@ -32180,6 +32175,7 @@
 ||wizzobyte.com^
 ||wizzradio.com^
 ||wizzshop.trade^
+||wizzspin.com^
 ||wj-bam.cfd^
 ||wj-bdt.com^
 ||wj-casino.com^
@@ -38588,6 +38584,7 @@
 ||xjsyjf.com^
 ||xjwin.bet^
 ||xjwin.vip^
+||xjwin16.com^
 ||xjwin17.com^
 ||xjwin4.com^
 ||xjwin5.com^
@@ -49304,7 +49301,6 @@
 ||zvxheed.info^
 ||zw.dwaf.top^
 ||zw.quzu.skin^
-||zw1212bet.com^
 ||zw6vds.hair^
 ||zwaar.org^
 ||zwcuan.com^
