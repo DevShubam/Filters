@@ -2,8 +2,8 @@
 ! Title: !  Blockd Gambling (part 2)
 ! Description: Block Gambling Domains
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20250204
-! Last modified: February 04, 2025
+! Version: 20250205
+! Last modified: February 05, 2025
 ! Entries: 94035
 
 ||sobat-bds367.lol^
