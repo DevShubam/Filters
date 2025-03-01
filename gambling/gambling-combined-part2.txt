@@ -2,9 +2,9 @@
 ! Title: !  Blockd Gambling (part 2)
 ! Description: Block Gambling Domains
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20250228
-! Last modified: February 28, 2025
-! Entries: 103431
+! Version: 20250301
+! Last modified: March 01, 2025
+! Entries: 103440
 
 ||situsgacormantap.com^
 ||situsgacorno1.store^
@@ -5822,6 +5822,7 @@
 ||slotsdemo.top^
 ||slotsdepositbonus.com^
 ||slotsdirect.io^
+||slotsdudes.se^
 ||slotsdurak.icu^
 ||slotsdynamite.com^
 ||slotsedap.com^
@@ -11960,7 +11961,10 @@
 ||spelacasinos.com^
 ||spelacasinosvenska.com^
 ||spelacasinotrotsspelpaus.se^
+||spelacasinoutanbankid.se^
+||spelacasinoutankonto.se^
 ||spelaonlinecasino.nu^
+||spelapokerutansvensklicens.se^
 ||spelbolagsverige.com^
 ||spelbolagutansvensklicens.co^
 ||speletajiem.com^
@@ -25202,6 +25206,7 @@
 ||svenskacasinosidorna.se^
 ||svenskacasinospel.nu^
 ||svenskacasinoutanbankid.se^
+||svenskacasinoutankonto.se^
 ||svenskamobilcasinon.com^
 ||svenskanatcasinon.nu^
 ||svenskaonlinecasino.info^
@@ -92746,6 +92751,7 @@
 ||xn--acegamng888a-xfb.com^
 ||xn--adspace-kvg.ero-advertising.com^
 ||xn--aktualnocinowinki-4hd.pl^
+||xn--allabstacasino-9hb.se^
 ||xn--allgro-y4a.pl-5720.sbs^
 ||xn--anugerahslot-tn63c253l.com^
 ||xn--aoa-j59d107t.com^
@@ -92797,6 +92803,7 @@
 ||xn--boral-dsa.com^
 ||xn--bstabettingsidorna-ltb.se^
 ||xn--bstacasinobonusar-qqb.nu^
+||xn--bstacasinoutanbankid-bzb.se^
 ||xn--bstantcasino-gcbe.nu^
 ||xn--bstcasino-v2a.eu^
 ||xn--bstcasinobonus-5hb.com^
@@ -92812,6 +92819,7 @@
 ||xn--c4ci4dg.live^
 ||xn--c6t203e.xyz^
 ||xn--carawd88-qh6m.shop^
+||xn--casino-bonus-utan-omsttningskrav-5yc.se^
 ||xn--casinoerbjudandenutaninsttning-jtc.se^
 ||xn--casinoerpnettet-plb.eu^
 ||xn--casinomedbstutdelning-f2b.com^
@@ -94591,6 +94599,7 @@
 ||xxxsports.bet^
 ||xxxsts.xyz^
 ||xxxtoolbar.com^
+||xxxtremelightningroulette.se^
 ||xxxvideo.bet^
 ||xxxwebtraffic.com^
 ||xxxxxxx.one^
