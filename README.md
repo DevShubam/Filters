@@ -40,4 +40,10 @@ To use this filter list, add the following URL to your DNS blocker or ad blocker
 | ShadowWhisperer | https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/RAW/Adult |
 | RPiList | https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4 | 
 
+
+### Gambling
+
+The Gambling filter list blocks access to gambling websites. It is automatically updated every 24 hours.
+
+
 ## Contributing
