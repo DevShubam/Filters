@@ -87,7 +87,12 @@ filter_sets = {
             'https://airvpn.org/api/dns_lists/?code=pornaway_sites&style=domains',
             'https://blocklistproject.github.io/Lists/adguard/porn-ags.txt',
             'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/RAW/Adult',
+            'https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1', 
+            'https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock2', 
+            'https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock3',
             'https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4',
+            'https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock5',
+            'https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock6',
             'https://nsfw.oisd.nl'
         ],
         'output_file': 'nsfw/nsfw_combined.txt',
