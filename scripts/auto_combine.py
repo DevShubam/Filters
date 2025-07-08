@@ -2,6 +2,9 @@ import requests
 import os
 from datetime import datetime
 
+# Define a limit for the number of entries per file
+ENTRY_LIMIT = 500000
+
 def download_filter_list(url, filename):
     response = requests.get(url)
     response.raise_for_status()  # Check for request errors
@@ -9,10 +12,22 @@ def download_filter_list(url, filename):
         f.write(response.text)
 
 def clean_domain(domain):
+    # Remove '0.0.0.0 ' from the start of the domain
+    if domain.startswith('0.0.0.0 '):
+        domain = domain[8:]
+    
     # Remove 'www.' from the start of the domain
     if domain.startswith('www.'):
-        domain = domain[4:]  # Remove 'www.' from the start
+        domain = domain[4:]
     return domain
+
+def write_filter_file(output_file, filters, comments=None):
+    with open(output_file, 'w', encoding='utf-8') as f:
+        if comments:
+            f.write('\n'.join(comments) + '\n')
+            f.write('\n')
+        for filter in filters:
+            f.write(f"||{filter}^\n")
 
 def combine_filter_lists(input_files, output_file, comments=None):
     combined_filters = set()
@@ -36,22 +51,33 @@ def combine_filter_lists(input_files, output_file, comments=None):
     sorted_filters = sorted(combined_filters)
     
     # Count the number of entries after all cleaning
-    num_entries = len(sorted_filters)
+    total_entries = len(sorted_filters)
 
     # Generate last modified date and version
     last_modified = datetime.now().strftime("%B %d, %Y")
     version = datetime.now().strftime("%Y%m%d")
 
-    # Write the sorted filters with comments to the output file
-    with open(output_file, 'w', encoding='utf-8') as f:
-        if comments:
-            f.write('\n'.join(comments) + '\n')
-            f.write(f"! Version: {version}\n")
-            f.write(f"! Last modified: {last_modified}\n")
-            f.write(f"! Entries: {num_entries}\n")
-            f.write('\n')
-        for filter in sorted_filters:
-            f.write(f"||{filter}^\n")
+    # Update comments with the current date and entry count
+    if comments:
+        comments.append(f"! Version: {version}")
+        comments.append(f"! Last modified: {last_modified}")
+        comments.append(f"! Entries: {total_entries}")
+
+    # Write the full combined list
+    write_filter_file(output_file, sorted_filters, comments)
+
+    # Split into parts if necessary
+    for i in range(0, total_entries, ENTRY_LIMIT):
+        part_filters = sorted_filters[i:i + ENTRY_LIMIT]
+        part_number = (i // ENTRY_LIMIT) + 1
+        part_output_file = f"{output_file.rsplit('.', 1)[0]}-part{part_number}.txt"
+        
+        # Update comments with the correct title and entry count for the part
+        part_comments = comments.copy()
+        part_comments[1] = f"! Title: {comments[1].replace('Title:', '').strip()} (part {part_number})"
+        part_comments[-1] = f"! Entries: {len(part_filters)}"
+        
+        write_filter_file(part_output_file, part_filters, part_comments)
 
 # Define multiple sets of URLs, output files, and comments
 filter_sets = {
@@ -61,14 +87,30 @@ filter_sets = {
             'https://airvpn.org/api/dns_lists/?code=pornaway_sites&style=domains',
             'https://blocklistproject.github.io/Lists/adguard/porn-ags.txt',
             'https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/RAW/Adult',
-            'https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4'
+            'https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4',
+            'https://nsfw.oisd.nl'
         ],
         'output_file': 'nsfw/nsfw_combined.txt',
         'comments': [
             "[AdBlock Plus 2.0]",
             "! Title: Blockd NSFW",
-            "! Expires: 2 days (update frequency)",
-            "! Description: Block Adult content"
+            "! Description: Block Adult content",
+            "! Homepage: https://github.com/DevShubam/Filters"
+        ]
+    },
+    'gambling': {
+        'urls': [
+            'https://github.com/DevShubam/Filters/raw/main/gambling/gambling-personal.txt',
+            'https://github.com/blocklistproject/Lists/raw/master/gambling.txt',
+            'https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling-onlydomains.txt',
+            'https://github.com/StevenBlack/hosts/raw/master/alternates/gambling/hosts'
+        ],
+        'output_file': 'gambling/gambling-combined.txt',
+        'comments': [
+            "[AdBlock Plus 2.0]",
+            "! Title: Blockd Gambling",
+            "! Description: Block Gambling Domains",
+            "! Homepage: https://github.com/DevShubam/Filters"
         ]
     }
     # Add more sets as needed
