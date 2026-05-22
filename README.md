@@ -1,6 +1,6 @@
-# Blockd
+# Cribrum
 
-Blockd is a collection of DNS filter lists aimed at improving your browsing experience by blocking unwanted content. These filterlists are created using a list I made myself, and it also combines popular lists maintained by others. It cleans the lists up, and applys a whitelist to prevent false positives. 
+Cribrum is a collection of DNS filter lists aimed at improving your browsing experience by blocking unwanted content. These filterlists are created using a list I made myself, and it also combines popular lists maintained by others. It cleans the lists up, and applys a whitelist to prevent false positives. 
 
 ## Table of Contents
 
