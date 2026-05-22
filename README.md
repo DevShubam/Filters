@@ -14,7 +14,7 @@ Cribrum is a collection of DNS filter lists aimed at improving your browsing exp
 
 ## License
 
-Blockd is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+Cribrum is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Filters
 
