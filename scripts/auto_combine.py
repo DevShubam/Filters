@@ -93,7 +93,7 @@ filter_sets = {
         'output_file': 'nsfw/nsfw_combined.txt',
         'comments': [
             "[AdBlock Plus 2.0]",
-            "! Title: Blockd NSFW",
+            "! Title: Cribrum NSFW",
             "! Description: Block Adult content",
             "! Homepage: https://github.com/DevShubam/Filters"
         ]
@@ -108,7 +108,7 @@ filter_sets = {
         'output_file': 'gambling/gambling-combined.txt',
         'comments': [
             "[AdBlock Plus 2.0]",
-            "! Title: Blockd Gambling",
+            "! Title: Cribrum Gambling",
             "! Description: Block Gambling Domains",
             "! Homepage: https://github.com/DevShubam/Filters"
         ]
