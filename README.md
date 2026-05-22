@@ -23,10 +23,10 @@ Cribrum is licensed under the MIT License. See the [LICENSE](LICENSE) file for m
 The NSFW filter list blocks access to adult content websites. It is automatically updated every 48 hours to include the latest known adult content domains.
 
 
-
 To use this filter list, add the following URL to your DNS blocker or ad blocker:
 
-`https://github.com/DevShubam/Filters/raw/main/nsfw/nsfw_combined.txt`
+`https://github.com/DevShubam/Filters/raw/main/nsfw/nsfw_combined.txt` OR
+`https://cribrum.shubam.ca/nsfw/nsfw_combined.txt`
 
 #### Included Lists: 
 
@@ -39,3 +39,4 @@ To use this filter list, add the following URL to your DNS blocker or ad blocker
 | RPiList | https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4 | 
 
 ## Contributing
+Contributions are highly appreciated. Open an issue or PR to contribute
