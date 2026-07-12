@@ -1,0 +1,138 @@
+! Title: TV Filter List
+! Description: Blocks ads and trackers on smart TVs
+! Entries: 115
+! Version: 5
+! Homepage: https://github.com/DevShubam/Filters
+! Last Modified: July 11, 2026
+! Expires: 7 days
+
+! Roku
+||adeng-identity-prod3.bdp.roku.com^
+||adeng-looker-bi-oneview-prod-1001.bdp.roku.com^
+||adeng-looker-dev-1001.bdp.roku.com^
+||adeng-looker-dev-1003.bdp.roku.com^
+||adi-airflow.bdp.roku.com^
+||ads.beta.roku.com^
+||samples.voice.cti.roku.com^
+||ravm-staging.data.roku.com^
+||ads-cf-us-east-1.dev.delivery.roku.com^
+||ads-aka-us-east-1.delivery.roku.com^
+||ads-aka-us-west-2.delivery.roku.com^
+||ads-cf-us-east-1.delivery.roku.com^
+||ads-cf-us-west-2.delivery.roku.com^
+||ads-us-east-1.delivery.roku.com^
+||ads-us-east-2.delivery.roku.com^
+||ads-us-west-2.delivery.roku.com^
+||ads.gcp.roku.com^
+||ad.usw2.qa.ap.int.roku.com^
+||ad.qa.ap.int.roku.com^
+||logs.qa.ap.int.roku.com^
+||ad-eng-bl.use1.prod.rpay.int.roku.com^
+||ad-eng-pci-bl.use1.prod.rpay.int.roku.com^
+||ad-eng-bl.usw2.prod.rpay.int.roku.com^
+||ad-eng-pci-bl.usw2.prod.rpay.int.roku.com^
+||ad.prod.rpay.int.roku.com^
+||ad-bl.prod.rpay.int.roku.com^
+||ad-eng.prod.rpay.int.roku.com^
+||ad-eng-pci.prod.rpay.int.roku.com^
+||ad-eng-pci-bl.prod.rpay.int.roku.com^
+||ad-bl.usw2.staging.rpay.int.roku.com^
+||ad.staging.rpay.int.roku.com^
+||ad-eng.staging.rpay.int.roku.com^
+||advertising.qa.us-east-1.dev.msc.roku.com^
+||advertising-qa.us-east-1.dev.msc.roku.com^
+||advertising-v3-qa.us-east-1.dev.msc.roku.com^
+||blog-advertising-qa.us-east-1.dev.msc.roku.com^
+||blog-advertising-v2-qa.us-east-1.dev.msc.roku.com^
+||advertising.us-east-1.msc.roku.com^
+||advertising-v3.us-east-1.msc.roku.com^
+||blog-advertising-v2.us-east-1.msc.roku.com^
+||blog-advertising.msc.roku.com^
+||ad-eng-pci-bl.geoproximity.rpay.roku.com^
+||ad-bl.geoproximity.staging.rpay.roku.com^
+||ad-eng-bl.geoproximity.staging.rpay.roku.com^
+||ad-eng-pci-bl.geoproximity.staging.rpay.roku.com^
+||item-tracking.dev.sr.roku.com^
+||logs.dev.sr.roku.com^
+||traces.dev.sr.roku.com^
+||traces-us-east-1.dev.sr.roku.com^
+||traces-us-west-2.dev.sr.roku.com^
+||userdata.dev.sr.roku.com^
+||assets.sr.roku.com^
+||logs.sr.roku.com^
+||traces.sr.roku.com^
+||userdata.sr.roku.com^
+||ads.staging.roku.com^
+||wwwimg.staging.roku.com^
+||pixel.staging.web.roku.com^
+||customer-feedbacks.web.roku.com^
+||pixel.web.roku.com^
+||acr.roku.com^
+||ads.roku.com^
+||adservices.roku.com^
+||advertising.roku.com^
+||advertising-v3.roku.com^
+||analytics.roku.com^
+||cloudservices.roku.com^
+||logs.roku.com^
+||wwwimg.roku.com^
+||h4g3z1-native.roku.web.app^
+||ravm.tv^
+
+! Android TV
+||androidtvwatsonfe-pa.googleapis.com^
+
+! Panasonic
+x2.vindicosuite.com
+occ-0-399-783.1.nflxso.net
+cert-test.sandbox.google.com
+vcs.vdspf.com
+mhc-ajax-us.myhomescreen.tv
+mhc-ajax-eu.myhomescreen.tv
+mhc-sec-us.myhomescreen.tv
+mhc-sec-eu.myhomescreen.tv
+mhc-xpana-us.myhomescreen.tv
+mhc-xpana-eu.myhomescreen.tv
+collect-eu-fy2015.myhomescreen.tv
+collect-eu-fy2017.myhomescreen.tv
+collect-us-fy2016.myhomescreen.tv
+usage-eu-fy2015.myhomescreen.tv
+usage-eu-fy2017.myhomescreen.tv
+usage-eu-fy2019.myhomescreen.tv
+usage-us-fy2015.myhomescreen.tv
+usage-us-fy2017.myhomescreen.tv
+0077777700140002.myhomescreen.tv
+
+! Sony
+||metadata.erabu.sony.tv^
+
+! LG
+||ad.lgappstv.com^
+||lgsmartad.com
+||ads.lgtvcommon.com^
+||cdpbeacon.lgtvcommon.com^
+||homeprv.lgtvcommon.com^
+||nudge.lgtvcommon.com^
+||rdl.lgtvcommon.com^
+||wiseconfig.lgtvcommon.com^
+||h4g3z1-native.lgwebos.web.app^
+
+! Samsung
+||ads.samsung.com^
+
+! Hisense
+api-gps-em.hismarttv.com
+auth-em.hismarttv.com
+msg-em.hismarttv.com
+api-launcher-em.hismarttv.com
+auth-launcher-em.hismarttv.com
+api-gps-na.hismarttv.com
+auth-na.hismarttv.com
+msg-na.hismarttv.com
+api-launcher-na.hismarttv.com
+auth-launcher-na.hismarttv.com
+unified-ter-na.hismarttv.com
+
+! General Trackers
+||api.ipify.org^
+||analytics.plex.com^
