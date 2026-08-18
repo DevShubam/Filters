@@ -2,10 +2,119 @@
 ! Title: !  Cribrum NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20260817
-! Last modified: August 17, 2026
-! Entries: 74608
+! Version: 20260818
+! Last modified: August 18, 2026
+! Entries: 74732
 
+||watchxvideos.com^
+||watchxvideos.net^
+||watchxx.homes^
+||watchxx.mom^
+||watchxx.quest^
+||watchxxx.beauty^
+||watchxxx.bond^
+||watchxxx.help^
+||watchxxx.homes^
+||watchxxx.lol^
+||watchxxx.mom^
+||watchxxx.net^
+||watchxxx.online^
+||watchxxx.pics^
+||watchxxx.top^
+||watchxxxcams.com^
+||watchxxxfree.cc^
+||watchxxxfree.club^
+||watchxxxfree.com^
+||watchxxxfree.org^
+||watchxxxfree.tv^
+||watchxxxfree.video^
+||watchxxxfree.xyz^
+||watchxxxfree1.blogspot.com^
+||watchxxxfreeinhd.blogspot.com^
+||watchxxxfreeinhd.com^
+||watchxxxfreevideos.blogspot.com^
+||watchxxxhd.com^
+||watchxxxmovie.blogspot.com^
+||watchxxxmovie.com^
+||watchxxxmovies.com^
+||watchxxxmovs.com^
+||watchxxxporn.com^
+||watchxxxporn.online^
+||watchxxxporn.pro^
+||watchxxxporn.site^
+||watchxxxvideos.com^
+||watchyoucheat.net^
+||watchyoujerk.com^
+||watchyoujerkoff.com^
+||watchyoungsex.com^
+||watchyoupiss.tumblr.com^
+||watchyouporn.com^
+||wateenjoekels.nl^
+||wateford.org^
+||watemov.cc^
+||water-and-power.com^
+||water-bondage.blogspot.com^
+||water-bondage.tumblr.com^
+||water-cm.com^
+||water-cool.com^
+||water-girls.com^
+||water-hole.com^
+||water-jet-usedkaxxvjh.blogspot.com^
+||water-proof-sex-blanket.pages.dev^
+||water.blog^
+||water2000.com^
+||water8755.com^
+||waterandsex.tumblr.com^
+||waterbabes.com^
+||waterbearxxxl.tumblr.com^
+||waterbirdgedelectrics.tumblr.com^
+||waterbirdjozpluszone.tumblr.com^
+||waterbody.com^
+||waterbondage-girls.blogspot.com^
+||waterbondage.cc^
+||waterbondage.com^
+||waterbondage99.blogspot.com^
+||waterbondageblog.tumblr.com^
+||waterbondagefetish.com^
+||waterbossexterior.com^
+||waterboys.com^
+||waterboyswsgroup.blogspot.com^
+||watercatchicago.tumblr.com^
+||waterchina3d.com^
+||watercolorcollision.tumblr.com^
+||watercolourboy.blogspot.com^
+||waterdamagesandiego.org^
+||waterfallchaser.tumblr.com^
+||waterfallm69xxx.tumblr.com^
+||waterfetish.tumblr.com^
+||waterfilt.com^
+||waterfilteressex.co.uk^
+||waterfrommyhole.tumblr.com^
+||watergay.com^
+||watergirls.com^
+||watergunlisa.tumblr.com^
+||watergw.cn^
+||waterhousekeeper.com^
+||waterjugs.tumblr.com^
+||waterlines-stories.blogspot.com^
+||waterloggedproductions.com^
+||waterloocrimestoppers.com^
+||watermall.co.kr^
+||watermansupply.com^
+||watermelon-jolly-ranchers-please.tumblr.com^
+||watermelon-watermeloff.tumblr.com^
+||watermeloncigarettes.tumblr.com^
+||watermeloncitygewugreen.tumblr.com^
+||watermelondreajones.tumblr.com^
+||watermp37.tumblr.com^
+||wateroflife.com.cn^
+||waterparkaustin.com^
+||waterparklolitas.com^
+||waterpipe.ca^
+||waterporn.pro^
+||waterpower.nl^
+||waterproof-sex-toys.com^
+||waters.it^
 ||watersd.com^
 ||watersedge.com.cn^
 ||watersex.startspot.nl^
@@ -5624,6 +5733,7 @@
 ||weiok.top^
 ||weipandashi.com.cn^
 ||weipeng168.com.cn^
+||weiph2.10koudai.com^
 ||weipi8.com^
 ||weiping.org.cn^
 ||weiplus5.com^
@@ -30909,6 +31019,9 @@
 ||xn--zww26a.tw^
 ||xn-ahlaishuthinee.com^
 ||xn-bdwad3.diwzzong55.cc^
+||xn-bdwad4.diwzzong55.cc^
+||xn-bdwad6.diwzzong55.cc^
+||xn-fuag1.yaobbasd23.cc^
 ||xn-porno.xyz^
 ||xn-video.blogspot.com^
 ||xn-xx.co^
@@ -37699,6 +37812,7 @@
 ||xvietnamese.com^
 ||xview.tv^
 ||xviewos.com^
+||xvifeos.com^
 ||xvifeps.com^
 ||xvildiavolo.blogspot.com^
 ||xville.blogspot.com^
@@ -51468,6 +51582,7 @@
 ||xxxx05.com^
 ||xxxx056.com^
 ||xxxx1.one^
+||xxxx1.site^
 ||xxxx18.bet^
 ||xxxx18.pro^
 ||xxxx18.win^
@@ -52411,6 +52526,7 @@
 ||xya05.top^
 ||xyad88.com^
 ||xyaomspkint.garden^
+||xyaomspvexa.lol^
 ||xyavw.com^
 ||xybabbage.tumblr.com^
 ||xybanhuang.com^
@@ -54071,6 +54187,8 @@
 ||yaosu1.net.cn^
 ||yaosula.com.cn^
 ||yaosz.com.cn^
+||yaotiao1.top^
+||yaotiao2.top^
 ||yaotoutanqi.com^
 ||yaoutch.tumblr.com^
 ||yaoweigroup.com.cn^
@@ -54748,6 +54866,8 @@
 ||yckxgm.com^
 ||yckzc.com^
 ||ycllav.com^
+||yclm01.cfd^
+||yclm01.sbs^
 ||yclmzm.com^
 ||yclsyfr.com^
 ||ycm6.top^
@@ -57416,6 +57536,7 @@
 ||yjn764.com^
 ||yjnkczl.com^
 ||yjob.net.cn^
+||yjp.3cct.xyz^
 ||yjp4cq.cfd^
 ||yjpc90.com^
 ||yjpifa.com^
@@ -66087,6 +66208,7 @@
 ||z7iw.top^
 ||z7j.top^
 ||z7p94.com^
+||z7ty0eld0.top^
 ||z7va.top^
 ||z7z.com.cn^
 ||z7z5.com^
@@ -72643,6 +72765,7 @@
 ||zservicios.com^
 ||zsessentify.com^
 ||zsexcams.com^
+||zsexhihi.pro^
 ||zsexmovies.com^
 ||zsexstory.blogspot.com^
 ||zsexu.shop^
@@ -73608,6 +73731,7 @@
 ||zxbb101.info^
 ||zxbb101txt.info^
 ||zxbb102.info^
+||zxbb102txt.info^
 ||zxbb103.info^
 ||zxbb104.info^
 ||zxbb105.info^
