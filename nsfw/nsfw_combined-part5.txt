@@ -2,10 +2,43 @@
 ! Title: !  Cribrum NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20260822
-! Last modified: August 22, 2026
-! Entries: 76112
+! Version: 20260823
+! Last modified: August 23, 2026
+! Entries: 76151
 
+||wapmaza.com^
+||wapos.xyz^
+||wapoz.info^
+||wapoz.me^
+||wapoz.ru^
+||wappeduli.com^
+||wapphimsex.blogspot.com^
+||wapporno.info^
+||wappornolar.shop^
+||wapporns.com^
+||wappornsite.com^
+||wappx.ru^
+||wapqaw.com^
+||wapqi.com.cn^
+||waprap.com^
+||waprek.ru^
+||wapring.tk^
+||waprun.tk^
+||wapsekas.com^
+||wapsend.com^
+||wapsex.nl^
+||wapsexchatge.zyro.com^
+||wapsexe.com^
+||wapsexy.com^
+||wapsite.me^
+||wapsizka.com^
+||wapsosa.com^
+||wapstranky.cz^
+||wapsyka.com^
+||waptap.com^
+||waptric.com^
+||waptrick.com.pk^
+||waptrick.online^
 ||waptriksex.blogspot.com^
 ||waptruk.gq^
 ||waptuoinoiloan.blogspot.com^
@@ -13585,6 +13618,7 @@
 ||wildxxxvideos.click^
 ||wildxxxvideos.xyz^
 ||wildxxxx.homes^
+||wildxxxx.lat^
 ||wildxxxx.quest^
 ||wildyounghoneys.com^
 ||wildyoungtube.com^
@@ -14227,6 +14261,7 @@
 ||wipmeiden.nl^
 ||wipmi.com^
 ||wipmovies.blogspot.com^
+||wipoly.com^
 ||wippe.nl^
 ||wippedass.com^
 ||wippen.be^
@@ -22589,6 +22624,7 @@
 ||xafoo.com^
 ||xafphp.com^
 ||xafrachat.com^
+||xafuxing.com^
 ||xafwzc.com^
 ||xafxzs.com^
 ||xafyjz.com^
@@ -33489,6 +33525,7 @@
 ||xnxxgffxd.blogspot.com^
 ||xnxxgif.com^
 ||xnxxgifs.com^
+||xnxxgo.cc^
 ||xnxxgo.com^
 ||xnxxgold.com^
 ||xnxxgold.site^
@@ -44432,6 +44469,7 @@
 ||xxxbokepbarat.icu^
 ||xxxbokephalal.blogspot.com^
 ||xxxbokephd.vip^
+||xxxbokepid.space^
 ||xxxbokepindo.icu^
 ||xxxbokepindonesia.icu^
 ||xxxbokepjepang.icu^
@@ -71964,6 +72002,7 @@
 ||zlcopper.com^
 ||zlcpool.com^
 ||zld156.sbs^
+||zldg68.com^
 ||zldianping.com^
 ||zldkjfipoaulla.com^
 ||zldnbkznfs.bid^
