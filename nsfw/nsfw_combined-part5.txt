@@ -2,10 +2,74 @@
 ! Title: !  Cribrum NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20260823
-! Last modified: August 23, 2026
-! Entries: 76151
+! Version: 20260824
+! Last modified: August 24, 2026
+! Entries: 76217
 
+||wap-m88.com^
+||wap-movies.com^
+||wap-porn.com^
+||wap-qmh.com^
+||wap-sex.ru^
+||wap-share.tk^
+||wap-wynn.com^
+||wap-xnxx-com.ru^
+||wap-xnxx.rest^
+||wap-xnxx.ru^
+||wap-xvideos.autos^
+||wap-xvideos.beauty^
+||wap-xvideos.boats^
+||wap-xvideos.homes^
+||wap-xvideos.mobi^
+||wap-xvideos.net^
+||wap-yongli.com^
+||wap-z.org^
+||wap.crazymob.com^
+||wap.kobatochan.co^
+||wap.porok.org^
+||wap.ticbeat.co^
+||wap29.timparkdesign.com^
+||wap2cash.com^
+||wap2chat.in^
+||wapadult.com^
+||wapafon.ru^
+||wapanhsexjapan.blogspot.com^
+||wapapi.in^
+||wapapp.app^
+||waparty.com^
+||wapbold-com.listavip.net^
+||wapbold.com^
+||wapbold.net^
+||wapboldxxx.com^
+||wapbrand.com^
+||wapczjyw.com^
+||wape-group.com^
+||wapecrime.blogspot.com^
+||wapegroup.com^
+||wapexa.ru^
+||wapfeel.com^
+||wapfik.ru^
+||wapfinder.com^
+||wapftp.com.cn^
+||wapfuck.blogspot.com^
+||wapfun.eu^
+||waphard.xyz^
+||wapholesun.com^
+||waphui.com^
+||waphx.cn^
+||wapi9.com^
+||wapino.com^
+||wapisex.com^
+||wapitout.com^
+||wapiza.com^
+||wapkama.tk^
+||wapkezka.com^
+||wapkiz.site^
+||wapko.com^
+||wapl.su^
+||waplc.org.cn^
+||waplo.info^
+||waplock.com^
 ||wapmaza.com^
 ||wapos.xyz^
 ||wapoz.info^
@@ -18456,6 +18520,7 @@
 ||wsccus.com^
 ||wschain.com.cn^
 ||wscheklammern-brustwarzen-schwule-mnnerpornos.pages.dev^
+||wsci00.life^
 ||wsclsb5.com^
 ||wsdangong.com^
 ||wsdefr78.cc^
@@ -38824,6 +38889,7 @@
 ||xvideosonly.video^
 ||xvideosonlyfans.com^
 ||xvideosonlygratis.com^
+||xvideospacks.com^
 ||xvideospage55.blogspot.com^
 ||xvideospakistani.com^
 ||xvideospanel.blogspot.com^
