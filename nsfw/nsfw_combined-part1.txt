@@ -2,8 +2,8 @@
 ! Title: !  Cribrum NSFW (part 1)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20260824
-! Last modified: August 24, 2026
+! Version: 20260825
+! Last modified: August 25, 2026
 ! Entries: 500000
 
 ||0----q.tumblr.com^
@@ -34779,6 +34779,7 @@
 ||8907.xxx^
 ||890929.com^
 ||890edu.com^
+||890gjwdo.com^
 ||890hhlwu.com^
 ||890mm.com^
 ||890n.com^
@@ -41804,6 +41805,7 @@
 ||aagmaal.hot^
 ||aagmaal.how^
 ||aagmaal.in^
+||aagmaal.io^
 ||aagmaal.kim^
 ||aagmaal.kiwi^
 ||aagmaal.lifestyle^
@@ -42264,6 +42266,7 @@
 ||ab88.live^
 ||ab9118.com^
 ||ab93.cc^
+||aba11.cc^
 ||abab5.com^
 ||ababaelectric.com^
 ||ababean.tumblr.com^
@@ -114029,6 +114032,7 @@
 ||bacelonafc.com^
 ||bacerdew.blogspot.com^
 ||bacfist.tumblr.com^
+||bacger.com^
 ||bach9635.tumblr.com^
 ||bachamos.tumblr.com^
 ||bacharachonline.com^
@@ -157851,6 +157855,7 @@
 ||boka168.com^
 ||bokacoda.com^
 ||bokapindorandom.blogspot.com^
+||bokarma.be^
 ||bokastrippa.se^
 ||bokaup.com^
 ||bokay81.free.bg^
@@ -159135,6 +159140,7 @@
 ||bol.tumblr.com^
 ||bol250.sbs^
 ||bol36zi.garden^
+||bolaav.com^
 ||bolaf.com^
 ||bolagaya.org^
 ||bolahome.blogspot.com^
@@ -240535,6 +240541,7 @@
 ||cum4kcreampies.b-cdn.net^
 ||cum4kcreampies.com^
 ||cum4kfree.com^
+||cum4kpies.b-cdn.net^
 ||cum4kpies.com^
 ||cum4kvideo.com^
 ||cum4me.com^
@@ -287709,6 +287716,7 @@
 ||ebata.cc^
 ||ebatebat.tumblr.com^
 ||ebatporno.blogspot.com^
+||ebatx.net^
 ||ebaumspornworld.blogspot.com^
 ||ebaumsworld.com^
 ||ebavid.ru^
@@ -345761,6 +345769,7 @@
 ||flame-xxx-vol1.tumblr.com^
 ||flame-xxx.tumblr.com^
 ||flame.pt^
+||flameandflirt.com^
 ||flamebodies.com^
 ||flamecams.com^
 ||flameer.tumblr.com^
@@ -380021,6 +380030,7 @@
 ||gamcggzs.com^
 ||gamcore.ai^
 ||gamcore.ch^
+||gamcore.cm^
 ||gamcore.com^
 ||gamcoree.com^
 ||game--of--thongs.tumblr.com^
@@ -499996,13 +500006,3 @@
 ||jamie-sex-cam.startspot.nl^
 ||jamie-xr6.tumblr.com^
 ||jamie-young.com^
-||jamie-young.de^
-||jamie-young.net^
-||jamie.2bb.ru^
-||jamie1717.tumblr.com^
-||jamie3582.tumblr.com^
-||jamie4u.blogspot.com^
-||jamieagee.com^
-||jamieb0ndxxx.tumblr.com^
-||jamiebrooksonline.com^
-||jamiebunchuk.com^

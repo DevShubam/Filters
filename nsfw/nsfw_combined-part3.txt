@@ -2,10 +2,22 @@
 ! Title: !  Cribrum NSFW (part 3)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20260824
-! Last modified: August 24, 2026
+! Version: 20260825
+! Last modified: August 25, 2026
 ! Entries: 500000
 
+||mibouse.blogspot.sn^
+||mibouse.blogspot.tw^
+||mibouse.blogspot.ug^
+||miboutiquesexshop.com^
+||miboutiquetallasextras.com^
+||miboutiquetallasextras.com.sauljaimes.com^
+||mibrclslsngayvxoiniqsbpyk.fis.thf.test.prod.sadbirds.aws.a2z.eu^
+||mibrujula.com^
+||mibsexpress.com^
+||mibsgzsexbji.shelbywoodward.fun^
+||mibteam.net^
+||mibunisexsalon.com^
 ||mibymmplewgay.aoitenshi.com^
 ||mic-ardant.com^
 ||mic-c.metrd.site^
@@ -499994,15 +500006,3 @@
 ||nx-sexlust.blogspot.com.ar^
 ||nx-sexlust.blogspot.com.au^
 ||nx-sexlust.blogspot.com.br^
-||nx-sexlust.blogspot.com.by^
-||nx-sexlust.blogspot.com.co^
-||nx-sexlust.blogspot.com.cy^
-||nx-sexlust.blogspot.com.ee^
-||nx-sexlust.blogspot.com.eg^
-||nx-sexlust.blogspot.com.es^
-||nx-sexlust.blogspot.com.mt^
-||nx-sexlust.blogspot.com.ng^
-||nx-sexlust.blogspot.com.tr^
-||nx-sexlust.blogspot.com.uy^
-||nx-sexlust.blogspot.cz^
-||nx-sexlust.blogspot.de^
