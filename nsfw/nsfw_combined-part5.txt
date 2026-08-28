@@ -2,17 +2,10 @@
 ! Title: !  Cribrum NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20260827
-! Last modified: August 27, 2026
-! Entries: 72721
+! Version: 20260828
+! Last modified: August 28, 2026
+! Entries: 72725
 
-||webcamara.com^
-||webcamarchive.com^
-||webcamarchivos.com^
-||webcamarea.com^
-||webcamasian.com^
-||webcamasians.com^
-||webcamasians.nl^
 ||webcamasoutra.com^
 ||webcamateur.tumblr.com^
 ||webcamawards.blogspot.com^
@@ -18376,6 +18369,7 @@
 ||x-preview.com^
 ||x-privat.biz^
 ||x-privat.com^
+||x-prn.homes^
 ||x-promotions.de^
 ||x-pron.buzz^
 ||x-pron.club^
@@ -22001,6 +21995,7 @@
 ||xcv-babygirl-xviii.tumblr.com^
 ||xcv6.slyip.com^
 ||xcvods.com^
+||xcvpn.app^
 ||xcvxxx.com^
 ||xcw580.top^
 ||xcwhr.com^
@@ -31941,6 +31936,7 @@
 ||xporndude.com^
 ||xporned.com^
 ||xpornee.com^
+||xporner.app^
 ||xporner.com^
 ||xporners.fun^
 ||xpornet.com^
@@ -45287,6 +45283,7 @@
 ||xxxnewstitch.tumblr.com^
 ||xxxneww.blogspot.com^
 ||xxxnewzz.com^
+||xxxnezia.com^
 ||xxxnftmarket.xyz^
 ||xxxnfts.com^
 ||xxxnhatban.com^
@@ -46838,6 +46835,7 @@
 ||xxxscato.blogspot.com^
 ||xxxscenes.club^
 ||xxxscenes.net^
+||xxxscens.com^
 ||xxxscheme.com^
 ||xxxschoolsex.com^
 ||xxxscifi.com^
@@ -62973,6 +62971,7 @@
 ||yuri-me-hard-baby.tumblr.com^
 ||yuri-nation-online.tumblr.com^
 ||yuri-yuri.com^
+||yuri.software^
 ||yuri.xxx^
 ||yurianimelove.tumblr.com^
 ||yuriannie.tumblr.com^
@@ -63672,6 +63671,7 @@
 ||yyccm.cyou^
 ||yycco.com^
 ||yycfc.com.cn^
+||yycxxxczd.cc^
 ||yydd88.com^
 ||yydlsextu.cc^
 ||yydpg.com^
@@ -65145,6 +65145,7 @@
 ||zcp284.sbs^
 ||zcp846.sbs^
 ||zcporno.shop^
+||zcppch.com^
 ||zcpq.org.cn^
 ||zcpx.com.cn^
 ||zcqltj2.help^
@@ -65732,6 +65733,7 @@
 ||zephnm-incest-love.tumblr.com^
 ||zephyr1974.blogspot.com^
 ||zephyrbaron.tumblr.com^
+||zephyre.be^
 ||zephyrscribe.tumblr.com^
 ||zephyrstyle.tumblr.com^
 ||zephyrzone289.blogspot.com^
@@ -65996,6 +65998,7 @@
 ||zeytinburnusiparisver.com^
 ||zeytinburnutv.com^
 ||zeyucollege.com^
+||zeyvid.com^
 ||zezebras.tumblr.com^
 ||zezeshe.com^
 ||zezi7.com.cn^
@@ -66100,6 +66103,7 @@
 ||zgblqy.com^
 ||zgboligang.com^
 ||zgbulie.com^
+||zgbwk.com^
 ||zgbx110.com^
 ||zgc-vc.org.cn^
 ||zgcate.com^
