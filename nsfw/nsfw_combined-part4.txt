@@ -2,10 +2,35 @@
 ! Title: !  Cribrum NSFW (part 4)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20260828
-! Last modified: August 28, 2026
+! Version: 20260829
+! Last modified: August 29, 2026
 ! Entries: 500000
 
+||nvljuckenscheidebj.blogspot.co.at^
+||nvljuckenscheidebj.blogspot.co.id^
+||nvljuckenscheidebj.blogspot.co.il^
+||nvljuckenscheidebj.blogspot.co.ke^
+||nvljuckenscheidebj.blogspot.co.nz^
+||nvljuckenscheidebj.blogspot.co.uk^
+||nvljuckenscheidebj.blogspot.co.za^
+||nvljuckenscheidebj.blogspot.com^
+||nvljuckenscheidebj.blogspot.com.ar^
+||nvljuckenscheidebj.blogspot.com.au^
+||nvljuckenscheidebj.blogspot.com.br^
+||nvljuckenscheidebj.blogspot.com.by^
+||nvljuckenscheidebj.blogspot.com.co^
+||nvljuckenscheidebj.blogspot.com.cy^
+||nvljuckenscheidebj.blogspot.com.ee^
+||nvljuckenscheidebj.blogspot.com.eg^
+||nvljuckenscheidebj.blogspot.com.es^
+||nvljuckenscheidebj.blogspot.com.mt^
+||nvljuckenscheidebj.blogspot.com.ng^
+||nvljuckenscheidebj.blogspot.com.tr^
+||nvljuckenscheidebj.blogspot.com.uy^
+||nvljuckenscheidebj.blogspot.cz^
+||nvljuckenscheidebj.blogspot.de^
+||nvljuckenscheidebj.blogspot.dk^
+||nvljuckenscheidebj.blogspot.fi^
 ||nvljuckenscheidebj.blogspot.fr^
 ||nvljuckenscheidebj.blogspot.gr^
 ||nvljuckenscheidebj.blogspot.hk^
@@ -25156,6 +25181,7 @@
 ||ogsxvgdrfszstopgayj.fis.thf.globaltest.prod.sadbirds.aws.a2z.eu^
 ||ogsyqgo.cc^
 ||ogt4.com^
+||ogtattedlatina.com^
 ||ogtcsblqpxbgwtc.cn^
 ||ogtgguenusexchangecorp.tpilot.com^
 ||ogticlnqrlfilce.com^
@@ -182446,6 +182472,7 @@
 ||phimxxx.co.uk^
 ||phimxxx.com^
 ||phimxxx.cyou^
+||phimxxx.fit^
 ||phimxxx.it.com^
 ||phimxxx.langnhindongdoi.com^
 ||phimxxx.monster^
@@ -197727,6 +197754,7 @@
 ||porn-xxxtube.com^
 ||porn-xxxvideo.icu^
 ||porn-xxxvideos.com^
+||porn-xxxx.beauty^
 ||porn-xxxx.buzz^
 ||porn-xxxx.club^
 ||porn-xxxx.help^
@@ -201660,6 +201688,7 @@
 ||porncuze.com^
 ||porncv.com^
 ||porncvd.com^
+||porncvlt.com^
 ||porncwd.com^
 ||porncxz.com^
 ||porncyan.com^
@@ -211401,6 +211430,7 @@
 ||porno22.site^
 ||porno23-blog.tumblr.com^
 ||porno23.com^
+||porno23.homes^
 ||porno23.mom^
 ||porno23.shop^
 ||porno23.site^
@@ -211435,6 +211465,7 @@
 ||porno24xxx.xyz^
 ||porno25.cc^
 ||porno25.com^
+||porno25.homes^
 ||porno25.mom^
 ||porno25.net^
 ||porno25.shop^
@@ -211444,14 +211475,17 @@
 ||porno26.mom^
 ||porno26.shop^
 ||porno26.site^
+||porno27.homes^
 ||porno27.mom^
 ||porno27.shop^
 ||porno27.site^
 ||porno274.click^
+||porno28.homes^
 ||porno28.mom^
 ||porno28.shop^
 ||porno28.site^
 ||porno281.click^
+||porno29.homes^
 ||porno29.shop^
 ||porno29.site^
 ||porno2anime.blogspot.com^
@@ -211495,11 +211529,13 @@
 ||porno31.site^
 ||porno31ci.cfd^
 ||porno31izle.blogspot.com^
+||porno32.homes^
 ||porno32.shop^
 ||porno32.site^
 ||porno321.com^
 ||porno321.net^
 ||porno33.com^
+||porno33.homes^
 ||porno33.shop^
 ||porno33.site^
 ||porno333.com^
@@ -211512,6 +211548,7 @@
 ||porno35.shop^
 ||porno35.site^
 ||porno356.com^
+||porno36.homes^
 ||porno36.mom^
 ||porno36.shop^
 ||porno36.site^
@@ -211719,13 +211756,16 @@
 ||porno366.com^
 ||porno366.ru^
 ||porno367.com^
+||porno37.homes^
 ||porno37.mom^
 ||porno37.shop^
 ||porno37.site^
+||porno38.homes^
 ||porno38.mom^
 ||porno38.shop^
 ||porno38.site^
 ||porno39.com^
+||porno39.homes^
 ||porno39.mom^
 ||porno39.net^
 ||porno39.shop^
@@ -213227,6 +213267,7 @@
 ||pornobomba.site^
 ||pornobomba.today^
 ||pornobomba.top^
+||pornobomba.watch^
 ||pornobomba1.wiki^
 ||pornobombe.com^
 ||pornobombe.net^
@@ -220586,6 +220627,7 @@
 ||pornosveta24.pro^
 ||pornosveta24.site^
 ||pornosveta24.today^
+||pornosveta24.watch^
 ||pornosveta24.world^
 ||pornosveta3.ru^
 ||pornosveta4.ru^
@@ -223633,6 +223675,7 @@
 ||pornranked.com^
 ||pornrankivo.com^
 ||pornrankora.com^
+||pornrankora.net^
 ||pornrape.net^
 ||pornrape.org^
 ||pornrape.tv^
@@ -226659,6 +226702,7 @@
 ||pornsuperxsexl.christmas^
 ||pornsuperxsexl.click^
 ||pornsuperxsexl.courses^
+||pornsuperxsexl.cyou^
 ||pornsuperxsexl.forum^
 ||pornsuperxsexl.garden^
 ||pornsuperxsexl.homes^
@@ -237048,6 +237092,7 @@
 ||prnseyretx33.shop^
 ||prnsite.com^
 ||prnsites.com^
+||prnskr.com^
 ||prnsks.blogspot.com^
 ||prnstz.pro^
 ||prnsvideocarlos.blogspot.com^
@@ -269332,6 +269377,7 @@
 ||rheinz.online^
 ||rhemamarvanne.com^
 ||rhemasoft.org^
+||rhentai.site^
 ||rheporndude.com^
 ||rhetjournal.net^
 ||rhevpyu.top^
@@ -270790,6 +270836,7 @@
 ||riplizsuzsa.hu^
 ||riplockrgay.pages.dev^
 ||ripndiplivefeed.tumblr.com^
+||ripnsfw.com^
 ||ripom.com^
 ||ripon174574.blogspot.com^
 ||riponandleedsbells.org.uk^
@@ -298799,6 +298846,7 @@
 ||sex-lexikon.info^
 ||sex-lexis.com^
 ||sex-liar.tumblr.com^
+||sex-libertin.ch^
 ||sex-library.com^
 ||sex-lide.cz^
 ||sex-lies-and-bowties.tumblr.com^
@@ -303309,6 +303357,7 @@
 ||sex69cams.com^
 ||sex69for69all.tumblr.com^
 ||sex69hay.com^
+||sex69hot.com^
 ||sex69link.top^
 ||sex69s.blog^
 ||sex69s.com^
@@ -303886,6 +303935,7 @@
 ||sexai.cloud^
 ||sexai.lat^
 ||sexai.love^
+||sexai.singles^
 ||sexai.tools^
 ||sexaia1.xyz^
 ||sexaiapp.xyz^
@@ -304893,6 +304943,7 @@
 ||sexasema.fi^
 ||sexasev.cc^
 ||sexasev.mobi^
+||sexasev.red^
 ||sexasev.run^
 ||sexasex.host.sk^
 ||sexashop.ru^
@@ -304928,6 +304979,7 @@
 ||sexasiat.com^
 ||sexasie.com^
 ||sexasimf.one^
+||sexasimf.online^
 ||sexasimfer.one^
 ||sexask.tumblr.com^
 ||sexasly.com^
@@ -305486,6 +305538,7 @@
 ||sexbebin3.blog^
 ||sexbebin4.blog^
 ||sexbebin6.blog^
+||sexbebin7.blog^
 ||sexbeby.hit.bg^
 ||sexbecek.blogspot.com^
 ||sexbechvideochat.netsons.org^
@@ -316737,6 +316790,7 @@
 ||sexhotvn.com^
 ||sexhotwifexxx.com^
 ||sexhotworld.blogspot.com^
+||sexhotxx.com^
 ||sexhotxxx.com^
 ||sexhound.com^
 ||sexhound.de^
@@ -324974,6 +325028,7 @@
 ||sexosimf.cc^
 ||sexosimf.mobi^
 ||sexosimf.net^
+||sexosimf.online^
 ||sexosimfer.one^
 ||sexosincensura.com^
 ||sexosincompromiso.es^
@@ -336985,6 +337040,7 @@
 ||sexviet18.com^
 ||sexviet18.net^
 ||sexviet18.xyz^
+||sexviet188.com^
 ||sexviet18xx.blog^
 ||sexviet2.com^
 ||sexviet2.net^
@@ -339231,6 +339287,7 @@
 ||sexxarea.ink^
 ||sexxarh.love^
 ||sexxasev.mobi^
+||sexxasev.red^
 ||sexxasev.run^
 ||sexxasian.com^
 ||sexxasimf.life^
@@ -339399,6 +339456,7 @@
 ||sexxion.nl^
 ||sexxipod.tumblr.com^
 ||sexxirkt.life^
+||sexxisev.love^
 ||sexxisev.one^
 ||sexxisev.run^
 ||sexxisgood.tumblr.com^
@@ -339799,6 +339857,7 @@
 ||sexxxasimf.one^
 ||sexxxateria.com^
 ||sexxxay.blogspot.com^
+||sexxxayalta.life^
 ||sexxxaychick.tumblr.com^
 ||sexxxbabes.com^
 ||sexxxbase.com^
@@ -340834,6 +340893,7 @@
 ||sexxywebcams.com^
 ||sexxywhatsapp.pages.dev^
 ||sexxyykitten.tumblr.com^
+||sexxyysev.love^
 ||sexxyysex.tumblr.com^
 ||sexxyz.pro^
 ||sexxzone.com^
@@ -350137,6 +350197,7 @@
 ||sexynetwork.club^
 ||sexynetwork.xyz^
 ||sexynetz.com^
+||sexynew.beauty^
 ||sexynewpics.com^
 ||sexynews.canalblog.com^
 ||sexynews.free.fr^
@@ -355851,6 +355912,7 @@
 ||shanjierenyi.net^
 ||shanjierenyi1.com^
 ||shanjierenyi2.com^
+||shanjierenyi4.com^
 ||shanjierenyi6.art^
 ||shanjierenyi66.art^
 ||shanjing7.com.cn^
@@ -386291,6 +386353,7 @@
 ||spornorf.vip^
 ||spornox.page^
 ||spornradflugzeug.de^
+||spornt.com^
 ||spornttochranasporpedinflacvr.com^
 ||sporny.top^
 ||sport-attack.com^
@@ -407967,6 +408030,7 @@
 ||sz-yfgm.com^
 ||sz-yj.com.cn^
 ||sz-yongping.com^
+||sz-ysh.com^
 ||sz-yuxinbag.com^
 ||sz-zxxx.com^
 ||sz1.top^
@@ -410216,6 +410280,7 @@
 ||tainysoft.com^
 ||taios.net.cn^
 ||taipan668.com^
+||taipei.fyi^
 ||taipei2escorts.me^
 ||taipeim.com^
 ||taiphimsex.org^
@@ -411195,6 +411260,7 @@
 ||tamilsextube2.blogspot.com^
 ||tamilsexvdo.com^
 ||tamilsexvideo.baby^
+||tamilsexvideo.blog^
 ||tamilsexvideo.club^
 ||tamilsexvideo.co^
 ||tamilsexvideo.life^
@@ -413918,6 +413984,7 @@
 ||tde241.sbs^
 ||tdeasywebdemo.com^
 ||tded.club^
+||tdedav.com^
 ||tdedguru.com^
 ||tdeey.com.cn^
 ||tdels.com^
@@ -413996,6 +414063,7 @@
 ||tdxflix.fyi^
 ||tdxflix.hot^
 ||tdxflix.info.in^
+||tdxflix.io^
 ||tdxflix.io.in^
 ||tdxflix.lat^
 ||tdxflix.ltd^
@@ -423952,6 +424020,7 @@
 ||teporn.com^
 ||teporndude.com^
 ||teposoft.com^
+||tepoy.org^
 ||teppan-av.com^
 ||tepropongobaiilaruntangoconlalengua.blogspot.com^
 ||tepss-china.com^
@@ -452064,6 +452133,7 @@
 ||trali-vali.com^
 ||tralopiteko.blogse.nl^
 ||tralopiteko.punt.nl^
+||traltyaziporno.online^
 ||tram-cartoons.com^
 ||tram-pararam.com^
 ||tram-pararam.net^
@@ -462211,6 +462281,7 @@
 ||turk.sex^
 ||turk1-pornocu.site^
 ||turk2.porn^
+||turkabi.com^
 ||turkadultporn.blogspot.com^
 ||turkaliz.com^
 ||turkamatorporno.blogspot.com^
@@ -462249,10 +462320,12 @@
 ||turkceporno.com^
 ||turkceporno.org^
 ||turkceporno.xyz^
+||turkceporno10.lat^
 ||turkceporno5.lat^
 ||turkceporno7.lat^
 ||turkceporno8.lat^
 ||turkceporno9.lat^
+||turkcepornoaltyazi.online^
 ||turkcepornoizle.net^
 ||turkcepornoizlee.blogspot.com^
 ||turkcepornolari.xyz^
@@ -468643,6 +468716,7 @@
 ||ukuwan02.top^
 ||ukvaperwholesale.co.uk^
 ||ukvideobabes.com^
+||ukviva.com^
 ||ukvixens.com^
 ||ukwanklines.com^
 ||ukwebcamamateur.co.uk^
@@ -468806,6 +468880,7 @@
 ||ulovesex.com^
 ||ulovesexdoll.top^
 ||ulovethebeach.com^
+||ulovex.com^
 ||ulp1.com.cn^
 ||ulp247.com^
 ||ulpapa.cc^
@@ -472832,6 +472907,8 @@
 ||upslutj125.shop^
 ||upslutj139.shop^
 ||upslutj141.shop^
+||upslutj157.shop^
+||upslutj175.shop^
 ||upslutpdfskt.shop^
 ||upslutz319.shop^
 ||upslutz451.shop^
@@ -475434,6 +475511,7 @@
 ||uzporna.com^
 ||uzporna.site^
 ||uzpornhd.ru^
+||uzpornhub.art^
 ||uzpornhub.com^
 ||uzpornhub.fun^
 ||uzpornhub.pics^
@@ -499928,81 +500006,3 @@
 ||webcam.vc^
 ||webcam.video.chat.free.fr^
 ||webcam.vivastreet.com^
-||webcam.vlaanderen^
-||webcam.wiki^
-||webcam.ws^
-||webcam.zeblog.com^
-||webcam.zoekvinden.nl^
-||webcam.zone^
-||webcam1.nl^
-||webcam100gratuit.blogspot.com^
-||webcam121.com^
-||webcam18.net^
-||webcam1on1.com^
-||webcam1sms.es^
-||webcam2.com^
-||webcam24.at^
-||webcam24chat.com^
-||webcam24horas.com^
-||webcam24hs.net^
-||webcam2cam.nl^
-||webcam2camsex.com^
-||webcam2coquines.centerblog.net^
-||webcam2fille.com^
-||webcam2messenger.com^
-||webcam2sexe.canalblog.com^
-||webcam2sexe.eu^
-||webcam2webcamsex.com^
-||webcam321.com^
-||webcam4chat18.tumblr.com^
-||webcam4money.com^
-||webcam4play.com^
-||webcam4porn.com^
-||webcam4sex.nl^
-||webcam51.com^
-||webcam6.com^
-||webcam69.fr^
-||webcam69.nl^
-||webcam7sex.com^
-||webcam82sexesexe.site.voila.fr^
-||webcam888.com^
-||webcam99.com^
-||webcam9xxx.ru^
-||webcamaccount.com^
-||webcamaction.org^
-||webcamaddiction.blogspot.com^
-||webcamadmin.com^
-||webcamadult.com^
-||webcamadult.net^
-||webcamadultchat.net^
-||webcamadultcouplesfree.blogspot.com^
-||webcamadulte.blogspot.com^
-||webcamadultoschat.blogspot.com^
-||webcamadults.com^
-||webcamalbum.com^
-||webcamamat.free.fr^
-||webcamamateur.co.uk^
-||webcamamateur.com^
-||webcamamateur.com.ar^
-||webcamamateur.com.es^
-||webcamamateur.de^
-||webcamamateure.net^
-||webcamamateurs.com^
-||webcamamateurs.free.fr^
-||webcamamateurs.nl^
-||webcamamateurs.startplezier.nl^
-||webcamamatoriali.com^
-||webcamamatorialixxx.blogspot.com^
-||webcamamatrice.blogspot.com^
-||webcamamatrice.net^
-||webcamamatrices.free.fr^
-||webcamamour.com^
-||webcamanalxxx.com^
-||webcamania.com^
-||webcamara.com^
-||webcamarchive.com^
-||webcamarchivos.com^
-||webcamarea.com^
-||webcamasian.com^
-||webcamasians.com^
-||webcamasians.nl^

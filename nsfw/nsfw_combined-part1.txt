@@ -2,8 +2,8 @@
 ! Title: !  Cribrum NSFW (part 1)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20260828
-! Last modified: August 28, 2026
+! Version: 20260829
+! Last modified: August 29, 2026
 ! Entries: 500000
 
 ||0----q.tumblr.com^
@@ -4932,6 +4932,7 @@
 ||123getcashnow.com^
 ||123ggkk.com^
 ||123girls.net^
+||123girlxxx.com^
 ||123goodluck.com^
 ||123gua.com.cn^
 ||123hbd.com^
@@ -11354,6 +11355,7 @@
 ||2008water.com^
 ||2008xxx.canalblog.com^
 ||2009.xxx^
+||20090102.xyz^
 ||2009bh.com^
 ||2009mba.com^
 ||2009x.com^
@@ -11762,6 +11764,7 @@
 ||20plus.com^
 ||20porn.cc^
 ||20porno.com^
+||20porno.cyou^
 ||20porno.top^
 ||20q.com.cn^
 ||20sanctuary-grahpis.blogspot.com^
@@ -23549,6 +23552,7 @@
 ||4pornsex.com^
 ||4pornstar.com.br^
 ||4porntv.com^
+||4pornuh.quest^
 ||4pornuh.xyz^
 ||4pornvids.com^
 ||4pornxxx.com^
@@ -31841,6 +31845,7 @@
 ||7dakporno36.click^
 ||7dakporno37.life^
 ||7dakporno37.shop^
+||7dakporno38.click^
 ||7dakporno38.shop^
 ||7dakporno39.shop^
 ||7dakporno4.click^
@@ -61110,6 +61115,7 @@
 ||aiadultinfluencers.com^
 ||aiadultreviews.com^
 ||aiadultseo.com^
+||aiadultvault.store^
 ||aiaha.xyz^
 ||aiai-qq.cfd^
 ||aiaibee.com^
@@ -83567,6 +83573,7 @@
 ||anamurnakliyat.com.tr^
 ||anamutfak.com^
 ||anamylife.zip.net^
+||anananggaya.pages.dev^
 ||ananas-holiday.ru^
 ||ananas9it.com^
 ||ananasexe.com^
@@ -108699,6 +108706,7 @@
 ||avxxxmi.com^
 ||avxxxmini.com^
 ||avxxxminihd.com^
+||avxxxplus.com^
 ||avxxxpro.com^
 ||avxxxproxx.com^
 ||avxxxsex.com^
@@ -116788,6 +116796,7 @@
 ||banglasexstoryandchoti.blogspot.com^
 ||banglasexstorytxt.blogspot.com^
 ||banglasexvideo.baby^
+||banglasexvideo.blog^
 ||banglasexvideo.com^
 ||banglasexvideo.cyou^
 ||banglasexvideo.online^
@@ -135129,6 +135138,7 @@
 ||bestzzporno.biz^
 ||bestzzporno.club^
 ||bestzzporno.day^
+||bestzzporno.guru^
 ||bestzzporno.lat^
 ||bestzzporno.lol^
 ||bestzzporno.online^
@@ -195810,6 +195820,7 @@
 ||cdnot4.com^
 ||cdnphonesex.ca^
 ||cdnporn.com^
+||cdnprn.com^
 ||cdnpx.com^
 ||cdns.bao-da-888.com^
 ||cdns.thehubpeople.com^
@@ -286811,6 +286822,7 @@
 ||ebonymilf.vip^
 ||ebonymilfanal.com^
 ||ebonymilfcams.com^
+||ebonymilffeed.com^
 ||ebonymilflover.com^
 ||ebonymilfs.net^
 ||ebonymilfspics.com^
@@ -423419,6 +423431,7 @@
 ||gv2002.com^
 ||gv23.gay^
 ||gv24.sbs^
+||gv292.gay^
 ||gv2qo.gay^
 ||gv304.com^
 ||gv305.com^
@@ -423483,6 +423496,7 @@
 ||gvdgeroi.ru^
 ||gvdq.gay^
 ||gve.gr^
+||gve3t.gay^
 ||gveel.gay^
 ||gvenaelot.blogspot.com^
 ||gvex3.gay^
@@ -435238,6 +435252,7 @@
 ||hdgifspornstars.blogspot.com^
 ||hdgirlongirlporn.com^
 ||hdgirlpics.blogspot.com^
+||hdgirls.top^
 ||hdgirls.tv^
 ||hdgirlsfuck.com^
 ||hdgirlssex.com^
@@ -437077,6 +437092,7 @@
 ||hdxporno5.lat^
 ||hdxporno50.lat^
 ||hdxporno55.lat^
+||hdxporno56.lat^
 ||hdxporno6.lat^
 ||hdxporno7.lat^
 ||hdxporno8.lat^
@@ -450551,6 +450567,7 @@
 ||holliwudprettiboi.tumblr.com^
 ||hollmov.blogspot.com^
 ||hollo-tube.pro^
+||holloporn.cc^
 ||holloporn.com^
 ||holloporn.mobi^
 ||holloporn.win^
@@ -458132,6 +458149,7 @@
 ||hot-sex.ink^
 ||hot-sex.net^
 ||hot-sex.nu^
+||hot-sex.pages.dev^
 ||hot-sex.pro^
 ||hot-sex.ws^
 ||hot-sex.xprv.com^
@@ -469231,6 +469249,7 @@
 ||hsexsh0.wiki^
 ||hsextemail.develop5.mbudo.com^
 ||hsextv1.com^
+||hsexwz.cc^
 ||hsexx.sbs^
 ||hsexx.wiki^
 ||hsexy.online^
@@ -472706,6 +472725,9 @@
 ||huttonsrv.com^
 ||hutubalu52.tumblr.com^
 ||hutzelt1995.tumblr.com^
+||huu22.com^
+||huu23.com^
+||huu27.com^
 ||huucs.com^
 ||huuducdang.tumblr.com^
 ||huufeng.com^
@@ -495850,6 +495872,7 @@
 ||izmiryakasi.com^
 ||izmirzirve.com^
 ||izmit-porner.monster^
+||izmit-pornerclub.monster^
 ||izmit-rentacar.com^
 ||izmit.mobi^
 ||izmit.store^
@@ -499983,26 +500006,3 @@
 ||japrz.com^
 ||japs-porn.tumblr.com^
 ||japs.me^
-||japs4me.com^
-||japsaz.com^
-||japscat.org^
-||japsex.net^
-||japsexe.com^
-||japsexvids.com^
-||japsexx.com^
-||japsfap.com^
-||japsfinder.com^
-||japshd.com^
-||japslit.com^
-||japslut.tumblr.com^
-||japtank.com^
-||japteens.co^
-||japteens.com^
-||japteens.nu^
-||japteenx.com^
-||japtorture.com^
-||japtubes.com^
-||japvid.com^
-||japvid.xxx^
-||japvid24.com^
-||japvid245.com^

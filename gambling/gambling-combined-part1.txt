@@ -2,8 +2,8 @@
 ! Title: !  Cribrum Gambling (part 1)
 ! Description: Block Gambling Domains
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20260828
-! Last modified: August 28, 2026
+! Version: 20260829
+! Last modified: August 29, 2026
 ! Entries: 500000
 
 ||0-10-7.casino^

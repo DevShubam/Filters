@@ -2,10 +2,88 @@
 ! Title: !  Cribrum NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20260828
-! Last modified: August 28, 2026
-! Entries: 72725
+! Version: 20260829
+! Last modified: August 29, 2026
+! Entries: 72813
 
+||webcam.vlaanderen^
+||webcam.wiki^
+||webcam.ws^
+||webcam.zeblog.com^
+||webcam.zoekvinden.nl^
+||webcam.zone^
+||webcam1.nl^
+||webcam100gratuit.blogspot.com^
+||webcam121.com^
+||webcam18.net^
+||webcam1on1.com^
+||webcam1sms.es^
+||webcam2.com^
+||webcam24.at^
+||webcam24chat.com^
+||webcam24horas.com^
+||webcam24hs.net^
+||webcam2cam.nl^
+||webcam2camsex.com^
+||webcam2coquines.centerblog.net^
+||webcam2fille.com^
+||webcam2messenger.com^
+||webcam2sexe.canalblog.com^
+||webcam2sexe.eu^
+||webcam2webcamsex.com^
+||webcam321.com^
+||webcam4chat18.tumblr.com^
+||webcam4money.com^
+||webcam4play.com^
+||webcam4porn.com^
+||webcam4sex.nl^
+||webcam51.com^
+||webcam6.com^
+||webcam69.fr^
+||webcam69.nl^
+||webcam7sex.com^
+||webcam82sexesexe.site.voila.fr^
+||webcam888.com^
+||webcam99.com^
+||webcam9xxx.ru^
+||webcamaccount.com^
+||webcamaction.org^
+||webcamaddiction.blogspot.com^
+||webcamadmin.com^
+||webcamadult.com^
+||webcamadult.net^
+||webcamadultchat.net^
+||webcamadultcouplesfree.blogspot.com^
+||webcamadulte.blogspot.com^
+||webcamadultoschat.blogspot.com^
+||webcamadults.com^
+||webcamalbum.com^
+||webcamamat.free.fr^
+||webcamamateur.co.uk^
+||webcamamateur.com^
+||webcamamateur.com.ar^
+||webcamamateur.com.es^
+||webcamamateur.de^
+||webcamamateure.net^
+||webcamamateurs.com^
+||webcamamateurs.free.fr^
+||webcamamateurs.nl^
+||webcamamateurs.startplezier.nl^
+||webcamamatoriali.com^
+||webcamamatorialixxx.blogspot.com^
+||webcamamatrice.blogspot.com^
+||webcamamatrice.net^
+||webcamamatrices.free.fr^
+||webcamamour.com^
+||webcamanalxxx.com^
+||webcamania.com^
+||webcamara.com^
+||webcamarchive.com^
+||webcamarchivos.com^
+||webcamarea.com^
+||webcamasian.com^
+||webcamasians.com^
+||webcamasians.nl^
 ||webcamasoutra.com^
 ||webcamateur.tumblr.com^
 ||webcamawards.blogspot.com^
@@ -3209,6 +3287,7 @@
 ||wedprices.com^
 ||wedreamoforgy.tumblr.com^
 ||wedrive-ai.com^
+||wedsex.com^
 ||wedstrijd-neuken.startspot.nl^
 ||wedtrip.net.cn^
 ||weducatum.com^
@@ -30895,6 +30974,7 @@
 ||xnxxxnew.com^
 ||xnxxxnx.net^
 ||xnxxxnxx.site^
+||xnxxxporn.info^
 ||xnxxxporns.com^
 ||xnxxxporntube.com^
 ||xnxxxsex.org^
@@ -31843,6 +31923,7 @@
 ||xpopki.cc^
 ||xpopki.vip^
 ||xporn-aboutsex.blogspot.com^
+||xporn-ai.com^
 ||xporn-gifs.com^
 ||xporn-house.blogspot.com^
 ||xporn-pics.com^
@@ -44833,6 +44914,7 @@
 ||xxxmmm.pw^
 ||xxxmmm0312.top^
 ||xxxmms.live^
+||xxxmms.shop^
 ||xxxmms.stream^
 ||xxxmms.watch^
 ||xxxmms1.com^
@@ -54191,6 +54273,7 @@
 ||yevd.com.cn^
 ||yevettenails.com^
 ||yevgenymilkovich.tumblr.com^
+||yevhenchornyi.name^
 ||yevheniiab.com^
 ||yevheniiatestdomain.com^
 ||yevt.com^
@@ -60576,6 +60659,7 @@
 ||yourpleasuresexologycounselling.online^
 ||yourplusexhibitionstands.com^
 ||yourporn-tube.com^
+||yourporn.app^
 ||yourporn.cam^
 ||yourporn.cc^
 ||yourporn.co.uk^
@@ -63195,6 +63279,7 @@
 ||yuzukitty.net^
 ||yuzuktr.org^
 ||yuzuntaoci.com^
+||yuzzer.com^
 ||yv09.sbs^
 ||yv142.top^
 ||yv770.top^
@@ -64294,6 +64379,7 @@
 ||zabhm.com^
 ||zabilogha.ehost-services204.com^
 ||zabimov.cc^
+||zabina.in^
 ||zablesoft.com^
 ||zabosaltd.biz^
 ||zaboux.free.fr^
@@ -64418,6 +64504,7 @@
 ||zaglotka.ru^
 ||zaglotki.com^
 ||zagnidesignbike.it^
+||zagnul.com^
 ||zagnul.net^
 ||zagrebnights.com^
 ||zagrebtopescorts.com^
@@ -65957,6 +66044,7 @@
 ||zeworldofq.canalblog.com^
 ||zex.me^
 ||zexdoll.com^
+||zexlix.com^
 ||zexmobile.blogspot.com^
 ||zexorama.com^
 ||zexporn.com^

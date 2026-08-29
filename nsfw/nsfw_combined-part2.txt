@@ -2,10 +2,33 @@
 ! Title: !  Cribrum NSFW (part 2)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20260828
-! Last modified: August 28, 2026
+! Version: 20260829
+! Last modified: August 29, 2026
 ! Entries: 500000
 
+||japs4me.com^
+||japsaz.com^
+||japscat.org^
+||japsex.net^
+||japsexe.com^
+||japsexvids.com^
+||japsexx.com^
+||japsfap.com^
+||japsfinder.com^
+||japshd.com^
+||japslit.com^
+||japslut.tumblr.com^
+||japtank.com^
+||japteens.co^
+||japteens.com^
+||japteens.nu^
+||japteenx.com^
+||japtorture.com^
+||japtubes.com^
+||japvid.com^
+||japvid.xxx^
+||japvid24.com^
+||japvid245.com^
 ||japvid365.com^
 ||japvideo.com^
 ||japvsex.com^
@@ -13709,6 +13732,7 @@
 ||jporn.asia^
 ||jporn.com^
 ||jporn.one^
+||jporn.s-rove.com^
 ||jporn.tv^
 ||jpornaccess.com^
 ||jporner.com^
@@ -29555,6 +29579,7 @@
 ||kinopolet.net^
 ||kinoporn.club^
 ||kinoporn.link^
+||kinoporn.top^
 ||kinoradiomagia.tv^
 ||kinorun.top^
 ||kinosalo.org^
@@ -499981,28 +500006,3 @@
 ||mianarquia.blogspot.co.il^
 ||mianarquia.blogspot.co.ke^
 ||mianarquia.blogspot.co.nz^
-||mianarquia.blogspot.co.uk^
-||mianarquia.blogspot.co.za^
-||mianarquia.blogspot.com^
-||mianarquia.blogspot.com.au^
-||mianarquia.blogspot.com.br^
-||mianarquia.blogspot.com.by^
-||mianarquia.blogspot.com.co^
-||mianarquia.blogspot.com.cy^
-||mianarquia.blogspot.com.ee^
-||mianarquia.blogspot.com.eg^
-||mianarquia.blogspot.com.mt^
-||mianarquia.blogspot.com.ng^
-||mianarquia.blogspot.com.tr^
-||mianarquia.blogspot.com.uy^
-||mianarquia.blogspot.cz^
-||mianarquia.blogspot.de^
-||mianarquia.blogspot.dk^
-||mianarquia.blogspot.fi^
-||mianarquia.blogspot.fr^
-||mianarquia.blogspot.hk^
-||mianarquia.blogspot.hr^
-||mianarquia.blogspot.hu^
-||mianarquia.blogspot.ie^
-||mianarquia.blogspot.in^
-||mianarquia.blogspot.is^

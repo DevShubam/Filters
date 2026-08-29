@@ -2,10 +2,35 @@
 ! Title: !  Cribrum NSFW (part 3)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20260828
-! Last modified: August 28, 2026
+! Version: 20260829
+! Last modified: August 29, 2026
 ! Entries: 500000
 
+||mianarquia.blogspot.co.uk^
+||mianarquia.blogspot.co.za^
+||mianarquia.blogspot.com^
+||mianarquia.blogspot.com.au^
+||mianarquia.blogspot.com.br^
+||mianarquia.blogspot.com.by^
+||mianarquia.blogspot.com.co^
+||mianarquia.blogspot.com.cy^
+||mianarquia.blogspot.com.ee^
+||mianarquia.blogspot.com.eg^
+||mianarquia.blogspot.com.mt^
+||mianarquia.blogspot.com.ng^
+||mianarquia.blogspot.com.tr^
+||mianarquia.blogspot.com.uy^
+||mianarquia.blogspot.cz^
+||mianarquia.blogspot.de^
+||mianarquia.blogspot.dk^
+||mianarquia.blogspot.fi^
+||mianarquia.blogspot.fr^
+||mianarquia.blogspot.hk^
+||mianarquia.blogspot.hr^
+||mianarquia.blogspot.hu^
+||mianarquia.blogspot.ie^
+||mianarquia.blogspot.in^
+||mianarquia.blogspot.is^
 ||mianarquia.blogspot.it^
 ||mianarquia.blogspot.jp^
 ||mianarquia.blogspot.kr^
@@ -499981,28 +500006,3 @@
 ||nvljuckenscheidebj.blogspot.ca^
 ||nvljuckenscheidebj.blogspot.ch^
 ||nvljuckenscheidebj.blogspot.cl^
-||nvljuckenscheidebj.blogspot.co.at^
-||nvljuckenscheidebj.blogspot.co.id^
-||nvljuckenscheidebj.blogspot.co.il^
-||nvljuckenscheidebj.blogspot.co.ke^
-||nvljuckenscheidebj.blogspot.co.nz^
-||nvljuckenscheidebj.blogspot.co.uk^
-||nvljuckenscheidebj.blogspot.co.za^
-||nvljuckenscheidebj.blogspot.com^
-||nvljuckenscheidebj.blogspot.com.ar^
-||nvljuckenscheidebj.blogspot.com.au^
-||nvljuckenscheidebj.blogspot.com.br^
-||nvljuckenscheidebj.blogspot.com.by^
-||nvljuckenscheidebj.blogspot.com.co^
-||nvljuckenscheidebj.blogspot.com.cy^
-||nvljuckenscheidebj.blogspot.com.ee^
-||nvljuckenscheidebj.blogspot.com.eg^
-||nvljuckenscheidebj.blogspot.com.es^
-||nvljuckenscheidebj.blogspot.com.mt^
-||nvljuckenscheidebj.blogspot.com.ng^
-||nvljuckenscheidebj.blogspot.com.tr^
-||nvljuckenscheidebj.blogspot.com.uy^
-||nvljuckenscheidebj.blogspot.cz^
-||nvljuckenscheidebj.blogspot.de^
-||nvljuckenscheidebj.blogspot.dk^
-||nvljuckenscheidebj.blogspot.fi^
