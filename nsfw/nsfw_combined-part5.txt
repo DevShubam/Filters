@@ -2,51 +2,10 @@
 ! Title: !  Cribrum NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20260829
-! Last modified: August 29, 2026
-! Entries: 72813
+! Version: 20260830
+! Last modified: August 30, 2026
+! Entries: 72772
 
-||webcam.vlaanderen^
-||webcam.wiki^
-||webcam.ws^
-||webcam.zeblog.com^
-||webcam.zoekvinden.nl^
-||webcam.zone^
-||webcam1.nl^
-||webcam100gratuit.blogspot.com^
-||webcam121.com^
-||webcam18.net^
-||webcam1on1.com^
-||webcam1sms.es^
-||webcam2.com^
-||webcam24.at^
-||webcam24chat.com^
-||webcam24horas.com^
-||webcam24hs.net^
-||webcam2cam.nl^
-||webcam2camsex.com^
-||webcam2coquines.centerblog.net^
-||webcam2fille.com^
-||webcam2messenger.com^
-||webcam2sexe.canalblog.com^
-||webcam2sexe.eu^
-||webcam2webcamsex.com^
-||webcam321.com^
-||webcam4chat18.tumblr.com^
-||webcam4money.com^
-||webcam4play.com^
-||webcam4porn.com^
-||webcam4sex.nl^
-||webcam51.com^
-||webcam6.com^
-||webcam69.fr^
-||webcam69.nl^
-||webcam7sex.com^
-||webcam82sexesexe.site.voila.fr^
-||webcam888.com^
-||webcam99.com^
-||webcam9xxx.ru^
-||webcamaccount.com^
 ||webcamaction.org^
 ||webcamaddiction.blogspot.com^
 ||webcamadmin.com^
@@ -11416,6 +11375,7 @@
 ||wizzporn.com^
 ||wizzsoft.com^
 ||wizztap.me^
+||wizzy.gay^
 ||wj-hairy-pussy.com^
 ||wj-huadong.com^
 ||wj-nude-lesbians.com^
@@ -23225,8 +23185,6 @@
 ||xfxtw.com^
 ||xfxyedu.com^
 ||xfy360.com^
-||xfy65.com^
-||xfy67.com^
 ||xfybrqe.xyz^
 ||xfyc99.com^
 ||xfydw.com^
@@ -25595,7 +25553,6 @@
 ||xinxianhhuo.shop^
 ||xinxianlcd.com^
 ||xinxianncp.com^
-||xinxiaodai.org.cn^
 ||xinxin8.net^
 ||xinxindong.com^
 ||xinxingcailiao.com.cn^
@@ -34492,6 +34449,7 @@
 ||xuz780.sbs^
 ||xuzai.org.cn^
 ||xuzaxemy36.tumblr.com^
+||xuzb.ru^
 ||xuzbekporn.com^
 ||xuzhanedu.com^
 ||xuzhaogen.com^
@@ -50210,6 +50168,7 @@
 ||xxxxxxav-107.com^
 ||xxxxxxav0nnn000.xyz^
 ||xxxxxxav1a386.xyz^
+||xxxxxxav1qqq111.xyz^
 ||xxxxxxav1sim111.xyz^
 ||xxxxxxav2vip222.xyz^
 ||xxxxxxav3kb321.xyz^
@@ -64698,7 +64657,6 @@
 ||zanzibars.blogspot.com^
 ||zanzilla.com^
 ||zao22.tumblr.com^
-||zaoag.com^
 ||zaoag.org^
 ||zaoanyu.cn^
 ||zaobaike.cn^
@@ -64929,8 +64887,6 @@
 ||zavolaj.sk^
 ||zavolime.com^
 ||zavorot.com^
-||zawag.app^
-||zawag.org^
 ||zawagmsyar.com^
 ||zawjmisyar.blogspot.com^
 ||zax5.top^
@@ -65693,6 +65649,7 @@
 ||zencast.net^
 ||zenciescortbayan.com^
 ||zencieskort.com^
+||zencieskort.net^
 ||zencipornom.blogspot.com^
 ||zencreator.pro^
 ||zendayasauntiewig.tumblr.com^
@@ -66032,7 +65989,7 @@
 ||zevkindoruguu.blogspot.com^
 ||zevklifilm.com^
 ||zevklifilmizle.com^
-||zevklifilmizlet.com^
+||zevklifilmizle.org^
 ||zevklisexhikayesi.blogspot.com^
 ||zevoltai.tumblr.com^
 ||zew370.sbs^
@@ -68966,6 +68923,7 @@
 ||znamporn.icu^
 ||znamporn.ru^
 ||znamporn.site^
+||znamxxx.com^
 ||znaniyapolza.ru^
 ||znapapp.ae^
 ||znatnyulov.ru^
@@ -69849,6 +69807,7 @@
 ||zoofreexxx.com^
 ||zoofreexxx.shop^
 ||zoofuck.org^
+||zoofuck.world^
 ||zoofuckclub.shop^
 ||zoofuckfree.com^
 ||zoofuckfree.shop^
