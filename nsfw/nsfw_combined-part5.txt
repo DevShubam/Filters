@@ -2,10 +2,18 @@
 ! Title: !  Cribrum NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20260830
-! Last modified: August 30, 2026
-! Entries: 72772
+! Version: 20260831
+! Last modified: August 31, 2026
+! Entries: 72786
 
+||webcam69.fr^
+||webcam69.nl^
+||webcam7sex.com^
+||webcam82sexesexe.site.voila.fr^
+||webcam888.com^
+||webcam99.com^
+||webcam9xxx.ru^
+||webcamaccount.com^
 ||webcamaction.org^
 ||webcamaddiction.blogspot.com^
 ||webcamadmin.com^
@@ -43372,6 +43380,7 @@
 ||xxxhd.world^
 ||xxxhd.xxx^
 ||xxxhd.yachts^
+||xxxhd4u.com^
 ||xxxhdasia.com^
 ||xxxhdblog.com^
 ||xxxhdchina.com^
@@ -44637,6 +44646,7 @@
 ||xxxmaniax.ink^
 ||xxxmany.com^
 ||xxxmap.xyz^
+||xxxmar.com^
 ||xxxmarc.tumblr.com^
 ||xxxmaripossa.com^
 ||xxxmarket.com^
@@ -48663,6 +48673,7 @@
 ||xxxvek.ru^
 ||xxxventure.com^
 ||xxxvenue.com^
+||xxxver.com^
 ||xxxverhalen.nl^
 ||xxxveronicaavluv.com^
 ||xxxvery.com^
@@ -61361,6 +61372,8 @@
 ||youxxx25.xyz^
 ||youxxx26.xyz^
 ||youxxx27.xyz^
+||youxxx28.xyz^
+||youxxx30.xyz^
 ||youxxxcams.com^
 ||youxxxgallery.com^
 ||youxxxhome.com^
@@ -63466,6 +63479,7 @@
 ||yxg-5.com^
 ||yxg-6.com^
 ||yxg-7.com^
+||yxg-9.com^
 ||yxg96.com^
 ||yxgchina.com^
 ||yxgdwl.cn^

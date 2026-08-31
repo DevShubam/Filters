@@ -2,8 +2,8 @@
 ! Title: !  Cribrum NSFW (part 1)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20260830
-! Last modified: August 30, 2026
+! Version: 20260831
+! Last modified: August 31, 2026
 ! Entries: 500000
 
 ||0----q.tumblr.com^
@@ -6915,6 +6915,7 @@
 ||17xxx888.one^
 ||17xxx9.one^
 ||17xxx999.one^
+||17xxxbluefilm.co.uk^
 ||17year.com^
 ||17yinyue.com^
 ||17youzi.com^
@@ -102246,6 +102247,7 @@
 ||assamesesexvideos.com^
 ||assamesesexvideos.cyou^
 ||assamesesexvideos.life^
+||assamesesexvideos.media^
 ||assamsexvideos.com^
 ||assana.gay^
 ||assanal.com^
@@ -122414,6 +122416,7 @@
 ||bdpix.com^
 ||bdporn.com^
 ||bdporn24.blogspot.com^
+||bdpornvideos.com^
 ||bdpuer.com^
 ||bdpulaifu.com^
 ||bdqn-ln.com^
@@ -184313,6 +184316,7 @@
 ||camilla-belle-fashion.blogspot.com^
 ||camilla-kamila-pornstar.tumblr.com^
 ||camilla.co.uk^
+||camilla.xxx^
 ||camilla2006.over-blog.com^
 ||camillabelle.org^
 ||camillaberry.webnode.page^
@@ -306200,6 +306204,7 @@
 ||erotiktreff.com^
 ||erotiktreff.de^
 ||erotiktreff.de.to^
+||erotiktreff.org^
 ||erotiktreff.tv^
 ||erotiktreff24.info^
 ||erotiktreffen.net^
@@ -314119,6 +314124,7 @@
 ||euro-vintage.blogspot.com^
 ||euro.slingitbikinis.com^
 ||euro2china.com^
+||euroadult.org^
 ||euroadult.tophosts.com^
 ||euroadultflirt.com^
 ||euroadultsdirectory.com^
@@ -369144,6 +369150,7 @@
 ||fucksexy.com^
 ||fucksexybabe.homes^
 ||fucksexybabe.lat^
+||fucksexybabe.quest^
 ||fucksexybabes.beauty^
 ||fucksexybabes.biz^
 ||fucksexybabes.buzz^
@@ -369799,6 +369806,7 @@
 ||fuckxxxvideo.com^
 ||fuckxxxvideos.com^
 ||fuckxxxvideos.pro^
+||fuckxxxx.beauty^
 ||fuckxxxx.buzz^
 ||fuckxxxx.com^
 ||fuckxxxx.help^
@@ -382134,6 +382142,7 @@
 ||gay.mores.one^
 ||gay.musclebear.photos^
 ||gay.my-trendy-videos.workers.dev^
+||gay.nemuri.dpdns.org^
 ||gay.net^
 ||gay.nigga.dev^
 ||gay.nl^
@@ -385817,6 +385826,7 @@
 ||gaydevo.click^
 ||gaydexterworld.tumblr.com^
 ||gaydf.com.mx^
+||gaydh.top^
 ||gaydhacssar.blogspot.com^
 ||gaydhaka.com^
 ||gaydi208.club^
@@ -389693,6 +389703,7 @@
 ||gayming.gay^
 ||gayming.online^
 ||gayminghq.net^
+||gaymingle.online^
 ||gayminiblog.tumblr.com^
 ||gayminion.com^
 ||gayminivideos.tumblr.com^
@@ -394757,6 +394768,7 @@
 ||gaysupperapp.beauty^
 ||gaysupperapp.beer^
 ||gaysupperapp.boats^
+||gaysupperapp.bond^
 ||gaysupperapp.buzz^
 ||gaysupperapp.casa^
 ||gaysupperapp.cfd^
@@ -394790,6 +394802,7 @@
 ||gaysupperhq.boats^
 ||gaysupperhq.bond^
 ||gaysupperhq.buzz^
+||gaysupperhq.casa^
 ||gaysupperhq.cfd^
 ||gaysupperhq.click^
 ||gaysupperhq.courses^
@@ -394797,6 +394810,7 @@
 ||gaysupperhq.forum^
 ||gaysupperhq.garden^
 ||gaysupperhq.homes^
+||gaysupperhq.lat^
 ||gaysupperhq.lifestyle^
 ||gaysupperhq.living^
 ||gaysupperhq.lol^
@@ -394868,6 +394882,7 @@
 ||gaysupperlabs.mom^
 ||gaysupperlabs.motorcycles^
 ||gaysupperlabs.online^
+||gaysupperlabs.pics^
 ||gaysupperlabs.quest^
 ||gaysupperlabs.rest^
 ||gaysupperlabs.sbs^
@@ -423515,6 +423530,7 @@
 ||gvfspj2009.blogspot.com^
 ||gvfuck.gay^
 ||gvgayedz.cyou^
+||gvgoy.gay^
 ||gvh741.sbs^
 ||gvh862.sbs^
 ||gvhot.club^
@@ -428671,6 +428687,7 @@
 ||haosexs30.sbs^
 ||haosexs31.sbs^
 ||haosexs32.sbs^
+||haosexs34.sbs^
 ||haosexs4.sbs^
 ||haosexs5.sbs^
 ||haosexs6.sbs^
@@ -434692,6 +434709,7 @@
 ||hd-sextv.com^
 ||hd-sextv.net^
 ||hd-sexvideos.net^
+||hd-sexx.beauty^
 ||hd-sexx.biz^
 ||hd-sexx.buzz^
 ||hd-sexx.help^
@@ -436828,6 +436846,7 @@
 ||hdsvideo.com^
 ||hdswingersmn.tumblr.com^
 ||hdswwqq1.cyou^
+||hdsxyporn.homes^
 ||hdsxyprn.beauty^
 ||hdsxyprn.biz^
 ||hdsxyprn.com^
@@ -457803,6 +457822,7 @@
 ||hot-milfs.info^
 ||hot-milfs.lat^
 ||hot-milfs.net^
+||hot-milfs.quest^
 ||hot-milfs.xyz^
 ||hot-milfs21.tumblr.com^
 ||hot-military-men-for-u.tumblr.com^
@@ -473041,6 +473061,7 @@
 ||hxgj10086.com^
 ||hxgjlx.cn^
 ||hxgkgsw.com^
+||hxhamster.online^
 ||hxhani.com^
 ||hxhjdl.com^
 ||hxhpmj.com^
@@ -489177,6 +489198,8 @@
 ||intersexpersonals.com^
 ||intersexporn.com^
 ||intersexrecognition.org^
+||intersexual.net^
+||intersexual.net.interdosug.com^
 ||intersexual.online^
 ||intersexual.online.interdosug.com^
 ||intersexual.ru.interdosug.com^
@@ -492073,6 +492096,7 @@
 ||isitworthjoining.com^
 ||isiu99.com^
 ||isj085.sbs^
+||isjacobwilliamsgay.com^
 ||isjaydangaytoday.com^
 ||isjerkingoffbadforyou.blogspot.com^
 ||isjoegay.com^
@@ -495687,6 +495711,7 @@
 ||izinporno.shop^
 ||izinporno1.shop^
 ||izinporno1a.shop^
+||izinporno5.shop^
 ||izinpornoa.shop^
 ||izis.free.fr^
 ||izisex.net^
@@ -499981,28 +500006,3 @@
 ||japonfilmizle13.com^
 ||japonfilmizle2.cc^
 ||japonfilmizle3.cc^
-||japonfilmizle4.cc^
-||japonfilmleri.com^
-||japonfilmleri.net^
-||japonfripon.free.fr^
-||japonicporn.com^
-||japonicsex.com^
-||japonoporno.top^
-||japonporn.com^
-||japonporn.top^
-||japonporn24.com^
-||japonsex.dnip.net^
-||japonsex.shop^
-||japonsexul.tumblr.com^
-||japontubes.top^
-||japontubes24.com^
-||japonxxx.com^
-||japonxxxporn.com^
-||japonxxxporn365.com^
-||japorn.info^
-||japorn.tv^
-||japornbdsm.blogspot.com^
-||japorndl.com^
-||japornese.com^
-||japorno.net^
-||japornpics.com^
