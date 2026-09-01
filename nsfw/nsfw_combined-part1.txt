@@ -2,8 +2,8 @@
 ! Title: !  Cribrum NSFW (part 1)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20260831
-! Last modified: August 31, 2026
+! Version: 20260901
+! Last modified: September 01, 2026
 ! Entries: 500000
 
 ||0----q.tumblr.com^
@@ -6670,6 +6670,7 @@
 ||1778666.com^
 ||1778mao.com^
 ||177edu.com^
+||177oo.com^
 ||177pic.info^
 ||177pic.top^
 ||177pica.com^
@@ -6689,6 +6690,7 @@
 ||178evakuator178.ru^
 ||178sao.com^
 ||178shangan.com^
+||178va.com^
 ||17911.cc^
 ||1799.net.cn^
 ||1799.ws^
@@ -6699,7 +6701,10 @@
 ||179love.com^
 ||179lxw.com^
 ||179na.com^
+||179pp.com^
+||179qs.com^
 ||179soso.com^
+||179vb.com^
 ||179xe.com^
 ||179ym.com^
 ||17aha.com^
@@ -6782,6 +6787,7 @@
 ||17cxxx.com^
 ||17daiyun.com^
 ||17dazi.com^
+||17ddd.com^
 ||17didi.com.cn^
 ||17dodeh1c.sld75.buzz^
 ||17dq.com^
@@ -6832,6 +6838,7 @@
 ||17lb43cnh8ec26.tjs97.xyz^
 ||17lieqi.cn^
 ||17liulan.com^
+||17live.club^
 ||17live.com^
 ||17live.nl^
 ||17livesex.nl^
@@ -89735,7 +89742,6 @@
 ||any-who.com^
 ||any-xxx.com^
 ||any.com.ua^
-||any.gay^
 ||any.gs^
 ||any.webcam^
 ||any6.com^
@@ -253468,6 +253474,7 @@
 ||dbhs1987.com^
 ||dbi154.sbs^
 ||dbi936.sbs^
+||dbisok.com^
 ||dbjm8888.com^
 ||dbjsg.com^
 ||dbjt789.com.cn^
@@ -470276,6 +470283,7 @@
 ||huf-fuck.tumblr.com^
 ||huf887.com^
 ||hufaedu.com^
+||hufeee.com^
 ||hufeef.com.cn^
 ||hufei168.com^
 ||huffamoose.com^
@@ -490458,7 +490466,10 @@
 ||ipodvideo.com^
 ||ipoindex.ru^
 ||ipola.ru^
+||iponel.cc^
 ||iponel.net^
+||iponel.one^
+||iponel.top^
 ||iponk3xxx.pages.dev^
 ||ipoonline.ru^
 ||ipoop4u.tumblr.com^
@@ -499995,14 +500006,3 @@
 ||japonav.com^
 ||japonesasdesnudas.com.ar^
 ||japonesasfollando.com^
-||japonesasgostosasesc.blogspot.com^
-||japonesasgratis.blogspot.com^
-||japonesaslindasnuabucetapelada.blogspot.com^
-||japonesasxxx.net^
-||japonesax.com^
-||japonescort.com^
-||japonesinhas.com^
-||japonfilmizle.cc^
-||japonfilmizle13.com^
-||japonfilmizle2.cc^
-||japonfilmizle3.cc^
