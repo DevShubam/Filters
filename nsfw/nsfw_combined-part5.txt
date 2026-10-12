@@ -2,10 +2,155 @@
 ! Title: !  Cribrum NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20261011
-! Last modified: October 11, 2026
-! Entries: 38608
+! Version: 20261012
+! Last modified: October 12, 2026
+! Entries: 38775
 
+||xtube6.com^
+||xtube69.com^
+||xtube69.xyz^
+||xtube99.blogspot.com^
+||xtubebbw.com^
+||xtubebdsm.com^
+||xtubeboys.canalblog.com^
+||xtubecams.com^
+||xtubecinema.top^
+||xtubeclips.com^
+||xtubee.blogspot.com^
+||xtubef.com^
+||xtubefilms.com^
+||xtubefree.net^
+||xtubefuck.com^
+||xtubegalore.net^
+||xtubegalorex.blogspot.com^
+||xtubegene.tumblr.com^
+||xtubegirls.com^
+||xtubehd.blogspot.com^
+||xtubehd.net^
+||xtubehentai.com^
+||xtubeindian.com^
+||xtubelive.tk^
+||xtubemate.com^
+||xtubemature.com^
+||xtubemax.biz^
+||xtubemax.com^
+||xtubemax.vip^
+||xtubemax.xyz^
+||xtubemoms.com^
+||xtubemovies.com^
+||xtubemovies.info^
+||xtubenow.com^
+||xtubeparadise.com^
+||xtubeporn.com.es^
+||xtubeporn.net^
+||xtubeporn.site^
+||xtubepornmovies.com^
+||xtubeporno.net^
+||xtubepornx.com^
+||xtubes.org^
+||xtubes.tv^
+||xtubeth.blogspot.com^
+||xtubetv.pro^
+||xtubetv.ru^
+||xtubetv.xyz^
+||xtubeuk.com^
+||xtubevideo.info^
+||xtubevideos.com^
+||xtubeworld.com^
+||xtubex.xyz^
+||xtubexxx.com^
+||xtubexxx.net^
+||xtubez.com^
+||xtubezone.com^
+||xtubi.com^
+||xtubly.com^
+||xtubp.vip^
+||xtudoonline.net^
+||xtudr.com^
+||xtudt.tumblr.com^
+||xtug.net^
+||xtumax.com^
+||xtumblr.org^
+||xtumblrhottiesx.tumblr.com^
+||xtumeng.com^
+||xtumlbrhottiesx.tumblr.com^
+||xtun.net^
+||xtun.pro^
+||xturkoporn.blogspot.com^
+||xturkpornolarizle.blogspot.com^
+||xturkpornosu.blogspot.com^
+||xtusubs.com^
+||xtuyen.com^
+||xtuz.ru^
+||xtv-com.blogspot.com^
+||xtv.nl^
+||xtvgg.cn^
+||xtvibx.cn^
+||xtvid.com^
+||xtvme.com^
+||xtvporn.com^
+||xtvporn.xyz^
+||xtvq.com^
+||xtvtv.com^
+||xtw045.sbs^
+||xtw53.top^
+||xtwcgy.com^
+||xtwdpx.com^
+||xtwedu.com^
+||xtwhd.cn^
+||xtwinkgayporn.com^
+||xtwinkmovies.com^
+||xtwinkporn.com^
+||xtwinks.com^
+||xtwinks.me^
+||xtwinktube.com^
+||xtwinkvideos.com^
+||xtwisted.com^
+||xtwotails.tumblr.com^
+||xtxfld.com^
+||xtxjx.com^
+||xtxxx.com^
+||xtygy.com^
+||xtyjzzxxx.com^
+||xtylerjreedx.com^
+||xtynaaa.tumblr.com^
+||xtyxt.com^
+||xtzadultgames.com^
+||xtzfsl.com^
+||xtzhilong.com^
+||xu-ya.com^
+||xu009.sbs^
+||xu2.top^
+||xu219.cn^
+||xu251278839.com.cn^
+||xu548.sbs^
+||xu660.com^
+||xu741.sbs^
+||xu78.sbs^
+||xu88.sbs^
+||xu94.one^
+||xu986.sbs^
+||xua518.sbs^
+||xua959.sbs^
+||xuaiming.com^
+||xuancaiit.com^
+||xuanchang4.com.cn^
+||xuanchuanzhanshi.com^
+||xuancunpin.com^
+||xuanerlove.com^
+||xuanerte.com.cn^
+||xuanfuchan.cn^
+||xuangestair.com^
+||xuangsoft.com^
+||xuanhuanxsw.com^
+||xuanlili.cn^
+||xuanlongtang.com^
+||xuanmagg.com^
+||xuanpai520.com^
+||xuanqi-toy.com^
+||xuanqiaohz.com^
+||xuantianzhi.com^
+||xuantinh.com^
 ||xuantrade.com^
 ||xuanwawahufu.com.cn^
 ||xuanweibag.com^
@@ -289,6 +434,7 @@
 ||xv09.top^
 ||xv1.org^
 ||xv132.cc^
+||xv155.com^
 ||xv1ds.blogspot.com^
 ||xv2.com.cn^
 ||xv2.top^
@@ -1734,6 +1880,7 @@
 ||xvixeos.com^
 ||xvizi.com^
 ||xvizio.com^
+||xvjav.com^
 ||xvkvlxnakedporn.blogspot.com^
 ||xvkxnakedvlpornx.blogspot.com^
 ||xvlaw.com^
@@ -2338,6 +2485,7 @@
 ||xxb-mobi.crazyporn.org^
 ||xxb-mobi.improvsex.net^
 ||xxb.mobi^
+||xxb488.com^
 ||xxbabesbabes.blog.excite.it^
 ||xxbabylaurenxoxo.tumblr.com^
 ||xxbansheexx.tumblr.com^
@@ -2924,6 +3072,7 @@
 ||xxnepali.blogspot.com^
 ||xxnet111.com^
 ||xxnet111.xyz^
+||xxnet20.com^
 ||xxnet888.com^
 ||xxnet999.com^
 ||xxngayvids.click^
@@ -11590,6 +11739,7 @@
 ||xxxoze.com^
 ||xxxozilla.beauty^
 ||xxxozilla.homes^
+||xxxozilla.lat^
 ||xxxozilla.quest^
 ||xxxozilla.xyz^
 ||xxxp.eu.cc^
@@ -15510,6 +15660,7 @@
 ||xxxx-faithful.sadist.jp^
 ||xxxx-files.blogspot.com^
 ||xxxx-free.beauty^
+||xxxx-free.bond^
 ||xxxx-free.buzz^
 ||xxxx-free.homes^
 ||xxxx-free.lat^
@@ -15630,6 +15781,7 @@
 ||xxxx85throad.com^
 ||xxxx85throadn.com^
 ||xxxx86throadn.com^
+||xxxx88.buzz^
 ||xxxx88.help^
 ||xxxx88.info^
 ||xxxx88.lat^
@@ -15887,6 +16039,7 @@
 ||xxxxorgy.homes^
 ||xxxxorgy.lat^
 ||xxxxorgy.mom^
+||xxxxorgy.online^
 ||xxxxorgy.quest^
 ||xxxxorgy.xyz^
 ||xxxxozilla.beauty^
@@ -17790,6 +17943,7 @@
 ||yangcheyoudao.com^
 ||yangde168.com^
 ||yangex.ru^
+||yangfuyuyangnvdeai.net.cn^
 ||yanggangwomen.com^
 ||yanggsh.com^
 ||yanggu114.com^
@@ -20402,6 +20556,7 @@
 ||yfxyjz.com^
 ||yfxzyz.com^
 ||yfygtcl.cn^
+||yfyhg.cn^
 ||yfyijxq.top^
 ||yfyjz.cn^
 ||yfyqhb.com^
@@ -20853,6 +21008,7 @@
 ||yige.ren^
 ||yigeconsulting.com^
 ||yigemeng.com.cn^
+||yigeqizidizhenshizishubiji.net.cn^
 ||yigewangzhi.cc^
 ||yigewangzhi.xyz^
 ||yigiam.icu^
@@ -20886,6 +21042,7 @@
 ||yihoushun.com^
 ||yihporn.com^
 ||yihun5.com^
+||yihunfuntouchiweihunnanhuichangjiuma.net.cn^
 ||yii-china.org^
 ||yijav.com^
 ||yijia198.com^
@@ -21110,6 +21267,7 @@
 ||yinhexxxx.com^
 ||yinhufuli.lol^
 ||yinhuiav1.com^
+||yinhuilib.cn^
 ||yinichina.com^
 ||yiniub1.site^
 ||yinjingtebo.com^
@@ -21798,6 +21956,7 @@
 ||ylssh.sbs^
 ||ylstone.com.cn^
 ||ylsynet.com^
+||ylt1.cn^
 ||ylt120.sbs^
 ||yltbjnz.cn^
 ||yltmkq.com^
@@ -23114,6 +23273,7 @@
 ||youjavhd.blogspot.com^
 ||youjavporn.com^
 ||youjiakq.com^
+||youjiao365.cn^
 ||youjiaoplus.com^
 ||youjiazhenxuan.com^
 ||youjicy.com^
@@ -27253,6 +27413,7 @@
 ||youxnxxporn.pics^
 ||youxnxxporn.video^
 ||youxnxxporn.xyz^
+||youxnxxprn.homes^
 ||youxnxxpron.beauty^
 ||youxnxxpron.buzz^
 ||youxnxxpron.help^
@@ -29717,6 +29878,7 @@
 ||yxjdtc.com.cn^
 ||yxjiahua.com.cn^
 ||yxjjxbz.com^
+||yxjycy.cn^
 ||yxkfb.cn^
 ||yxkkw.com^
 ||yxkoott.cn^
@@ -32787,6 +32949,7 @@
 ||zhangpenghua.com^
 ||zhangsanwei.com^
 ||zhangshakefeng.com^
+||zhangshangmingzhuxiefudinvnpc.org.cn^
 ||zhangshangtudi.com^
 ||zhangshangyuewen.com^
 ||zhangshengmen.cn^
@@ -33172,6 +33335,7 @@
 ||zhidovinovicihy.blogspot.com^
 ||zhienwang.com^
 ||zhienyouxue.com^
+||zhifang100.cn^
 ||zhifu4.com.cn^
 ||zhifu66.com^
 ||zhifuchina.com^
@@ -33336,6 +33500,7 @@
 ||zhizhihua.cn^
 ||zhizhu.vip^
 ||zhizhuankeji.com^
+||zhizhun8.cn^
 ||zhizihuan.com^
 ||zhizihudong.com^
 ||zhiznugra.ru^
@@ -33552,6 +33717,7 @@
 ||zhongwenzimuoumeichengrenmianfei.org.cn^
 ||zhongwenzimurijudianshijugaoqing.net.cn^
 ||zhongwenzimuyazhougaoqingzonghe.org.cn^
+||zhongwenzimuyongjiuzaixian1.net.cn^
 ||zhongwenzimuyoumazaixianbofang.org.cn^
 ||zhongwenzimuzaixianguankanrihan.org.cn^
 ||zhongwenzimuzaixianoumeirihan1.org.cn^
@@ -38219,6 +38385,7 @@
 ||zz80818.com^
 ||zz830.com^
 ||zz872.com^
+||zz88z.cn^
 ||zz905.com^
 ||zz976.com^
 ||zz994.com^
