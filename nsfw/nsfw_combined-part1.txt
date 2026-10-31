@@ -2,8 +2,8 @@
 ! Title: !  Cribrum NSFW (part 1)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20261030
-! Last modified: October 30, 2026
+! Version: 20261031
+! Last modified: October 31, 2026
 ! Entries: 500000
 
 ||0----q.tumblr.com^
@@ -10157,6 +10157,7 @@
 ||1lonewolff.tumblr.com^
 ||1lottery.icu^
 ||1love2.com^
+||1love2.ru^
 ||1loveasiangirls.tumblr.com^
 ||1lovecards.com^
 ||1lovefinder.com^
@@ -17896,6 +17897,7 @@
 ||353u.com^
 ||353uu.com^
 ||353xe.com^
+||3543.com.cn^
 ||354e.com^
 ||354gg.com^
 ||354ll.com^
@@ -23197,6 +23199,7 @@
 ||4d2.top^
 ||4d3bwb.garden^
 ||4d5.top^
+||4d6z.com^
 ||4d7fef.garden^
 ||4daitop.cc^
 ||4daluvofbruthas.tumblr.com^
@@ -23519,6 +23522,7 @@
 ||4hq.org^
 ||4hq0a4s.cn^
 ||4hqporn.com^
+||4htv789.cc^
 ||4hu.app^
 ||4hu.icu^
 ||4hu.me^
@@ -23687,6 +23691,7 @@
 ||4hu39t.com^
 ||4hu39u.com^
 ||4hu39x.com^
+||4hu4.cc^
 ||4hu41a.com^
 ||4hu41e.com^
 ||4hu41j.com^
@@ -23914,6 +23919,7 @@
 ||4kav-iizo.com^
 ||4kaz66.garden^
 ||4kb.ru^
+||4kbb.com^
 ||4kbbwporn.xyz^
 ||4kbdsm.com^
 ||4kbeaver.com^
@@ -23944,6 +23950,7 @@
 ||4kgq6.casa^
 ||4kgq9.buzz^
 ||4kgq9.pics^
+||4kh9.com^
 ||4khd.com^
 ||4khdporn.shop^
 ||4khdporn.xyz^
@@ -29799,6 +29806,7 @@
 ||671tt.com^
 ||671yu.com^
 ||6723.info^
+||672610.com^
 ||672dd.com^
 ||672gg.com^
 ||672jj.com^
@@ -37384,6 +37392,7 @@
 ||916xe.com^
 ||917.xxx^
 ||917517.com^
+||9177.com.cn^
 ||9177tv.com^
 ||917cx.com^
 ||917gg.com^
@@ -40993,6 +41002,7 @@
 ||9k2f.com^
 ||9k4.top^
 ||9k4x78.garden^
+||9k6mny.wtbh42.pics^
 ||9k7f8d.garden^
 ||9k88x.com^
 ||9k999sextou.com^
@@ -49180,6 +49190,7 @@
 ||adktrailmap.com^
 ||adlandxxxebland.shop^
 ||adlbooks.com^
+||adlefee.com.cn^
 ||adlelyne1134.tumblr.com^
 ||adler-dd.info^
 ||adler-igd.info^
@@ -50706,6 +50717,7 @@
 ||adult-index.com^
 ||adult-index.de^
 ||adult-index.jp^
+||adult-index2.jp^
 ||adult-indian-tube.com^
 ||adult-indie-productions.tumblr.com^
 ||adult-indigo.blogspot.com^
@@ -95453,6 +95465,7 @@
 ||aqvarivs.tumblr.com^
 ||aqx7829.com^
 ||aqxmiz.net.cn^
+||aqxsp.cc^
 ||aqxysp.com^
 ||aqy696.sbs^
 ||aqy733.sbs^
@@ -97850,6 +97863,7 @@
 ||arrosee.over-blog.com^
 ||arrotoquadrinhos.com^
 ||arrow-y.jp^
+||arrowdom.com^
 ||arrowers-cmci9.blogspot.com^
 ||arrowghost.blogspot.com^
 ||arrowheadtravelplaza.com^
@@ -125251,6 +125265,7 @@
 ||bbmjzs.com^
 ||bbmogfo.garden^
 ||bbmoxxxii.tumblr.com^
+||bbmt.com.cn^
 ||bbnaav1.com^
 ||bbnaked.com^
 ||bbnbj.tumblr.com^
@@ -160911,6 +160926,7 @@
 ||bminfosoft.com^
 ||bmit.com.br^
 ||bmitchellxxx.tumblr.com^
+||bmk14.com^
 ||bmk88.com^
 ||bmkar.com^
 ||bmlii.cn^
@@ -161077,6 +161093,7 @@
 ||bndmpsjx.com^
 ||bndskr0802.tumblr.com^
 ||bndsm.com^
+||bndvb.com^
 ||bndvc.com^
 ||bndvg.com^
 ||bnedgg.com^
@@ -163707,6 +163724,7 @@
 ||bokupotya-kk.com^
 ||bokupotya-n.com^
 ||bokurano-music.com^
+||bokus2kimi.com^
 ||bokva.com^
 ||bokwehs.com^
 ||bol.tumblr.com^
@@ -229547,6 +229565,7 @@
 ||cnzhwy.com^
 ||cnziben.com^
 ||cnziyantech.com^
+||cnzjhl.com^
 ||cnzjxd.com^
 ||cnzmjob.com^
 ||cnzsc.net.cn^
@@ -252360,6 +252379,7 @@
 ||czjhrc.com^
 ||czjialu.com^
 ||czjingde.com^
+||czjjg.com.cn^
 ||czjqjx.cn^
 ||czjqts.com^
 ||czjsbj.com^
@@ -266194,6 +266214,7 @@
 ||desibabaindia.com^
 ||desibabamovies.com^
 ||desibabaonittime.blogspot.com^
+||desibabe.co^
 ||desibabe.io^
 ||desibabe.net^
 ||desibabe.to^
@@ -266247,8 +266268,10 @@
 ||desibp.cfd^
 ||desibp.city^
 ||desibp.com^
+||desibp.com.de^
 ||desibp.com.im^
 ||desibp.com.in^
+||desibp.forum^
 ||desibp.im^
 ||desibp.info^
 ||desibp.info.in^
@@ -266259,6 +266282,7 @@
 ||desibp.world^
 ||desibp1.com^
 ||desibp2.com^
+||desibp2.deals^
 ||desicallboy-hindisexstories.blogspot.com^
 ||desicamgirls.com^
 ||desicamlive.com^
@@ -266595,6 +266619,7 @@
 ||desimasalaindia.blogspot.com^
 ||desimasalavideos.com^
 ||desimastikahani.blogspot.com^
+||desimaza.net^
 ||desimaza7.watch^
 ||desimaza8.watch^
 ||desimazavideos1.blogspot.com^
@@ -279704,6 +279729,7 @@
 ||dlloco.tumblr.com^
 ||dllrprivatemembers.netfirms.com^
 ||dllvsexiang.com^
+||dllx.com.cn^
 ||dllxbj.com^
 ||dlm186.sbs^
 ||dlm738.sbs^
@@ -291950,6 +291976,7 @@
 ||dyadult.com^
 ||dyahsmooth.blogspot.com^
 ||dyams.over-blog.com^
+||dyan.cc^
 ||dyannarose.com^
 ||dyav7.com^
 ||dyav9.com^
@@ -337677,6 +337704,7 @@
 ||fbhetaliareviews.tumblr.com^
 ||fbhexa.com^
 ||fbhj.cc^
+||fbhn.com.cn^
 ||fbhyrguz.xyz^
 ||fbi-girl-s.skyblog.com^
 ||fbi-report.com^
@@ -374309,6 +374337,7 @@
 ||fslvao.com^
 ||fslxgc.com^
 ||fslyjbyfz.com^
+||fslzy.com.cn^
 ||fsmature.blogspot.com^
 ||fsmcy.com^
 ||fsmh.cc^
@@ -427101,6 +427130,7 @@
 ||gqrav.top^
 ||gqrbox.top^
 ||gqrcn.top^
+||gqrf.com.cn^
 ||gqrhub.top^
 ||gqrjav.top^
 ||gqrnum.top^
@@ -433274,6 +433304,7 @@
 ||guarrasblog.com^
 ||guarrasdeldia.com^
 ||guarrasdelporno.com^
+||guarrasdelporno.net^
 ||guarrasdelporno.xxx^
 ||guarrasdesnudas.com^
 ||guarrasdetodoelmundo.blogspot.com^
@@ -453462,6 +453493,7 @@
 ||hentai20.me^
 ||hentai20.online^
 ||hentai20.org^
+||hentai20.pro^
 ||hentai20.us^
 ||hentai222.com^
 ||hentai24.net^
@@ -458936,6 +458968,7 @@
 ||highandtightpussyonly.tumblr.com^
 ||highandvid.blogspot.com^
 ||highandwett.tumblr.com^
+||higharchedfeet.net^
 ||higharchedfeetlover.tumblr.com^
 ||highasianporn.com^
 ||highbabes.de^
@@ -482173,6 +482206,7 @@
 ||hqgjpp.com^
 ||hqgkj.com^
 ||hqglamour.com^
+||hqgm.com.cn^
 ||hqgram.com^
 ||hqgrandmatube.com^
 ||hqgranny.com^
@@ -499972,37 +500006,3 @@
 ||indiansexstories2019.blogspot.com^
 ||indiansexstories2021.com^
 ||indiansexstories3.co^
-||indiansexstories3.com^
-||indiansexstories3.site^
-||indiansexstories4.com^
-||indiansexstories4u.blogspot.com^
-||indiansexstories4u.com^
-||indiansexstories69.blogspot.com^
-||indiansexstoriesblog.blogspot.com^
-||indiansexstorieshub.com^
-||indiansexstoriesimages.blogspot.com^
-||indiansexstoriesss.blogspot.com^
-||indiansexstoriestube.net^
-||indiansexstoriesx.blogspot.com^
-||indiansexstory.online^
-||indiansexstory.xyz^
-||indiansexstorymovies.com^
-||indiansextales.com^
-||indiansextalk.com^
-||indiansextalk.staging.5psolutions.eu^
-||indiansexteacher.com^
-||indiansextories2.net^
-||indiansextoy.com^
-||indiansextoys.com^
-||indiansextube.biz^
-||indiansextube.net^
-||indiansextube.org^
-||indiansextube.pro^
-||indiansextube4u.com^
-||indiansextubes.net^
-||indiansextubes.xyz^
-||indiansexualstories.blogspot.com^
-||indiansexuncle.blogspot.com^
-||indiansexuniversity.com^
-||indiansexup.com^
-||indiansexvideo.baby^
