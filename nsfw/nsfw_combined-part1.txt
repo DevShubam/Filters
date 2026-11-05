@@ -2,8 +2,8 @@
 ! Title: !  Cribrum NSFW (part 1)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20261104
-! Last modified: November 04, 2026
+! Version: 20261105
+! Last modified: November 05, 2026
 ! Entries: 500000
 
 ||0----q.tumblr.com^
@@ -33542,6 +33542,8 @@
 ||7dakporno64.shop^
 ||7dakporno65.click^
 ||7dakporno66.click^
+||7dakporno67.click^
+||7dakporno68.click^
 ||7dakporno69.shop^
 ||7dakporno7.click^
 ||7dakporno7.shop^
@@ -38039,6 +38041,7 @@
 ||91porn.fish^
 ||91porn.fit^
 ||91porn.fm^
+||91porn.food^
 ||91porn.forum^
 ||91porn.free^
 ||91porn.ftp.sh^
@@ -38477,6 +38480,8 @@
 ||91porna91.com^
 ||91porna92.com^
 ||91pornaa.com^
+||91pornaaiduanju.com^
+||91pornaaiduanjuapp.com^
 ||91pornal.cc^
 ||91pornalaoer.pages.dev^
 ||91pornapp.cc^
@@ -38702,6 +38707,7 @@
 ||91porny98.top^
 ||91pornyc.cc^
 ||91pornyi.com^
+||91pornyi.wiki^
 ||91pornyv.wiki^
 ||91pornz.cc^
 ||91pornz.net^
@@ -51909,6 +51915,7 @@
 ||adult.am^
 ||adult.any-sketch.com^
 ||adult.artmam.net^
+||adult.asmrsearch.com^
 ||adult.asoku.net^
 ||adult.aust.com^
 ||adult.avyh365.pw^
@@ -53364,6 +53371,7 @@
 ||adultclimax.com^
 ||adultclimax.dazzle.dev.nemesis.ro^
 ||adultclimax.dev.nemesis.ro^
+||adultclip-jp.com^
 ||adultclip.com^
 ||adultclip.it^
 ||adultclip.ning.com^
@@ -63963,6 +63971,7 @@
 ||aibianse.com^
 ||aibianse.github.io^
 ||aibigcockman.tumblr.com^
+||aibigtitsporn.com^
 ||aibijin.com^
 ||aibimov.cc^
 ||aibingni.com^
@@ -64157,8 +64166,10 @@
 ||aidurizhi.cn^
 ||aidushu.org.cn^
 ||aidyb.com^
+||aiebonyporn.com^
 ||aiecarambar.free.fr^
 ||aieisoft.com^
+||aielfporn.com^
 ||aiemrffkovqphhx.blogspot.com^
 ||aienhancedporn.love^
 ||aienhancedporn.pw^
@@ -64217,6 +64228,7 @@
 ||aifirstslut.com^
 ||aifmworld.com^
 ||aifode.com^
+||aifootfetish.com^
 ||aiforporn.love^
 ||aiforporn.pw^
 ||aiforporn.site^
@@ -64387,6 +64399,7 @@
 ||aiglbleu.canalblog.com^
 ||aigleprincess.nl^
 ||aiglosoft.com^
+||aigothporn.com^
 ||aigrannyporn.love^
 ||aigrannyporn.pw^
 ||aigrannyporn.site^
@@ -64566,6 +64579,7 @@
 ||ailesbian.cam^
 ||ailesbianporn.com^
 ||ailesbianporn.love^
+||ailesbianporn.tv^
 ||ailewuhome.com^
 ||ailexxx.com^
 ||ailifan.xyz^
@@ -64613,6 +64627,7 @@
 ||aimant.free.fr^
 ||aimarketchina.com^
 ||aimashi-cn.com^
+||aimatureporn.com^
 ||aimatureporn.love^
 ||aimayangzhi.com^
 ||aimbuffchina.com^
@@ -64796,6 +64811,7 @@
 ||aipanhome.com^
 ||aipanicbutton.com^
 ||aipaperhelp.com^
+||aipawgporn.com^
 ||aipcoin.com^
 ||aipdaily.com^
 ||aipeeps.com^
@@ -65432,8 +65448,10 @@
 ||aipornreddit.love^
 ||aipornreddit.pw^
 ||aipornreddit.site^
+||aipornreels.tv^
 ||aipornrender.com^
 ||aipornreview.com^
+||aipornreview.net^
 ||aipornreviews.com^
 ||aipornreviews.info^
 ||aipornreviews.link^
@@ -65455,6 +65473,8 @@
 ||aipornshemale.com^
 ||aipornsherif.com^
 ||aipornshorts.net^
+||aipornshorts.tv^
+||aipornshortscandy.com^
 ||aipornshortseries.com^
 ||aipornsimulatorpro.com^
 ||aipornsite.love^
@@ -65561,6 +65581,7 @@
 ||aipornvideos.wiki^
 ||aipornvideosgenerator.com^
 ||aipornvideospro.com^
+||aipornvideotube.com^
 ||aipornvids.love^
 ||aipornvids.online^
 ||aipornvids.pw^
@@ -66110,8 +66131,10 @@
 ||aissellespoilues.com^
 ||aisshe.com^
 ||aistance.cn^
+||aistepmomporn.com^
 ||aisthima.gr^
 ||aisths.cc^
+||aistoryporn.com^
 ||aistudio.pics^
 ||aistv.top^
 ||aisuccubuspornpic.love^
@@ -66154,8 +66177,11 @@
 ||aitoolsrhsa.com^
 ||aitop.cyou^
 ||aitrackpro.link^
+||aitransporn.art^
 ||aitransporn.chat^
 ||aitransporn.love^
+||aitransporn.onl^
+||aitransporn.online^
 ||aitransporn.org^
 ||aitransporn.org.hentaiai.org^
 ||aitransporn.pw^
@@ -74412,11 +74438,13 @@
 ||altyazilipornocugun.cfd^
 ||altyazilipornoda.cfd^
 ||altyazilipornodur.shop^
+||altyazilipornofilmi.info^
 ||altyazilipornofilmi.shop^
 ||altyazilipornohd.cfd^
 ||altyazilipornoizle.shop^
 ||altyazilipornoizlehot.com^
 ||altyazilipornoizler.club^
+||altyazilipornoizleturk.online^
 ||altyazilipornoizlex.online^
 ||altyazilipornokoleksiyon.shop^
 ||altyazilipornokutup.shop^
@@ -88810,6 +88838,7 @@
 ||anhsex.top^
 ||anhsex.us^
 ||anhsex18.com^
+||anhsex18.org^
 ||anhsex18vip.com^
 ||anhsex3d.com^
 ||anhsex88.xyz^
@@ -118853,6 +118882,7 @@
 ||baihengzx.com^
 ||baiheporn66.cc^
 ||baihewan.com^
+||baihgay.com.cn^
 ||baihmh.cc^
 ||baihtang.com^
 ||baihu0.cc^
@@ -121225,6 +121255,7 @@
 ||bangladeshisexvideo.guru^
 ||bangladeshisexvideo.hair^
 ||bangladeshisexvideo.life^
+||bangladeshisexvideo.shop^
 ||bangladeshisexvideo.vu^
 ||bangladeshisexvideo.watch^
 ||bangladeshisexvideo.xyz^
@@ -121317,6 +121348,7 @@
 ||banglasexvideos.life^
 ||banglasexvideos.lol^
 ||banglasexvideos.shop^
+||banglasexvideos.skin^
 ||banglasexvideos.world^
 ||banglasexwoman.blogspot.com^
 ||banglasexx.com^
@@ -129624,6 +129656,7 @@
 ||bdsmpornovideo.ru^
 ||bdsmpornp.com^
 ||bdsmpornphotos.com^
+||bdsmpornpics.com^
 ||bdsmpornpics.net^
 ||bdsmpornplus.com^
 ||bdsmpornpoint.com^
@@ -194547,6 +194580,7 @@
 ||candysexplay.com^
 ||candysexshop.com^
 ||candysexshop.nl^
+||candysexshorts.com^
 ||candyshack.com^
 ||candyshemales.com^
 ||candyshemaletube.com^
@@ -194558,6 +194592,7 @@
 ||candyshopstrippers.com^
 ||candyshopteens.com^
 ||candyshoptube.com^
+||candyshortporn.buzz^
 ||candyshortporn.com^
 ||candyshorts-porn.onl^
 ||candyshorts-xxx.onl^
@@ -194566,6 +194601,7 @@
 ||candyshortsaixxx.com^
 ||candyshortsexplicit.com^
 ||candyshortsporn-ai.com^
+||candyshortsporn.buzz^
 ||candyshortsporn.fyi^
 ||candyshortsporn.net^
 ||candyshortsporn.onl^
@@ -194574,6 +194610,7 @@
 ||candyshortspornseries.com^
 ||candyshortssex.onl^
 ||candyshortsxxx-ai.com^
+||candyshortsxxx.buzz^
 ||candyshortsxxx.com^
 ||candyshortsxxx.onl^
 ||candyshortsxxx.run^
@@ -195566,6 +195603,7 @@
 ||captainhardon64.tumblr.com^
 ||captainhomemadepornstuff.tumblr.com^
 ||captainhook92.tumblr.com^
+||captainhorny.com^
 ||captainhornyvirgin.tumblr.com^
 ||captainilovetgirls.tumblr.com^
 ||captaininnercollectiondream.tumblr.com^
@@ -231896,6 +231934,7 @@
 ||collar.club^
 ||collar.garden^
 ||collarbdsm.com^
+||collarbdsm.vip^
 ||collared-lilgirl.tumblr.com^
 ||collared-sluts.tumblr.com^
 ||collared.com^
@@ -255299,6 +255338,7 @@
 ||dailyxpower.com^
 ||dailyxvideo.com^
 ||dailyxvideos.com^
+||dailyxxx.blog^
 ||dailyxxx.ink^
 ||dailyxxxcoupon.com^
 ||dailyxxxdose.blogspot.com^
@@ -258830,6 +258870,7 @@
 ||datesexx-joinmee6-a8s.pages.dev^
 ||datesexx-joinmee7-79r.pages.dev^
 ||datesexx-joinmee8-679.pages.dev^
+||datesexy.com^
 ||datesexyjuliana.com^
 ||datesexysarah.com^
 ||datesexysingles.net^
@@ -266273,6 +266314,7 @@
 ||desimen.live^
 ||desimilf.click^
 ||desimilfporn.com^
+||desimilfs.click^
 ||desimms.asia^
 ||desimms.click^
 ||desimms.co.in^
@@ -270670,6 +270712,7 @@
 ||dicaribbeanhub.com^
 ||dicarlos.com^
 ||dicascd.blogspot.com^
+||dicasenoticiasexpress.site^
 ||dicasexpress.com.br^
 ||diccflix.com^
 ||diccflix.xxx^
@@ -276415,6 +276458,8 @@
 ||dirtyroullette.net^
 ||dirtyroulteet.com^
 ||dirtyroulwette.com^
+||dirtyroyale.com^
+||dirtyroyale.vip^
 ||dirtyrp.com^
 ||dirtyrullet.com^
 ||dirtysabi.com^
@@ -304984,6 +305029,7 @@
 ||eqlqhy.com.cn^
 ||eqmodels.com^
 ||eqmscrm.cn^
+||eqmtvcnp.cc^
 ||eqn257.sbs^
 ||eqo917.sbs^
 ||eqonzt.org.cn^
@@ -305090,6 +305136,7 @@
 ||era-platform.eu^
 ||era-szeged.fw.hu^
 ||era51.itch.io^
+||erabporn.com^
 ||eracalmit.szm.com^
 ||eracams.com^
 ||eracareers-uk.info^
@@ -313719,6 +313766,8 @@
 ||erotikclub11.cfd^
 ||erotikclub12.cfd^
 ||erotikclub13.cfd^
+||erotikclub14.cfd^
+||erotikclub15.cfd^
 ||erotikclub3.best^
 ||erotikclub30.pw^
 ||erotikclub43.pw^
@@ -339628,6 +339677,7 @@
 ||femalesexuality.org^
 ||femalesexualityfacts.com^
 ||femalesexvideos.com^
+||femalesexy.com^
 ||femalesexyfitness.tumblr.com^
 ||femalesexypics.com^
 ||femalesfornight.online^
@@ -349649,6 +349699,7 @@
 ||fimsex.blog^
 ||fimsex.me^
 ||fimsex.mobi^
+||fimsex.net^
 ||fimsex.org^
 ||fimsexjav.com^
 ||fimsexjav.xyz^
@@ -395898,6 +395949,7 @@
 ||gaydvdversand.com^
 ||gaydvdx.fr^
 ||gaydwdadwadaw.pages.dev^
+||gaydy.com.cn^
 ||gaydyna.tumblr.com^
 ||gaydzooks.com^
 ||gaye3n4d.top^
@@ -401030,6 +401082,7 @@
 ||gaypornclipsarea.click^
 ||gaypornclipsbase.click^
 ||gaypornclipscase.click^
+||gaypornclipscorner.click^
 ||gaypornclipscrate.click^
 ||gaypornclipsedge.click^
 ||gaypornclipshub.click^
@@ -411948,6 +412001,7 @@
 ||get-search.com^
 ||get-shemales.tumblr.com^
 ||get-spanked.co.uk^
+||get-stared-xxx.pages.dev^
 ||get-stockings.tumblr.com^
 ||get-sum196.tumblr.com^
 ||get-teased.ca^
@@ -416588,6 +416642,7 @@
 ||girlhentai.com^
 ||girlholdingit.tumblr.com^
 ||girlhorny-2pb.pages.dev^
+||girlhorny.com^
 ||girlhorsesex.site^
 ||girlhot.com^
 ||girlhotcams.tk^
@@ -447463,6 +447518,7 @@
 ||hdlwopnf.cc^
 ||hdlxq.com^
 ||hdm798.com^
+||hdmaal.adult^
 ||hdmaal.com^
 ||hdmaal.com.co^
 ||hdmaal.gg^
@@ -448265,6 +448321,8 @@
 ||hdpornoguru65.click^
 ||hdpornoguru66.click^
 ||hdpornoguru67.click^
+||hdpornoguru68.click^
+||hdpornoguru69.click^
 ||hdpornoguru7.click^
 ||hdpornoguru7.shop^
 ||hdpornoguru79.shop^
@@ -449186,6 +449244,7 @@
 ||hdxporno92.lat^
 ||hdxporno93.lat^
 ||hdxporno94.lat^
+||hdxporno96.lat^
 ||hdxpornoizle.com^
 ||hdxpornoizle.org^
 ||hdxporntube.com^
@@ -468326,6 +468385,7 @@
 ||hornyinasia.tumblr.com^
 ||hornyincestwarrior.tumblr.com^
 ||hornyinde.tumblr.com^
+||hornyindex.com^
 ||hornyindian.pages.dev^
 ||hornyindianbhabhi.com^
 ||hornyindiancouple.com^
@@ -475802,6 +475862,7 @@
 ||hotlyrics.org^
 ||hotm2mvideos2.blogspot.com^
 ||hotmaal.ac^
+||hotmaal.adult^
 ||hotmaal.co^
 ||hotmaal.com.co^
 ||hotmaal.gg^
@@ -477636,6 +477697,7 @@
 ||hotsex.nl^
 ||hotsex.one^
 ||hotsex.pro^
+||hotsex.quest^
 ||hotsex.startbewijs.nl^
 ||hotsex.startclub.nl^
 ||hotsex.startertjes.nl^
@@ -498462,6 +498524,7 @@
 ||indiangaysite.blog^
 ||indiangaysite.blogspot.com^
 ||indiangaysite.com^
+||indiangaysite.digital^
 ||indiangaysite.guru^
 ||indiangaysite.me^
 ||indiangaysite.mom^
@@ -499943,66 +500006,3 @@
 ||indomalay.blogspot.com^
 ||indomination.tumblr.com^
 ||indon-movie-porn.pages.dev^
-||indon3gpp.blogspot.com^
-||indonakedgirls.blogspot.com^
-||indonbokep.com.de^
-||indoneporn.blogspot.com^
-||indonesexs.blogspot.com^
-||indonesia-sexy-girls-model.blogspot.com^
-||indonesia18plus.blogspot.com^
-||indonesia2026.store^
-||indonesia2026.world^
-||indonesiaberlendir.shop^
-||indonesiabertempik.shop^
-||indonesiaescortshub.com^
-||indonesiaescortsmap.com^
-||indonesiaescortspage.com^
-||indonesiagaystory.blogspot.com^
-||indonesiagirlz.blogspot.com^
-||indonesian-adultsex.blogspot.com^
-||indonesian-porno.com^
-||indonesianescort.blogspot.com^
-||indonesianfotoporn.blogspot.com^
-||indonesiangirlblog.blogspot.com^
-||indonesiangirlsnude.blogspot.com^
-||indonesiangirlsonlycollection.blogspot.com^
-||indonesiangirlstube.com^
-||indonesianhdtube.com^
-||indonesianladies.com^
-||indonesiannudeblog.blogspot.com^
-||indonesianporn.com.es^
-||indonesianporn.net^
-||indonesianpornomovies.blogspot.com^
-||indonesianprivatarea.blogspot.com^
-||indonesianscatporn.com^
-||indonesiansex.com^
-||indonesiansex.net^
-||indonesiansexmovie.blogspot.com^
-||indonesiansexporn.blogspot.com^
-||indonesianviral.shop^
-||indonesiapleasure.com^
-||indonesiaporn.info^
-||indonesiaporn.monster^
-||indonesiaporn.name^
-||indonesiaporn.net^
-||indonesiaporn.pro^
-||indonesiapornvideos.com^
-||indonesiascatporn.com^
-||indonesiasexchat.com^
-||indonesiasexvideos.com^
-||indonesiasexy2011.blogspot.com^
-||indonesiaterbaru.world^
-||indonesiavideo.shop^
-||indonesiavideo.site^
-||indonesiavideo.world^
-||indonesiavideos.shop^
-||indonesiavideos.site^
-||indonesiavideos.world^
-||indonesiavideoviral.store^
-||indonesiaviral.asia^
-||indonesiaviral.online^
-||indonesiaviral.space^
-||indonesiaviral.store^
-||indonesiaviral.xyz^
-||indonesiaviral2026.site^
-||indonesiaviral2026.store^
