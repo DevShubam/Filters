@@ -2,10 +2,98 @@
 ! Title: !  Cribrum NSFW (part 5)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20261113
-! Last modified: November 13, 2026
-! Entries: 63094
+! Version: 20261114
+! Last modified: November 14, 2026
+! Entries: 63184
 
+||worldmkv.com^
+||worldmodeling.com^
+||worldmodels.xxx^
+||worldmodern.com^
+||worldmusicfests.com^
+||worldmysteries.tv^
+||worldnakedbikeride.org^
+||worldnakedbikeride2011.blogspot.com^
+||worldnewnews.com^
+||worldnewp.com^
+||worldnews.mylawsite.net^
+||worldnewshq.info^
+||worldnewstechs.com^
+||worldniche.com^
+||worldnude.homestead.com^
+||worldnudeday.com^
+||worldnudism.com^
+||worldnudism.org^
+||worldnudistarchive.com^
+||worldof-porn.blogspot.com^
+||worldofaltair.tumblr.com^
+||worldofamazingpenis.tumblr.com^
+||worldofap.com^
+||worldofasian.com^
+||worldofbi.com^
+||worldofblowjob.tumblr.com^
+||worldofboobs.tumblr.com^
+||worldofceleb.ezthemes.com^
+||worldofcharmaine.com^
+||worldofchina88.com^
+||worldofcicakros.blogspot.com^
+||worldofcrossdressing.com^
+||worldofcruelty.com^
+||worldofcuriositiesexpo.net^
+||worldofcuriositiesexpos.com^
+||worldofcus.nl^
+||worldofcutehotsexyguys.tumblr.com^
+||worldofdirtysunshine.com^
+||worldofdirtysunshine.media^
+||worldofdirtysunshine.net^
+||worldofentertainment.info^
+||worldoferotic.pl^
+||worldoferotica.com^
+||worldoferoticism.blogspot.com^
+||worldoferotik.ch^
+||worldoferotik.de^
+||worldofexperience.com^
+||worldoffantasy.com^
+||worldoffeet.de^
+||worldoffeet.net^
+||worldoffetish.com^
+||worldoffetish.tumblr.com^
+||worldoffiles.ru^
+||worldoffreeuse.tumblr.com^
+||worldofgayglee.tumblr.com^
+||worldofgaysex.blogspot.com^
+||worldofglovefetish.tumblr.com^
+||worldofguys.blogspot.com^
+||worldofhotmen.blogspot.com^
+||worldofindians.com^
+||worldofkink.com^
+||worldoflivecams.com^
+||worldofmaniac.blogspot.com^
+||worldofmature.com^
+||worldofmen.com^
+||worldofmq.com^
+||worldofnaughtyselfies.tumblr.com^
+||worldofodditiesexpo.com^
+||worldofonahole.com^
+||worldofonlinedating.com^
+||worldofparadise.com^
+||worldofpeach.com^
+||worldofphonesex.biz^
+||worldofphonesex.blogspot.com^
+||worldofphonesex.com^
+||worldofphonesex.net^
+||worldofphonesex.org^
+||worldofphonesexandwebcam.com^
+||worldofphonesexandwebcam.webtokens.biz^
+||worldofphonesexblogs.blogspot.com^
+||worldofphonesexblogs.com^
+||worldofpinup.com^
+||worldofplayboy.com^
+||worldofplumpers.com^
+||worldofporn.blogspot.com^
+||worldofporn.com^
+||worldofporncraft.net^
+||worldofporncraft3d.adultvirtuality.com^
 ||worldofporncraft3d.com^
 ||worldofporno.com^
 ||worldofporno.net^
@@ -22042,6 +22130,7 @@
 ||xteen.name^
 ||xteen.org^
 ||xteen.webpark.sk^
+||xteen18.com^
 ||xteen18.net^
 ||xteenagetruthsx.tumblr.com^
 ||xteenanal.com^
@@ -42388,6 +42477,7 @@
 ||yebxmch.org.cn^
 ||yebzy.com^
 ||yecalacey.tumblr.com^
+||yecaozhi.top^
 ||yechao.site^
 ||yechaorong.com^
 ||yechenggifts.com^

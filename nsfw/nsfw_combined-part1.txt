@@ -2,8 +2,8 @@
 ! Title: !  Cribrum NSFW (part 1)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20261113
-! Last modified: November 13, 2026
+! Version: 20261114
+! Last modified: November 14, 2026
 ! Entries: 500000
 
 ||0----q.tumblr.com^
@@ -226,7 +226,9 @@
 ||003xx.com^
 ||003xxx.com^
 ||0042055.com^
+||0043av.com^
 ||0045678.com^
+||0047av.com^
 ||00481.com^
 ||0048av.com^
 ||00497.cn^
@@ -236,7 +238,9 @@
 ||004sexamateurs.startplezier.nl^
 ||005149.cn^
 ||005288.org.cn^
+||0053av.com^
 ||0055betsextou.com^
+||0057av.com^
 ||005as.com^
 ||005n.com^
 ||005qs.com^
@@ -324,6 +328,9 @@
 ||007xxxadultvideos.com^
 ||007ya.com^
 ||0080.com.tw^
+||0080av.com^
+||0081av.com^
+||0083av.com^
 ||0084.top^
 ||0085256969.blogspot.com^
 ||00852tax.com^
@@ -386,6 +393,7 @@
 ||00mz.com^
 ||00nakedasianmales.tumblr.com^
 ||00o3.com^
+||00ogqb.garden^
 ||00p7.com^
 ||00porn.cc^
 ||00porn.com^
@@ -954,6 +962,7 @@
 ||037avhd.com^
 ||037clipx.com^
 ||037clipx.net^
+||037clipx.org^
 ||037clipxx.com^
 ||037clipxx.net^
 ||037clipxxx-ewg.pages.dev^
@@ -38729,6 +38738,7 @@
 ||91porn19.xyz^
 ||91porn2.co^
 ||91porn2.love^
+||91porn2.net^
 ||91porn2.pages.dev^
 ||91porn2.vip^
 ||91porn2.wtf^
@@ -38750,6 +38760,7 @@
 ||91porn29.xyz^
 ||91porn3.co^
 ||91porn3.love^
+||91porn3.net^
 ||91porn3.sbs^
 ||91porn3.vip^
 ||91porn3.wiki^
@@ -44799,6 +44810,7 @@
 ||abhayavachatwows.blogspot.com^
 ||abhi-dragonballzwows.blogspot.com^
 ||abhifoods.com^
+||abhinaycallgirls.com^
 ||abhinayescorts.com^
 ||abhisex.com^
 ||abhivyakti-hindi.org^
@@ -49623,6 +49635,7 @@
 ||adiyamanaktuel.com^
 ||adiyamanbayeni.com^
 ||adiyamanescort.cfd^
+||adiyamanescortbulucu.xyz^
 ||adiyamanescortcu.xyz^
 ||adiyamanescortgo.com^
 ||adiyamanescorthot.com^
@@ -94275,6 +94288,7 @@
 ||anyporncom.com^
 ||anyporner.com^
 ||anypornhd.com^
+||anypornhub.online^
 ||anypornlist.top^
 ||anypornlive.com^
 ||anypornmovies.com^
@@ -117920,6 +117934,7 @@
 ||babewixer.com^
 ||babeworld.dk^
 ||babeworship.com^
+||babexcam.com^
 ||babexhib.free.fr^
 ||babexl.com^
 ||babexneatsjuliana.tumblr.com^
@@ -117997,6 +118012,7 @@
 ||babogayahotelandresorts.com^
 ||babooms.uk^
 ||baboooms.com^
+||babooshka.live^
 ||babosas-xxx.com^
 ||babosas.biz^
 ||babosas.com^
@@ -118091,12 +118107,14 @@
 ||baby.rompl.net^
 ||baby.xxx^
 ||baby1518.tumblr.com^
+||baby176.com^
 ||baby1994.tumblr.com^
 ||baby484.info^
 ||baby493.info^
 ||baby4life1.tumblr.com^
 ||baby520.com^
 ||baby665.info^
+||baby777.com^
 ||baby8.us^
 ||baby872.com^
 ||baby_fanny.bookspace.fr^
@@ -161883,9 +161901,11 @@
 ||bmilf.org^
 ||bmit.com.br^
 ||bmitchellxxx.tumblr.com^
+||bmjqva1.garden^
 ||bmk14.com^
 ||bmk88.com^
 ||bmkar.com^
+||bml35w1.garden^
 ||bmlii.cn^
 ||bmm061.sbs^
 ||bmm6666.com^
@@ -188811,6 +188831,7 @@
 ||cam-privat.net^
 ||cam-pus.de^
 ||cam-pussy.com^
+||cam-rank.com^
 ||cam-record.com^
 ||cam-rencontre.fr^
 ||cam-rips.com^
@@ -189912,6 +189933,7 @@
 ||camcaza.es^
 ||camcc.cn^
 ||camcelebs.com^
+||camcentral.live^
 ||camcentral.org^
 ||camcentrum.be^
 ||camcentrum.eu^
@@ -190704,6 +190726,7 @@
 ||camfinder.net^
 ||camfinder.xxx^
 ||camfinder24.de^
+||camfindr.com^
 ||camfindr.xxx^
 ||camfitfun.tumblr.com^
 ||camfizz.com^
@@ -190798,6 +190821,7 @@
 ||camfun.ch^
 ||camfun.com^
 ||camfun.de^
+||camfun.live^
 ||camfun.net^
 ||camfun.org^
 ||camfun.pw^
@@ -190951,6 +190975,7 @@
 ||camgirleuphoria.com^
 ||camgirlexposed.com^
 ||camgirlfacts.com^
+||camgirlfan.com^
 ||camgirlfans.com^
 ||camgirlfap.com^
 ||camgirlfetish.com^
@@ -190964,6 +190989,7 @@
 ||camgirlfun.com^
 ||camgirlgalleries.com^
 ||camgirlgallery.com^
+||camgirlgang.com^
 ||camgirlgattinavogliosa.blogspot.com^
 ||camgirlhangout.com^
 ||camgirlheaven.com^
@@ -191342,6 +191368,7 @@
 ||camgrid.live^
 ||camgrilsforever.tumblr.com^
 ||camgrl.com^
+||camgrls.com^
 ||camgrrls.blogspot.com^
 ||camgrrls.com^
 ||camguest.com^
@@ -191627,6 +191654,7 @@
 ||camjog.com^
 ||camjoie.com^
 ||camjoiecom.blogspot.com^
+||camjojo.com^
 ||camjoy.co^
 ||camjoy.com^
 ||camjoyx.com^
@@ -191754,6 +191782,7 @@
 ||camluders.co.uk^
 ||camluders.com^
 ||camlunar.com^
+||camlure.com^
 ||camlust.com^
 ||camlust.live^
 ||camlust.nl^
@@ -191763,6 +191792,7 @@
 ||camm.in^
 ||camm.nl^
 ||cammado.com^
+||cammaedchen.com^
 ||cammafia.com^
 ||cammale.com^
 ||cammales4.com^
@@ -191935,6 +191965,7 @@
 ||camnextdoor.com^
 ||camnicky.startspot.nl^
 ||camnights.com^
+||camnipples.com^
 ||camnnteenweb-fw4.blogspot.com^
 ||camnor.com^
 ||camnotifier.com^
@@ -191981,6 +192012,7 @@
 ||camonster.porn^
 ||camonster.sex^
 ||camonster.tube^
+||camonster.tv^
 ||camonster.xyz^
 ||camonster1.com^
 ||camooon.blogspot.com^
@@ -192326,6 +192358,7 @@
 ||camrandomizer.com^
 ||camrank.cam^
 ||camranking.com^
+||camrave.com^
 ||camrebels.com^
 ||camrec.top^
 ||camrecord.com^
@@ -225945,6 +225978,7 @@
 ||closeuppussyandasshole.tumblr.com^
 ||closeuppussynsfwblog.tumblr.com^
 ||closeuppussyshots.tumblr.com^
+||closeups.com^
 ||closeups.xyz^
 ||closeupsecrets.blogspot.com^
 ||closeupselfies.tumblr.com^
@@ -258564,6 +258598,7 @@
 ||darkgirlswirl.tumblr.com^
 ||darkglamandsexy.tumblr.com^
 ||darkgloryhole.com^
+||darkgoddesslilith.com^
 ||darkgoddesstemple.com^
 ||darkgoose.com^
 ||darkgracie.com^
@@ -270430,6 +270465,7 @@
 ||dgxhys8.com^
 ||dgxianbo.com^
 ||dgxianghong.com^
+||dgxicheng.com^
 ||dgxiehuazdh.com^
 ||dgxind.com^
 ||dgxinghai.com^
@@ -307803,6 +307839,7 @@
 ||eromancer.com^
 ||eromancergames.com^
 ||eromanga-cafe.com^
+||eromanga-douzin.com^
 ||eromanga-erodoujingazou.com^
 ||eromanga-fantasy.com^
 ||eromanga-god.com^
@@ -307812,6 +307849,8 @@
 ||eromanga-mania.com^
 ||eromanga-milf.com^
 ||eromanga-muryo.net^
+||eromanga-muryou-hitomi-62.net^
+||eromanga-muryou-hitomi-63.com^
 ||eromanga-park.net^
 ||eromanga-ranking.jp^
 ||eromanga-review.com^
@@ -439855,6 +439894,7 @@
 ||hametorisen.com^
 ||hamezo.com^
 ||hamham-soft.net^
+||hamichira.com^
 ||hamil.lol^
 ||hamilelikrehberi.com^
 ||hamilfamilyfuneralhome.com^
@@ -481922,6 +481962,7 @@
 ||housewife-tube.net^
 ||housewife-tubes.com^
 ||housewife-whores.tumblr.com^
+||housewife.homes^
 ||housewife.nl^
 ||housewife1on1.com^
 ||housewife1on1.org^
@@ -488564,6 +488605,7 @@
 ||hydievpornovideo.online^
 ||hydievpornovideo.top^
 ||hydiewatersghettogaggers.com^
+||hydj1.com^
 ||hydlhg.com^
 ||hydmodels.in^
 ||hydodofyciluf.blogspot.com^
@@ -499964,45 +500006,3 @@
 ||indiangirlsnaked.net^
 ||indiangirlsnudephotos.blogspot.com^
 ||indiangirlsnudepic.blogspot.com^
-||indiangirlsnudes.com^
-||indiangirlsofimpossibility.nedrobin.net^
-||indiangirlspictures.com^
-||indiangirlsporn.com^
-||indiangirlsporn.net^
-||indiangirlspornmovies.blogspot.com^
-||indiangirlssexwidmen.blogspot.com^
-||indiangirlx.blogspot.com^
-||indiangoddess.com^
-||indiangoddesses.com^
-||indiangrls.com^
-||indiangroupsex.com^
-||indianhairypussy.blogspot.com^
-||indianhairypussy.net^
-||indianhamster.com^
-||indianhamster.pro^
-||indianhandjob.com^
-||indianhardcock.tumblr.com^
-||indianhardcore.cjb.net^
-||indianhardcore.com^
-||indianhardcore.info^
-||indianhardcore.net^
-||indianhardcoreporn.com^
-||indianhardfuck.net^
-||indianhardporn.com^
-||indianhardtube.com^
-||indianhdporn.online^
-||indianhdpornvideos.com^
-||indianheaven.blogspot.com^
-||indianhiddencams.com^
-||indianhomemadeporn.online^
-||indianhomemadeuncensored.com^
-||indianhomesex.com^
-||indianhomevideo.com^
-||indianhomevideo.net^
-||indianhooker.com^
-||indianhostesses.com^
-||indianhot.pro^
-||indianhotactresses606.blogspot.com^
-||indianhotbabes.blogspot.com^
-||indianhotboobies.blogspot.com^
-||indianhotestsexstories.blogspot.com^
