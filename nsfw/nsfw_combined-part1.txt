@@ -2,8 +2,8 @@
 ! Title: !  Cribrum NSFW (part 1)
 ! Description: Block Adult content
 ! Homepage: https://github.com/DevShubam/Filters
-! Version: 20261115
-! Last modified: November 15, 2026
+! Version: 20261116
+! Last modified: November 16, 2026
 ! Entries: 500000
 
 ||0----q.tumblr.com^
@@ -86664,6 +86664,7 @@
 ||analnoe-porno.wtf^
 ||analnoe-porno.xyz^
 ||analnoe.com^
+||analnoe24.baby^
 ||analnoe24.best^
 ||analnoe24.com^
 ||analnoe24.live^
@@ -164129,6 +164130,7 @@
 ||bokepboz.net^
 ||bokepboz.org^
 ||bokepboz.tv^
+||bokepboztv.com^
 ||bokepbrut.co^
 ||bokepbrut.in^
 ||bokepbugildewasa.blogspot.com^
@@ -164641,6 +164643,7 @@
 ||bokepindox.me^
 ||bokepindox.pro^
 ||bokepindox.sbs^
+||bokepindox.video^
 ||bokepindox.vip^
 ||bokepindox.work^
 ||bokepindox99.blogspot.com^
@@ -214393,6 +214396,7 @@
 ||cheekycock86.tumblr.com^
 ||cheekycouple69.tumblr.com^
 ||cheekycunt.com^
+||cheekydaters.com^
 ||cheekydollssublimedesire.tumblr.com^
 ||cheekyfemboys.com^
 ||cheekyflirt.com^
@@ -216526,6 +216530,7 @@
 ||chichepaschiche.canalblog.com^
 ||chicherotico.com.ar^
 ||chichgai.one^
+||chichgai.org^
 ||chichgaixinh.vip^
 ||chichhocsinh.blog^
 ||chichi-bu.com^
@@ -282566,6 +282571,7 @@
 ||dogfartblog.com^
 ||dogfartdaily.com^
 ||dogfartdogfart.com^
+||dogfartfilms.com^
 ||dogfartgaycams.com^
 ||dogfartinterracial.com^
 ||dogfartlive.com^
@@ -337366,6 +337372,7 @@
 ||fapteentube.com^
 ||fapteenz.com^
 ||fapthat.com^
+||fapthot.com^
 ||faptica.com^
 ||faptime.fun^
 ||faptime.li^
@@ -352849,6 +352856,7 @@
 ||findyourbabe.com^
 ||findyourescorts.com^
 ||findyourgay.com^
+||findyourlocalflirt.com^
 ||findyourlove.free.fr^
 ||findyourmilf.com^
 ||findyourmilf.net^
@@ -357168,6 +357176,7 @@
 ||floodmasters.com^
 ||floodsjourney.tumblr.com^
 ||floofa.blogspot.com^
+||floofgens.net^
 ||flooody.tumblr.com^
 ||flooporn.com^
 ||flooporn.maitresse-cathy.com^
@@ -358828,6 +358837,7 @@
 ||footchaos.com^
 ||footcharms.com^
 ||footcleaningcaffe.com^
+||footclips.com^
 ||footclub.free.fr^
 ||footcore.com^
 ||footcravings.com^
@@ -499996,13 +500006,3 @@
 ||incesteporno.com^
 ||incesteporno.me^
 ||incesteporno.pro^
-||incestepornofrancais.fr^
-||incester.com^
-||incester.mxload.org^
-||incesterotica.com^
-||incesterotica.tumblr.com^
-||incestetv.com^
-||incestexplorer.com^
-||incestexposed.com^
-||incestfamilie.be^
-||incestfamilies.com^
